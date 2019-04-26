@@ -2,9 +2,9 @@
  A Knowledge-Constraint Typing Annotation Tool
 
 ## Entity Linking
-deploy entity linking system by [Mulrel](https://github.com/lephong/mulrel-nel)
+download code and data from [Mulrel](https://github.com/lephong/mulrel-nel)
 
-replace the source ".py" code with our ".py" code in directory "EL", run test.py to run the api.
+replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL"
 Train the model by
 
     export PYTHONPATH=$PYTHONPATH:../
