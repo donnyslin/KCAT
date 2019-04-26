@@ -1,0 +1,29 @@
+Bodies found at site of Russian jet crash - officials .
+OSLO 1996-08-29
+Bodies have been sighted but no survivors have yet been found at the site of Thursday 's crash of a Russian airliner on Norway 's remote Arctic island of Spitzbergen , Norwegian officials said .
+" We have found dead people , " said Rune Hansen , the island 's deputy governor , told Norwegian television .
+The Norwegian news agency NTB quoted another official on the island as saying no survivors had been found .
+The Vnukovo Airlines Tupolev 154 flight from Moscow , carrying 129 passengers and a crew of 12 , crashed in bad weather 10 km ( six miles ) east of Longyearbyen , the island 's only airstrip , officials said .
+First rescuers arrived shortly after 1 p.m. ( 1100 GMT ) and reported soon afterwards that most of the three-engine jet 's wreckage was scattered around the top of the small Opera mountain while the rest had slid down the mountainside .
+Air traffic officials said they had lost contact with the flight , scheduled to arrive at around 10.15 a.m. ( 0815 GMT ) , shortly before it was due to land .
+Spitzbergen is a Norwegian coal-mining settlement .
+The only other community is in the Russian village of Barentsburg .
+Russia and Norway share the island 's resources under a treaty dating back to the 1920s .
+%%TYPE_ANNOTATIONS%%
+24	30	Russia
+56	59	Oslo
+172	178	Russia
+192	197	Norway
+209	214	Arctic
+240	248	Norway
+355	363	Norway
+382	390	Norway
+531	536	Moscow
+634	645	Longyearbyen
+747	749	Greenwich_Mean_Time
+1048	1050	Greenwich_Mean_Time
+1109	1117	Norway
+1179	1185	Russia
+1198	1208	Barentsburg
+1212	1217	Russia
+1223	1228	Norway

@@ -1,0 +1,19 @@
+SOCCER - BARCELONA BEAT ATLETICO 5-2 IN SUPERCUP .
+BARCELONA 1996-08-26
+Barcelona beat Atletico Madrid 5-2 ( halftime 2-1 ) in the Spanish Supercup on Sunday :
+Scorers :
+Barcelona - Ronaldo ( 5th and 89th minutes ) , Giovanni ( 31st ) , Pizzi ( 73rd ) , De la Pena ( 75th )
+Atletico Madrid - Esnaider ( 37th ) , Pantic ( 57th , penalty )
+Attendance 30,000
+%%TYPE_ANNOTATIONS%%
+9	17	FC_Barcelona
+40	47	Supercopa_de_España
+51	59	Barcelona
+72	80	FC_Barcelona
+87	101	Atlético_Madrid
+131	146	Supercopa_de_España
+170	178	FC_Barcelona
+182	188	Ronaldo
+217	224	Giovanni_Silva_de_Oliveira
+237	241	Juan_Antonio_Pizzi
+274	288	Atlético_Madrid

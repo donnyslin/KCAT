@@ -1,0 +1,11 @@
+SOCCER - DUTCH FIRST DIVISION RESULT .
+AMSTERDAM 1996-08-22
+Result of a Dutch first
+division match on Thursday :
+NEC Nijmegen 1 PSV Eindhoven 4
+%%TYPE_ANNOTATIONS%%
+9	13	Netherlands
+39	47	Amsterdam
+72	76	Netherlands
+113	124	N.E.C._(football_club)
+128	140	PSV_Eindhoven

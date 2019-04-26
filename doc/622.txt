@@ -1,0 +1,39 @@
+Hijacked Sudan plane expected at London 's Stansted .
+LONDON 1996-08-27
+A hijacked Sudan Airways plane with 199 passengers and crew on board was expected to land at London 's Stansted airport later on Tuesday morning , a police spokeswoman said .
+" That is the plan at the moment .
+That is where the plane is being directed to , " Ruth Collin of Essex police , the force responsible for Stansted , said .
+Stansted , London 's third-busiest airport after Heathrow and Gatwick , is located about 30 miles ( 48 km ) northeast of the capital .
+British officials said they would much prefer to deal with a hijacking at Stansted because of its relatively remote location and because air traffic would be less badly disrupted there than at Heathrow or Gatwick .
+They said police and the emergency services were implementing a well-rehearsed contingency plan to handle the hijacking .
+The armed hijackers of the Airbus 310 Flight 150 , which is expected to arrive about 4 a.m. ( 0300 GMT ) , have said they intend to surrender and seek political asylum in Britain .
+The plane was hijacked on its way from Khartoum to the Jordanian capital Amman on Monday evening and landed at Larnaca airport in Cyprus to refuel .
+The identity and number of the hijackers was not known .
+One of them negotiated through the pilot in English .
+The pilot said several hijackers appeared to be placed around the plane .
+%%TYPE_ANNOTATIONS%%
+9	13	Sudan
+33	38	London
+43	50	London_Stansted_Airport
+54	59	London
+83	95	Sudan_Airways
+165	170	London
+175	182	London_Stansted_Airport
+346	350	Essex
+387	394	London_Stansted_Airport
+405	412	London_Stansted_Airport
+416	421	London
+454	461	London_Heathrow_Airport
+467	473	Gatwick_Airport
+540	546	United_Kingdom
+614	621	London_Stansted_Airport
+733	740	London_Heathrow_Airport
+745	751	Gatwick_Airport
+976	978	Greenwich_Mean_Time
+1048	1054	United_Kingdom
+1097	1104	Khartoum
+1113	1121	Jordan
+1131	1135	Amman
+1169	1175	Larnaca
+1188	1193	Cyprus
+1308	1314	English_language

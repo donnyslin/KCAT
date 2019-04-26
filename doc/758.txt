@@ -1,0 +1,15 @@
+Israel 's Levy to meet Mubarak in Egypt .
+JERUSALEM 1996-08-28
+Israeli Foreign Minister David Levy will visit Egypt this Sunday for talks with President Hosni Mubarak , the Foreign Ministry said on Wednesday .
+The trip will be Levy 's first to an Arab state as a minister in Prime Minister Benjamin Netanyahu 's government .
+%%TYPE_ANNOTATIONS%%
+0	5	Israel
+23	29	Hosni_Mubarak
+34	38	Egypt
+42	50	Jerusalem
+63	69	Israel
+88	97	David_Levy_(Israeli_politician)
+110	114	Egypt
+153	165	Hosni_Mubarak
+173	188	Ministry_of_Foreign_Affairs_(Israel)
+290	307	Benjamin_Netanyahu

@@ -1,0 +1,14 @@
+Czech coach in fatal crash in Austria .
+VIENNA 1996-08-24
+A Czech coach crashed and burst into flames on a southern Austrian motorway early on Saturday , killing one person and injuring 15 , police said .
+Austrian television said the coach , which was carrying 45 , was en route from the Czech Republic to Italy when the accident occurred near Steinberg , 200 km southwest of Vienna .
+%%TYPE_ANNOTATIONS%%
+0	4	Czech_Republic
+30	36	Austria
+40	45	Vienna
+60	64	Czech_Republic
+116	123	Austria
+205	212	Austria
+288	301	Czech_Republic
+306	310	Italy
+376	381	Vienna

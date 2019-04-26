@@ -1,0 +1,36 @@
+Nepal wo n't help split Tibet , king tells China .
+BEIJING 1996-08-24
+King Birendra of Nepal has told China his nation will not become the tool of people who want Tibetan independence from Beijing , the official China Daily newspaper said on Saturday .
+King Birendra , in Tibet at the start of a one-week unofficial visit to China , said the Nepalese government had " maintained a sharp vigilance against such intentions " , the newspaper said .
+Nepal shares a long mountain border with the restive Himalayan region , where opposition to Beijing 's four-decade rule is widespread .
+Chinese official media has often accused foreign forces , notably the United States , of seeking to support Tibetan independence activists .
+King Birenda told Gyaicain Norbu , chairman of the Tibetan government , that Nepal would not " become a tool for others to split Tibet " , the newspaper said .
+Gyaicain told the royal visitor increased cooperation between Nepal and Tibet was possible in the fields of trade , tourism , communications and sports , it said .
+It gave no details .
+%%TYPE_ANNOTATIONS%%
+0	4	Nepal
+24	28	Tibet
+43	47	People's_Republic_of_China
+51	57	Beijing
+75	82	Birendra_of_Nepal
+87	91	Nepal
+102	106	People's_Republic_of_China
+163	169	Tibet
+189	195	Beijing
+212	222	China_Daily
+258	265	Birendra_of_Nepal
+272	276	Tibet
+325	329	People's_Republic_of_China
+342	349	Nepal
+446	450	Nepal
+499	507	Himalayas
+538	544	Beijing
+582	588	People's_Republic_of_China
+652	664	United_States
+690	696	Tibet
+728	734	Birendra_of_Nepal
+774	780	Tibet
+800	804	Nepal
+852	856	Tibet
+945	949	Nepal
+955	959	Tibet

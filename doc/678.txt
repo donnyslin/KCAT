@@ -1,0 +1,71 @@
+SOCCER - SMICER 'S LAST-GASP GOAL KEEPS LENS IN THE LEAD .
+PARIS 1996-08-28
+Euro 96 star Vladimir Smicer of the Czech Republic scored at the last second for Lens , allowing them to retain the lead in the French soccer league on Wednesday .
+Smicer pushed the ball home in injury time to lead his team to a 3-2 victory over Montpellier , who were leading 2-1 until Cameroon 's Marc-Vivien Foe equalised on a header in the 85th minute .
+The win was the fourth in as many matches this season for Lens , who lead the table on 12 points .
+In-form Paris St Germain , who dismissed Nantes 1-0 , are second with 10 points .
+Along with Smicer , Robert Pires was the star of the night in France , scoring the first hat-trick of the league season in Metz 's 3-1 home victory over neighbouring Strasbourg .
+Pires , one of the most promising strikers in the country , was called up for the first time this week by French manager Aime Jacquet for a friendly against Mexico on Saturday at the Parc des Princes .
+Pires scored first with a powerful shot in the 35th minute before striking again from close range just before the break .
+A solitary raid allowed him to score his third in the 74th .
+Smicer 's goal was as hard-won as his team 's victory .
+Spurred by Foe 's leveller five minutes before , Lens pressed hard and Foe hit the crossbar in the dying seconds on another header .
+The ball bounced back to Smicer 's feet and he scored .
+Montpellier seized an unexpected lead thanks to Kader Ferhaoui in the fourth minute after a blunder from Lens goalkeeper Jean-Claude Nadon .
+The side from northern France , forced to fight an uphill battle from then on , pulled level thanks to Tony Vairelles in the eighth minute but young striker Fabien Lefevre made it two for Montpellier five minutes later .
+League favourites PSG scored a convincing 1-0 win over Nantes and confirmed they would again be the team to beat this season .
+Ironically , PSG 's victory owed a lot to two former Nantes players , striker Patrice Loko , who scored on a brilliant shot in the 33rd minute , and defender Benoit Cauet , who started the one-two which allowed Loko to score .
+The Parisians , who have yet to concede a goal , were without Brazil 's Leonardo and Panama 's Julio Cesar Dely Valdes , both called up by their national sides .
+For Nantes , who shocked PSG to win the league crown two years ago , the fall is very painful .
+The Canaries , who lost most of their key players within two years , have yet to win a match this season .
+Reigning champions Auxerre had to settle for a goalless draw against Marseille on Tuesday .
+%%TYPE_ANNOTATIONS%%
+9	14	Vladimír_Šmicer
+40	43	RC_Lens
+59	63	Paris
+76	82	UEFA_Euro_1996
+89	103	Vladimír_Šmicer
+112	125	Czech_Republic
+157	160	RC_Lens
+204	209	France
+240	245	Vladimír_Šmicer
+322	332	Montpellier_HSC
+363	370	Cameroon
+375	389	Marc-Vivien_Foé
+492	495	RC_Lens
+541	556	Paris_Saint-Germain_F.C.
+574	579	FC_Nantes
+626	631	Vladimír_Šmicer
+635	646	Robert_Pirès
+677	682	France
+738	741	FC_Metz
+781	790	RC_Strasbourg
+794	798	Robert_Pirès
+900	905	France_national_football_team
+915	926	Aimé_Jacquet
+951	956	Mexico_national_football_team
+977	992	Parc_des_Princes
+996	1000	Robert_Pirès
+1179	1184	Vladimír_Šmicer
+1284	1287	RC_Lens
+1393	1398	Vladimír_Šmicer
+1424	1434	Montpellier_HSC
+1472	1485	Kader_Ferhaoui
+1529	1532	RC_Lens
+1588	1593	France
+1668	1681	Tony_Vairelles
+1753	1763	Montpellier_HSC
+1804	1806	Paris_Saint-Germain_F.C.
+1841	1846	FC_Nantes
+1926	1928	Paris_Saint-Germain_F.C.
+1966	1971	FC_Nantes
+1991	2002	Patrice_Loko
+2071	2082	Benoît_Cauet
+2124	2127	Patrice_Loko
+2202	2207	Brazil
+2225	2230	Panama
+2235	2257	Julio_Dely_Valdés
+2306	2311	FC_Nantes
+2327	2329	Paris_Saint-Germain_F.C.
+2524	2530	AJ_Auxerre
+2574	2582	Olympique_de_Marseille

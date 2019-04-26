@@ -1,0 +1,22 @@
+Polish diplomat denies nurses stranded in Libya .
+TUNIS 1996-08-22
+A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .
+" This is not true .
+Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , " the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .
+Poland 's labour ministry said this week it would send a team to Libya to investigate , but Awdankiewicz said the probe was prompted by some nurses complaining about their work conditions such as non-payment of their salaries .
+He said that there are an estimated 800 Polish nurses working in Libya .
+%%TYPE_ANNOTATIONS%%
+0	5	Poland
+42	46	Libya
+50	54	Tunis
+69	74	Poland
+106	111	Poland
+143	147	Libya
+180	185	Poland
+350	354	Libya
+422	427	Poland
+499	505	Reuters
+522	527	Poland
+587	591	Libya
+790	795	Poland
+815	819	Libya

@@ -1,0 +1,67 @@
+TENNIS - GRAF WORKS HARD FOR FIRST-ROUND WIN .
+Bill Berkrot
+NEW YORK 1996-08-27
+It was n't supposed to be this hard for defending champion Steffi Graf to win her opening match at the U.S. Open on Tuesday night .
+But the script that called for the usual first-round demolition by the top-ranked top seed was rewritten by 29th-ranked Indonesian Yayuk Basuki playing with nothing to lose abandon .
+Graf , of course , prevailed 6-3 7-6 , but not before some tense moments that even had the German superstar thinking the match was going three sets .
+" I won the second set , which I did n't think I would do , being down 5-2 and the chances she had at 6-5 , " Graf recalled .
+Several of the other women 's seeds eased into the second round with more typical Graf-like efficiency Tuesday .
+As afternoon turned to evening , fourth-seeded Spaniard Conchita Martinez took apart Romanian Ruxandra Dragomir in 58 minutes with the loss of just two games , one more than second seed Monica Seles , who opened the second-day programme by crushing American Anne Miller 6-0 6-1 .
+Third seed Arantxa Sanchez Vicario , the 1994 champion , and eighth-seeded Olympic gold medalist Lindsay Davenport dropped three game each en route to the second round .
+But the day was not without its seeded casualties on the women 's side .
+Fifth-seed Iva Majoli of Croatia was picked off by Austrian Judith Wiesner and Wimbledon semifinalist Kimiko Date of Japan , the 10th seed , fell 6-2 7-5 to 53rd-ranked American Kimberly Po .
+Date 's defeat left no other seeded players in Seles 's quarter of the draw , which lost Anke Huber ( 6 ) and Maggie Maleeva ( 12 ) on Monday .
+But Graf , winner of 20 Grand Slam titles , was not about to join that list .
+" At some points I felt a little nervous , " she admitted . "
+When it came down to the important points , I felt more confident . "
+Basuki , a first-round loser here for the fifth consecutive year , was clearly going for winners , hitting the lines and running Graf around the court as she broke the top seed twice in the second set to grab that shocking 5-2 lead .
+Graf ran off the next three games to restore some semblance of order .
+But Basuki , her long black ponytail flying as she raced for shots , held her serve and twice had set point on Graf 's serve at 6-5 before the German unleashed a forehand pass to force the tie-break .
+" I lost the moment , " lamented Basuki , who has reached the fourth round at Wimbledon four times and was a semifinalist in Montreal earlier this month .
+Still , the feisty Indonesian got off to a 3-0 lead in the tie-breaker before a pair of costly double faults gave Graf her chance to avoid a third set .
+" Usually in the first one or two matches , you want to find your rhythm and want to get into it , " said Graf , who won seven of the last eight points in the breaker .
+" To be in that situation today , a couple of times having to play well , get down and play point-by-point , definitely is a good start . "
+%%TYPE_ANNOTATIONS%%
+9	12	Steffi_Graf
+60	67	New_York_City
+139	149	Steffi_Graf
+183	191	US_Open_(tennis)
+332	341	Indonesia
+343	354	Yayuk_Basuki
+395	398	Steffi_Graf
+486	491	Germany
+655	658	Steffi_Graf
+831	838	Spain
+840	856	Conchita_Martínez
+869	876	Romania
+878	894	Ruxandra_Dragomir
+970	981	Monica_Seles
+1033	1040	United_States
+1075	1097	Arantxa_Sánchez_Vicario
+1139	1145	Summer_Olympic_Games
+1161	1177	Lindsay_Davenport
+1318	1327	Iva_Majoli
+1332	1338	Croatia
+1358	1365	Austria
+1367	1380	Judith_Wiesner
+1386	1394	Wimbledon_Championships
+1409	1419	Kimiko_Date_Krumm
+1424	1428	Japan
+1476	1483	United_States
+1485	1495	Kimberly_Po
+1546	1550	Monica_Seles
+1588	1597	Anke_Huber
+1647	1650	Steffi_Graf
+1667	1676	Grand_Slam_(tennis)
+1853	1858	Yayuk_Basuki
+1982	1985	Steffi_Graf
+2087	2090	Steffi_Graf
+2162	2167	Yayuk_Basuki
+2269	2272	Steffi_Graf
+2301	2306	Germany
+2392	2397	Yayuk_Basuki
+2437	2445	Wimbledon_Championships
+2484	2491	Montreal
+2533	2542	Indonesia
+2628	2631	Steffi_Graf
+2773	2776	Steffi_Graf

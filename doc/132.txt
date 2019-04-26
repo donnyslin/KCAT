@@ -1,0 +1,33 @@
+TENNIS - RESULTS AT TOSHIBA CLASSIC .
+[ CORRECTED 05:30 GMT ]
+CARLSBAD , California 1996-08-22
+Results from the
+$ 450,000 Toshiba Classic tennis tournament on Thursday ( prefix
+number denotes seeding ) :
+Quarter-finals
+2 - Conchita Martinez ( Spain ) beat Nathalie Tauziat ( France )
+6-3 6-4
+Second round
+5 - Gabriela Sabatini ( Argentina ) beat Asa Carlsson ( Sweden )
+6-1 7-5
+Katarina Studenikova ( Slovakia ) beat 6 - Karina Habsudova
+( Slovakia ) 7-6 ( 7-4 ) 6-2
+( Corrects that Habsudova is sixth seed ) .
+%%TYPE_ANNOTATIONS%%
+20	34	Southern_California_Open
+56	58	Greenwich_Mean_Time
+62	69	Carlsbad,_California
+73	82	California
+122	136	Southern_California_Open
+223	239	Conchita_Martínez
+243	247	Spain
+256	271	Nathalie_Tauziat
+275	280	France
+309	325	Gabriela_Sabatini
+329	337	Argentina
+346	357	Åsa_Svensson
+361	366	Sweden
+378	397	Katarína_Studeníková
+401	408	Slovakia
+421	436	Karina_Habšudová
+440	447	Slovakia

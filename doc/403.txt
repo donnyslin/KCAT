@@ -1,0 +1,43 @@
+RALLYING - 1,000 LAKES RALLY RESULT / WORLD CHAMPIONSHIP STANDINGS .
+JYVASKLYA , Finland 1996-08-26
+Result of the 1,000 Lakes Rally which ended on Monday :
+1. Tommi Makinen ( Finland ) Mitsubishi Lancer 4 hours 4 minutes
+13 seconds
+2. Juha Kankkunen ( Finland ) Toyota Celica 46 seconds behind
+3. Jarmo Kytolehto ( Finland ) Ford Escort 2:37
+4. Marcus Gronholm ( Finland ) Toyota Celica 2:42
+5. Kenneth Eriksson ( Sweden ) Subaru Impreza 3:22
+6. Thomas Radstrom ( Sweden ) Toyota Celica 4.09
+7. Sebastian Lindholm ( Finland ) Ford Escort 5:17
+8. Lasse Lampi ( Finland ) Mitsubishi Lancer 12:01
+9. Rui Madeira ( Portugal ) Toyota Celica 16:34
+10. Angelo Medeghini ( Italy ) Subaru Impreza 18:28
+%%TYPE_ANNOTATIONS%%
+81	87	Finland
+175	181	Finland
+185	201	Mitsubishi_Lancer
+235	248	Juha_Kankkunen
+252	258	Finland
+262	274	Toyota_Celica
+297	311	Jarmo_Kytölehto
+315	321	Finland
+325	335	Ford_Escort_(Europe)
+345	359	Marcus_Grönholm
+363	369	Finland
+373	385	Toyota_Celica
+395	410	Kenneth_Eriksson
+414	419	Sweden
+423	436	Subaru_Impreza_WRX_STI
+446	460	Thomas_Rådström
+464	469	Sweden
+473	485	Toyota_Celica
+495	512	Sebastian_Lindholm
+516	522	Finland
+526	536	Ford_Escort_(Europe)
+560	566	Finland
+570	586	Mitsubishi_Lancer
+597	607	Rui_Madeira
+611	618	Portugal
+622	634	Toyota_Celica
+665	669	Italy
+673	686	Subaru_Impreza_WRX_STI

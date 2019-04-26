@@ -1,0 +1,20 @@
+SOCCER - COCU DOUBLE EARNS PSV 4-1 WIN .
+AMSTERDAM 1996-08-22
+Philip Cocu scored twice in the second half to spur PSV Eindhoven to a 4-1 away win over NEC Nijmegen in the Dutch first division on Thursday .
+He scored from close range in the 54th minute and from a bicycle kick 13 minutes later .
+Arthur Numan and Luc Nilis , Dutch top scorer last season , were PSV 's other marksmen .
+Ajax Amsterdam opened their title defence with a 1-0 win over NAC Breda on Wednesday .
+%%TYPE_ANNOTATIONS%%
+9	12	Phillip_Cocu
+27	29	PSV_Eindhoven
+41	49	Amsterdam
+62	72	Phillip_Cocu
+114	126	PSV_Eindhoven
+151	162	N.E.C._(football_club)
+171	175	Netherlands
+295	306	Arthur_Numan
+312	320	Luc_Nilis
+324	328	Netherlands
+360	362	PSV_Eindhoven
+384	397	AFC_Ajax
+446	454	NAC_Breda

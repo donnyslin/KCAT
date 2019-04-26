@@ -1,0 +1,30 @@
+CYCLING - FERRIGATO SPRINTS TO SECOND STRAIGHT WORLD CUP WIN .
+ZURICH 1996-08-25
+Andrea Ferrigato of Italy sprinted to his second cycling World Cup win in successive weekends with victory in the Swiss Grand Prix on Sunday .
+Ferrigato , winner of the Leeds Classic last Sunday with a one second win over Britain 's Max Sciandri , posted a similarly narrow margin of victory again .
+The 26-year-old Italian surged past compatriot Michele Bartoli and last year 's winner and defending World Cup champion Johan Museeuw of Belgium in the final few metres of the 237km race .
+All three clocked the same time of five hours 51 minutes , 52 seconds .
+Former world champion Lance Armstrong of the United States was in front as the leading pack of seven riders turned into the Oerlikon velodrome for the final one lap sprint but quickly faded and settled for fourth .
+The back-to-back wins vault Ferrigato from sixth to second in the overall World Cup rankings with 112 points but Museeuw continues to hold a commanding lead with 162 points after eight of the 11 rounds .
+%%TYPE_ANNOTATIONS%%
+10	18	Andrea_Ferrigato
+63	68	Zürich
+81	96	Andrea_Ferrigato
+101	105	Italy
+138	146	UCI_Road_World_Cup
+195	199	Switzerland
+224	232	Andrea_Ferrigato
+250	262	Wincanton_Classic
+303	309	United_Kingdom
+314	325	Max_Sciandri
+397	403	Italy
+428	442	Michele_Bartoli
+482	490	UCI_Road_World_Cup
+501	513	Johan_Museeuw
+518	524	Belgium
+664	678	Lance_Armstrong
+687	699	United_States
+766	773	Oerlikon_(Zürich)
+885	893	Andrea_Ferrigato
+931	939	UCI_Road_World_Cup
+970	976	Johan_Museeuw

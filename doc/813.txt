@@ -1,0 +1,23 @@
+BASKETBALL - OLYMPIAKOS BEAT DINAMO 69-60 .
+BELGRADE 1996-08-29
+Olympiakos of Greece beat Russia 's Dinamo 69-60 ( halftime 35-23 ) in the third match of an international basketball tournament on Thursday , qualifying for the finals .
+Partizan and Red Star of Yugoslavia , Alba of Germany , and Benetton of Italy are also taking part in the event which continues until Saturday .
+Add results
+Partizan beat Benetton 97-94 ( halftime 39-32 ) .
+Final Partizan v Olympiakos .
+%%TYPE_ANNOTATIONS%%
+13	22	Olympiacos_F.C.
+29	34	FC_Dynamo_Moscow
+44	51	Belgrade
+78	83	Greece
+90	95	Russia
+100	105	Dynamo_Sports_Club
+235	242	KK_Partizan
+248	255	KK_Crvena_zvezda
+260	269	Yugoslavia
+281	287	Germany
+295	302	Pallacanestro_Treviso
+307	311	Italy
+392	399	KK_Partizan
+406	413	Pallacanestro_Treviso
+448	455	KK_Partizan

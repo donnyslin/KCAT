@@ -1,0 +1,12 @@
+CRICKET - PAKISTAN 473-6 AT TEA ON FOURTH DAY THIRD TEST .
+LONDON 1996-08-25
+Pakistan were 473-6 at tea on the fourth day of the third and final test at The Oval on Sunday in reply to England 's 326 .
+Scores : England 326 ; Pakistan 473-6 .
+%%TYPE_ANNOTATIONS%%
+10	17	Pakistan_national_cricket_team
+59	64	London
+77	84	Pakistan_national_cricket_team
+153	160	The_Oval
+184	190	England_cricket_team
+210	216	England_cricket_team
+224	231	Pakistan_national_cricket_team

@@ -1,0 +1,30 @@
+PRESS DIGEST - Spain - Aug 29 .
+Headlines from major national newspapers .
+Reuters has not verified these stories and does not vouch for their accuracy .
+EL PAIS
+- Judge accuses government of obstructing investigation into Lasa-Zabala ( two of GAL victims ) case
+EL MUNDO
+- Government wants to charge for prescriptions and some medical services
+DIARIO 16
+- Judge Javier Gomez de Liano says government is obstructing justice
+ABC
+- Prime Minister Jose Maria Aznar , positive assessment
+CINCO DIAS
+- BCH in the hive of Chilean pensions
+EXPANSION
+- Coopers and Lybrand emigrates to Basque Country for fiscal reasons
+GACETA DE LOS NEGOCIOS
+- Government and Catalan nationalists set the scene for budget negotiations
+%%TYPE_ANNOTATIONS%%
+15	19	Spain
+75	81	Reuters
+154	160	El_País
+244	246	Grupos_Antiterroristas_de_Liberación
+263	270	El_Mundo_(Spain)
+345	353	Diario_16
+424	426	ABC_(newspaper)
+445	460	José_María_Aznar
+516	522	Chile
+533	541	Expansión
+578	591	Basque_Country_(greater_region)
+652	658	Catalonia

@@ -1,0 +1,37 @@
+U.S. says Iraqi Kurds agree ceasefire .
+WASHINGTON 1996-08-23
+Leaders of Iraq 's two main Kurdish factions agreed on Friday to end six days of fighting and to attend U.S.-mediated peace talks next month , the State Department said .
+Spokesman Glyn Davies said in a statement that the agreement followed direct U.S. contacts with Massoud Barzani , leader of the Kurdistan Democratic Party ( KDP ) , and Jalal Talabani , leader of the Patriotic Union of Kurdistan ( PUK ) .
+Davies said the two leaders " have agreed to cease the fighting ( and ) return their forces to the positions held before the current fighting began " on August 17 .
+He did not give a specific time for the ceasefire but said the United States looked forward to " immediate implementation " .
+The two party leaders had also agreed to meet U.S. Assistant Secretary for Near Eastern Affairs Robert Pelletreau in September " to solidify the cease-fire and to pursue reconciliation " , Davies said .
+His statement gave no venue or precise date for the meeting .
+The United States has already called on the Kurdish factions to hold peace talks in London .
+The KDP said Thursday night it had repelled an attack by thousands of PUK fighters , killing , wounding or capturing about 400 opposing guerrillas .
+The fighting has threatened a U.S.-led peace plan to unite the mountainous Kurdish region in northern Iraq against President Saddam Hussein .
+%%TYPE_ANNOTATIONS%%
+0	3	United_States
+10	20	Iraqi_Kurdistan
+40	49	Washington,_D.C.
+73	76	Iraq
+90	96	Iraqi_Kurdistan
+209	224	United_States_Department_of_State
+310	313	United_States
+329	343	Massoud_Barzani
+361	386	Kurdistan_Democratic_Party
+390	392	Kurdistan_Democratic_Party
+402	415	Jalal_Talabani
+433	460	Patriotic_Union_of_Kurdistan
+464	466	Patriotic_Union_of_Kurdistan
+700	712	United_States
+809	812	United_States
+838	849	Middle_East
+859	875	Robert_Pelletreau
+1032	1044	United_States
+1072	1078	Iraqi_Kurdistan
+1112	1117	London
+1125	1127	Kurdistan_Democratic_Party
+1191	1193	Patriotic_Union_of_Kurdistan
+1345	1351	Kurdistan
+1372	1375	Iraq
+1395	1408	Saddam_Hussein

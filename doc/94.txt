@@ -1,0 +1,41 @@
+Australia foreign minister arrives in China .
+BEIJING 1996-08-22
+Australian Foreign Minister Alexander Downer arrived in Beijing on Thursday for a four-day visit that follows rising friction between the two nations in recent weeks .
+Downer was to meet Chinese Foreign Minister Qian Qichen and sign an agreement on an Australian consulate in Hong Kong , an official of the Australian embassy in Beijing said .
+China will resume sovereignty over Hong Kong , a British colony , in mid-1997 .
+Relations between China and Australia have been strained in recent weeks because of Australia 's plan to sell uranium to China 's rival Taiwan .
+Other issues affecting ties include plans by an Australian cabinet minister to visit Taiwan , a security pact between Canberra and Washington and a possible visit to Australia next month by Tibet 's exiled spiritual leader the Dalai Lama .
+Downer is the first Australian minister to visit China since the new conservative government took office in Canberra in March .
+%%TYPE_ANNOTATIONS%%
+0	8	Australia
+38	42	People's_Republic_of_China
+46	52	Beijing
+65	74	Australia
+93	108	Alexander_Downer
+121	127	Beijing
+233	238	Alexander_Downer
+252	258	People's_Republic_of_China
+277	287	Qian_Qichen
+317	326	Australia
+341	349	Hong_Kong
+372	381	Australia
+394	400	Beijing
+409	413	People's_Republic_of_China
+444	452	Hong_Kong
+458	464	United_Kingdom
+507	511	People's_Republic_of_China
+517	525	Australia
+573	581	Australia
+610	614	People's_Republic_of_China
+625	630	Republic_of_China
+682	691	Australia
+719	724	Republic_of_China
+752	759	Australia
+765	774	United_States
+800	808	Australia
+824	828	Tibet
+861	870	14th_Dalai_Lama
+874	879	Alexander_Downer
+894	903	Australia
+923	927	People's_Republic_of_China
+982	989	Canberra

@@ -1,0 +1,37 @@
+Prairies saw no frost Monday , none rest of week .
+WINNIPEG 1996-08-26
+Canada 's Prairies saw no frost on Monday morning and none was expected anywhere on the grainbelt until late in the Labour Day long weekend , Environment Canada said .
+" Apparently , we 're home free for the rest of the week .
+We 're not calling for any frost until after the weekend when it starts to cool off in northwestern Alberta after the weekend probably Monday or Tuesday , " meteorologist Gerald Machnee told Reuters .
+Sprague , Manitoba , on the Minnesota border was the cold spot of the Prairies Monday morning at 4.0 Celsius ( 39.2 F ) .
+Temperatures at ground level can be 2.0 to 5.0 Celsius lower than at chest level depending on windspeed , sky conditions and ground surface moisture .
+Freezing occurs at 0 Celsius ( 32.0 F ) .
+North Battleford , Sask .
+, reported a low of 5.0 Celsius ( 41.0 F ) and Grande Prairie , Alta .
+, in the Peace River Valley reported 7.0 Celsius ( 44.6 F ) .
+Machnee dismissed talk of frost Wednesday by proponents of the " full moon , frost soon " school of thought .
+Lows on August 28 across the Prairies should range from 8.0 to 12.0 Celsius with highs around 30.0 Celsius .
+-- Gilbert Le Gras 204 947 3548
+%%TYPE_ANNOTATIONS%%
+0	7	Canadian_Prairies
+51	58	Winnipeg
+71	76	Canada
+81	88	Canadian_Prairies
+187	196	Labour_Day
+213	230	Environment_Canada
+398	404	Alberta
+489	495	Reuters
+499	505	Sprague,_Manitoba
+527	535	Minnesota
+569	576	Canadian_Prairies
+600	606	Celsius
+668	674	Celsius
+793	799	Celsius
+814	829	North_Battleford
+864	870	Celsius
+887	900	Grande_Prairie
+920	937	Peace_River_(Canada)
+952	958	Celsius
+1112	1119	Canadian_Prairies
+1151	1157	Celsius
+1182	1188	Celsius

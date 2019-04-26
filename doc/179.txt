@@ -1,0 +1,21 @@
+Soccer - Kennedy and Phelan both out of Irish squad .
+DUBLIN 1996-08-23
+Two players have withdrawn from the Republic of Ireland squad for the 1998 World Cup qualifying match against Liechenstein on August 31 , the Football Association of Ireland said in a statement on Friday .
+The F.A.I. statement said that Liverpool striker Mark Kennedy and Chelsea defender Terry Phelan were both receiving treatment for injuries and would not be travelling to Liechenstein for the game .
+No replacements had been named .
+-- Damien Lynch , Dublin Newsroom +353 1 6603377
+%%TYPE_ANNOTATIONS%%
+9	15	Mark_Kennedy_(footballer)
+21	26	Terry_Phelan
+40	44	Republic_of_Ireland
+54	59	Dublin
+108	126	Republic_of_Ireland
+147	155	1998_FIFA_World_Cup
+182	193	Liechtenstein_national_football_team
+214	244	Football_Association_of_Ireland
+309	317	Liverpool_F.C.
+327	338	Mark_Kennedy_(footballer)
+344	350	Chelsea_F.C.
+361	372	Terry_Phelan
+448	459	Liechtenstein
+512	523	Damian_Lynch

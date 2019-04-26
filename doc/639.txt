@@ -1,0 +1,15 @@
+CYCLING - KELLY WINS WORLD TIME TRIAL TITLE .
+MANCHESTER , England 1996-08-28
+Shane Kelly of Australia retained the world one-kilometre time trial title at the world track championships on Wednesday , with a track record time of one minute 2.777 seconds .
+Kelly averaged 57.345 kph to beat Soren Lausgberg of Germany by eighteen hundredths of a second .
+The bronze medal went to another German , Jan Van Eijden , in 1:04.541 .
+%%TYPE_ANNOTATIONS%%
+10	14	Shane_Kelly
+46	55	Manchester
+59	65	England
+78	88	Shane_Kelly
+93	101	Australia
+256	260	Shane_Kelly
+309	315	Germany
+387	392	Germany
+396	409	Jan_van_Eijden

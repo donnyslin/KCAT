@@ -1,0 +1,16 @@
+SOCCER - ENGLISH SOCCER RESULTS .
+LONDON 1996-08-30
+Results of English league matches
+on Friday :
+Division two
+Plymouth 2 Preston 1
+Division three
+Swansea 1 Lincoln 2
+%%TYPE_ANNOTATIONS%%
+9	15	England
+34	39	London
+63	69	England
+111	118	Plymouth_Argyle_F.C.
+122	128	Preston_North_End_F.C.
+147	153	Swansea_City_A.F.C.
+157	163	Lincoln_City_F.C.

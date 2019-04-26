@@ -1,0 +1,70 @@
+BASEBALL - YANKEES BRAWL AND CONTINUE TO SLIDE .
+SEATTLE 1996-08-29
+Jay Buhner hit a three-run homer and former Yankee Terry Mulholland allowed one run over seven innings as the Seattle Mariners completed a sweep of New York with a 10-2 victory in a game marred by a bench-clearing brawl .
+Including the last three games of last October 's Divisional Playoff Series , the Mariners have beaten the Yankees 12 of the past 15 meetings overall and 14 of the last 16 in the Kingdome .
+Five players were ejected after Yankees ' outfielder Paul O'Neill and Seattle catcher John Marzano got into a fight after O'Neill had been brushed back .
+In Baltimore , Don Wengert threw a nine-hitter for his first shutout and Jose Herrera had a two-run double in a three-run fifth inning as the Oakland Athletics blanked the Baltimore Orioles 3-0 .
+Wengert ( 7-9 ) , who failed to record a shutout in his previous 86 starts in either the minors or majors , did not walk a batter and struck out three for Oakland .
+In Chicago , James Baldwin scattered five hits over seven scoreless innings and Ray Durham and Ozzie Guillen had RBI hits in the second inning as the Chicago White Sox blanked the Milwaukee Brewers 2-0 .
+Baldwin ( 10-4 ) struck out four and did not walk a batter for Chicago , which won for only the fourth time in 15 games .
+Dave Nilsson had three hits for the Brewers .
+In Kansas City , Jose Offerman 's single with two out in the 12th inning scored Johnny Damon with the winning run and lifted the Kansas City Royals to a 4-3 victory over the Texas Rangers .
+Rick Huisman ( 1-1 ) allowed one hit and a walk in the 12th to post his first major-league win .
+In Toronto , Pat Hentgen tossed a five-hitter for his fifth consecutive complete game and three players drove in two runs apiece as the Toronto Blue Jays defeated the Minnesota Twins 6-1 for their ninth win in 11 games .
+Hentgen ( 17-7 ) surrendered just three doubles and a pair of singles in tossing his major-league leading ninth complete game .
+He walked three and struck out three in winning for the 10th time in his last 11 decisions .
+In Detroit , Orel Hershiser recorded his fourth straight win and Albert Belle snapped a sixth-inning tie with a grand slam as the Cleveland Indians completed a season sweep of the Detroit Tigers with a 9-3 victory .
+Hershiser ( 14-7 ) , who allowed three runs , eight hits and one walk with five strikeouts over seven innings , improved to 4-0 in his last six starts , including a pair of wins over Detroit in the last 11 days .
+At California ,
+In Seattle ,
+%%TYPE_ANNOTATIONS%%
+11	17	New_York_Yankees
+49	55	Seattle
+68	77	Jay_Buhner
+112	117	New_York_Yankees
+119	134	Terry_Mulholland
+178	193	Seattle_Mariners
+216	223	New_York_Yankees
+372	379	Seattle_Mariners
+397	403	New_York_Yankees
+469	476	Kingdome
+512	518	New_York_Yankees
+550	556	Seattle_Mariners
+566	577	John_Marzano
+637	645	Baltimore
+649	659	Don_Wengert
+707	718	José_Herrera_(1990s_outfielder)
+776	792	Oakland_Athletics
+806	822	Baltimore_Orioles
+830	836	Don_Wengert
+985	991	Oakland_Athletics
+998	1004	Chicago
+1008	1020	James_Baldwin_(baseball)
+1075	1084	Ray_Durham
+1090	1102	Ozzie_Guillén
+1145	1161	Chicago_White_Sox
+1175	1191	Milwaukee_Brewers
+1199	1205	James_Baldwin_(baseball)
+1262	1268	Chicago_White_Sox
+1321	1332	Dave_Nilsson
+1357	1363	Milwaukee_Brewers
+1370	1380	Kansas_City,_Missouri
+1384	1396	José_Offerman
+1447	1458	Johnny_Damon
+1496	1513	Kansas_City_Royals
+1541	1553	Texas_Rangers_(baseball)
+1557	1568	Rick_Huisman
+1657	1663	Toronto
+1667	1677	Pat_Hentgen
+1790	1806	Toronto_Blue_Jays
+1821	1835	Minnesota_Twins
+1875	1881	Pat_Hentgen
+2099	2105	Detroit
+2109	2122	Orel_Hershiser
+2161	2172	Albert_Belle
+2226	2242	Cleveland_Indians
+2276	2289	Detroit_Tigers
+2312	2320	Orel_Hershiser
+2495	2501	Detroit_Tigers
+2528	2537	California
+2544	2550	Seattle

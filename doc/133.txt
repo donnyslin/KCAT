@@ -1,0 +1,14 @@
+SOCCER - ENGLISH FIRST DIVISION RESULTS .
+LONDON 1996-08-23
+Results of English first division
+soccer matches on Friday :
+Portsmouth 1 Queens Park Rangers 2
+Tranmere 3 Grimsby 2
+%%TYPE_ANNOTATIONS%%
+9	15	England
+42	47	London
+71	77	England
+121	130	Portsmouth_F.C.
+134	152	Queens_Park_Rangers_F.C.
+156	163	Tranmere_Rovers_F.C.
+167	173	Grimsby_Town_F.C.

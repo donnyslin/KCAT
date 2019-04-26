@@ -1,0 +1,32 @@
+Fifty Russians die in clash with rebels-Interfax .
+MOSCOW 1996-08-22
+At least 50 Russian servicemen have been killed in a battle with separatist rebels which erupted in the Chechen capital Grozny on Thursday and continued after Russia and the rebels agreed a truce , Interfax news agency said .
+Interfax quoted Russian military command in Chechnya as saying that about 200 interior ministry forces , sent on reconaisance mission , clashed with rebels at Minutka Square .
+The Interfax report could not be independently confirmed .
+Moscow peacemaker Alexander Lebed and rebel chief-of-staff Aslan Maskhadov signed an agreement earlier on Thursday under which the two sides would cease all hostilities at noon ( 0800 GMT ) on Friday .
+Interfax made clear that the interior ministry detachment had been sent on the mission before the truce deal had been signed at the local equivalent of 1500 GMT .
+But fierce fighting still raged at 1600 GMT , Interfax said .
+It quoted a source in the Russian command in Chechnya as saying that the servicemen were outnumbered by the rebels .
+%%TYPE_ANNOTATIONS%%
+6	13	Russia
+51	56	Moscow
+81	87	Russia
+189	194	Grozny
+228	233	Russia
+267	274	Interfax
+295	302	Interfax
+311	317	Russia
+339	346	Chechnya
+373	389	Interior_ministry
+475	482	Interfax
+530	535	Moscow
+548	562	Alexander_Lebed
+589	603	Aslan_Maskhadov
+714	716	Greenwich_Mean_Time
+732	739	Interfax
+761	777	Interior_ministry
+889	891	Greenwich_Mean_Time
+935	937	Greenwich_Mean_Time
+941	948	Interfax
+983	989	Russia
+1002	1009	Chechnya

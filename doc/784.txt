@@ -1,0 +1,33 @@
+China says militant Japan must face war past .
+BEIJING 1996-08-28
+China on Wednesday called on Japan to acknowledge its wartime past and put a stop to a tide of resurgent militarism to prevent similar atrocities in future .
+" Some Japanese are still unrepentant about the atrocities committed by the Japanese militarists during the war , " said a commentary in the official China Daily .
+" If they are still undecided whether the war Japan launched was aggressive in nature , it will be difficult to tell whether they will do the same again , " the newspaper said .
+China raised indignant protests after several Japanese cabinet ministers visited a shrine dedicated to their country 's war dead on August 15 , the 51st anniversary of Japan 's World War Two surrender .
+" Numerous Japanese politicians have tried to whitewash their country 's war atrocities in recent years , " the commentary said .
+China estimates 35 million Chinese were killed or wounded by invading Japanese troops from 1931 to 1945 .
+" The Japanese have never genuinely apologised for their wartime crimes , " the commentary said .
+Japanese Prime Minister Ryutaro Hashimoto marked the August 15 anniversary by expressing " remorse " for foreign victims of Japan 's World War Two atrocities .
+%%TYPE_ANNOTATIONS%%
+0	4	People's_Republic_of_China
+20	24	Japan
+47	53	Beijing
+66	70	People's_Republic_of_China
+95	99	Japan
+231	238	Japan
+300	307	Japan
+374	384	China_Daily
+434	438	Japan
+566	570	People's_Republic_of_China
+612	619	Japan
+734	738	Japan
+743	755	World_War_II
+780	787	Japan
+899	903	People's_Republic_of_China
+926	932	People's_Republic_of_China
+969	976	Japan
+1011	1018	Japan
+1103	1110	Japan
+1127	1143	Ryutaro_Hashimoto
+1227	1231	Japan
+1236	1248	World_War_II

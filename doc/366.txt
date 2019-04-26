@@ -1,0 +1,71 @@
+SOCCER - BELGIAN FIRST DIVISION RESULTS / STANDINGS .
+BRUSSELS 1996-08-25
+Results of Belgian first
+division soccer matches at the weekend :
+Genk 1 Club Brugge 1
+Harelbeke 3 Mechelen 3
+Standard Liege 3 Molenbeek 0
+Anderlecht 2 Lokeren 2
+Cercle Brugge 2 Mouscron 2
+Antwerp 1 Lommel 4
+Ghent 3 Aalst 2
+Lierse 4 Charleroi 0
+Sint Truiden 3 Ekeren 1
+Standings ( tabulated under played , won , drawn , lost , goals
+for , against , points ) :
+Ghent 4 3 1 0 9 5 10
+Standard Liege 4 3 0 1 7 3 9
+Club Brugge 4 2 2 0 10 4 8
+Mouscron 4 2 2 0 7 4 8
+Anderlecht 4 1 3 0 9 3 6
+Lierse 4 1 3 0 7 3 6
+Antwerp 4 2 0 2 6 10 6
+Genk 4 1 2 1 6 5 5
+Molenbeek 4 1 2 1 4 5 5
+Harelbeke 4 1 1 2 6 7 4
+Aalst 4 1 1 2 5 6 4
+Lokeren 4 1 1 2 4 5 4
+Ekeren 4 1 1 2 6 8 4
+Lommel 4 1 1 2 5 10 4
+Mechelen 4 0 3 1 6 7 3
+Cercle Brugge 4 0 3 1 4 5 3
+Charleroi 4 1 0 3 4 8 3
+Sint Truiden 4 1 0 3 4 11 3
+%%TYPE_ANNOTATIONS%%
+9	15	Belgium
+54	61	Brussels
+85	91	Belgium
+140	143	K.R.C._Genk
+147	157	Club_Brugge_K.V.
+161	169	K.R.C._Zuid-West-Vlaanderen
+173	180	KV_Mechelen
+184	197	Standard_Liège
+201	209	R.W.D._Molenbeek
+213	222	R.S.C._Anderlecht
+226	232	K.S.C._Lokeren_Oost-Vlaanderen
+236	248	Cercle_Brugge_K.S.V.
+252	259	R.E._Mouscron
+263	269	Royal_Antwerp_FC
+273	278	K.F.C._Lommel_S.K.
+282	286	K.A.A._Gent
+290	294	V.C._Eendracht_Aalst_2002
+298	303	Lierse_S.K.
+307	315	R._Charleroi_S.C.
+319	330	K._Sint-Truidense_V.V.
+434	438	K.A.A._Gent
+455	468	Standard_Liège
+484	494	Club_Brugge_K.V.
+511	518	R.E._Mouscron
+534	543	R.S.C._Anderlecht
+559	564	Lierse_S.K.
+580	586	Royal_Antwerp_FC
+603	606	K.R.C._Genk
+622	630	R.W.D._Molenbeek
+646	654	K.R.C._Zuid-West-Vlaanderen
+670	674	V.C._Eendracht_Aalst_2002
+690	696	K.S.C._Lokeren_Oost-Vlaanderen
+733	738	K.F.C._Lommel_S.K.
+755	762	KV_Mechelen
+778	790	Cercle_Brugge_K.S.V.
+806	814	R._Charleroi_S.C.
+830	841	K._Sint-Truidense_V.V.

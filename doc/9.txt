@@ -1,0 +1,6 @@
+Port conditions update - Syria - Lloyds Shipping .
+Port conditions from Lloyds Shipping Intelligence Service --
+LATTAKIA , Aug 10 - waiting time at Lattakia and Tartous presently 24 hours .
+%%TYPE_ANNOTATIONS%%
+25	29	Syria
+161	167	Tartus

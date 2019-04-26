@@ -1,0 +1,23 @@
+Companion Marble posts 1st final result .
+HONG KONG 1996-08-23
+Year ended March 31
+( in million HK$ unless stated )
+Shr ( H.K. cents ) 14.0
+Dividend ( H.K. cents ) nil
+Exceptional items nil
+Net 56.06
+Turnover 531.52
+Company name Companion Marble ( Holdings ) Ltd
+Books close N / A
+Dividend payable N / A
+NOTE - Marble and granite products distributor Companion Marble , a spinoff of construction materials concern Companion Building Material ( Holdings ) Ltd , was listed on the Stock Exchange on April 25 , 1996 .
+-- Hong Kong News Room ( 852 ) 2843 6368
+%%TYPE_ANNOTATIONS%%
+42	50	Hong_Kong
+96	98	Hong_Kong_dollar
+122	125	Hong_Kong
+151	154	Hong_Kong
+248	255	Holding_company
+259	261	Limited_company
+444	451	Holding_company
+455	457	Limited_company

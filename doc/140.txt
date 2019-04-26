@@ -1,0 +1,72 @@
+TENNIS - AUSTRALIANS ADVANCE AT CANADIAN OPEN .
+TORONTO 1996-08-22
+It was Australia Day at the $ 2 million Canadian Open on Thursday as three Aussies reached the quarter-finals with straight-set victories .
+Unseeded Patrick Rafter recorded the most noteworthy result as he upset sixth-seeded American MaliVai Washington 6-2 6-1 in just 50 minutes .
+Todd Woodbridge , who defeated Canadian Daniel Nestor 7-6 ( 7-2 ) 7-6 ( 7-4 ) , and Mark Philippoussis , a 6-3 6-4 winner over Bohdan Ulihrach of the Czech Republic , also advanced and will meet in Friday 's quarter-finals .
+Third-seeded Wayne Ferreira of South Africa defeated Tim Henman of Britain 6-4 6-4 after a three-hour evening rain delay and fifth-seeded Thomas Enqvist of Sweden won his third-round match , eliminating Petr Korda of the Czech Republic 6-3 6-4 .
+Ferreira and Enqvist play in a Friday night quarter-final .
+Two Americans , seventh seed Todd Martin and unseeded Alex O'Brien , will meet on Friday after winning matches on Thursday .
+Martin overcame Cedric Pioline of France 2-6 6-2 6-4 and O'Brien beat Mikael Tillstrom of Sweden 6-3 2-6 6-3 .
+" If you really look at the match , " said the 12th-ranked Washington after losing to the 70th-ranked Rafter , " I never really got a chance to play because he was serving big and getting in close to the net .
+" He was also able to handle my serve pretty easily because my ( first ) service percentage was only in the 40s .
+Put those two things together and you get a loss . "
+Rafter missed 10 weeks after wrist surgery earlier this year and the time away from tennis has given him a new perspective .
+" Before when I was on tour , I always felt I had to be in bed by 9:30 or 10 o'clock and I had to be up at a certain time , " Rafter said . "
+Now I can go to bed at at midnight or wake up at seven in the morning .
+I just do n't have as many set routines and it 's made me a happier person . "
+Martin was pleased with his victory over Pioline , his first in five meetings with the 11th-ranked Frenchman . "
+It 's always difficult to win a match when you lose the first set , especially against someone you have never beaten , " he said .
+" I got more aggressive in the second and third sets and the wind picked up and that also affected things because Cedric definitely went off a little bit . "
+The 26-year-old O'Brien , who won the ATP Tour stop in New Haven last week , has now won 18 of his last 20 matches , dating back to qualifying rounds in Los Angeles in late July .
+He ranks 76th after being 285th four weeks ago .
+" I feel I 'm hitting the ball well even though I 'm having more mental letdowns than I did last week , " O'Brien said . "
+But I 'm still competing well . "
+" I got a lot of first serves in , " said Enqvist about his victory over Korda . "
+I did n't miss that many shots and he was making the mistakes . "
+Still marvelling at an exciting 64-stroke rally he won in the last game of his second-round match against Javier Sanchez of Spain on Tuesday , Enqvist joked , " Today against Petr there were about 64 strokes in the whole match .
+It was mostly short points . "
+%%TYPE_ANNOTATIONS%%
+9	19	Australia
+32	44	Rogers_Cup_(tennis)
+48	54	Toronto
+107	119	Rogers_Cup_(tennis)
+216	229	Patrick_Rafter
+292	299	United_States
+301	318	MaliVai_Washington
+349	363	Todd_Woodbridge
+380	387	Canada
+389	401	Daniel_Nestor
+433	450	Mark_Philippoussis
+476	490	Bohdan_Ulihrach
+499	512	Czech_Republic
+587	600	Wayne_Ferreira
+605	616	South_Africa
+627	636	Tim_Henman
+641	647	United_Kingdom
+712	725	Thomas_Enqvist
+730	735	Sweden
+777	786	Petr_Korda
+795	808	Czech_Republic
+820	827	Wayne_Ferreira
+833	839	Thomas_Enqvist
+884	892	United_States
+909	919	Todd_Martin
+1005	1010	Todd_Martin
+1021	1034	Cédric_Pioline
+1039	1044	France
+1075	1090	Mikael_Tillström
+1095	1100	Sweden
+1175	1184	MaliVai_Washington
+1218	1223	Patrick_Rafter
+1493	1498	Patrick_Rafter
+1744	1749	Patrick_Rafter
+1911	1916	Todd_Martin
+1952	1958	Cédric_Pioline
+2368	2376	New_Haven,_Connecticut
+2466	2476	Los_Angeles
+2741	2747	Thomas_Enqvist
+2772	2776	Petr_Korda
+2954	2967	Javier_Sánchez
+2972	2976	Spain
+2991	2997	Thomas_Enqvist
+3023	3026	Petr_Korda

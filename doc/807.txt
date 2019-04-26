@@ -1,0 +1,72 @@
+LOMBARDI WINS THIRD STAGE OF TOUR OF NETHERLANDS .
+DOETINCHEM , Netherlands 1996-08-29
+Leading results and overall standings after the 122 kilometre third stage of the Tour of the Netherlands on Thursday between Almere and Doetinchem .
+1. Giovanni Lombardi ( Italy ) Polti 2 hours 35 minutes
+29 seconds
+2. Rolf Sorensen ( Denmark ) Rabobank
+3. Lance Armstrong ( U.S. ) Motorola
+4. Maarten den Bakker ( Netherlands ) TVM all same time
+5. Marco Lietti ( Italy ) MG-Technogym 1 second behind
+6. Hans de Clerq ( Belgium ) Palmans 27 seconds
+7. Marty Jemison ( U.S. ) U.S. Postal
+8. Servais Knaven ( Netherlands ) TVM
+9. Olaf Ludwig ( Germany ) Telekom all same time
+10. Jeroen Blijlevens ( Netherlands ) TVM 31
+Leading overall placings after three stages :
+1. Sorensen 10.57:33
+2. Lombardi 1 second behind
+3. Armstrong 2 seconds
+4. Den Bakker 7
+5. Lietti 8
+6. Federico Colonna ( Italy ) Mapei 27
+7. Max van Heeswijk ( Netherlands ) Motorola 28
+8. Sven Teutenberg ( Germany ) U.S. Postal 31
+9. Johan Capiot ( Belgium ) Collstrop 32
+10. Jans Koerts ( Netherlands ) Palmans 34
+The race continues on Thursday afternoon with a 19.6 fourth-stage Doetinchem-Doetinchem time trial
+%%TYPE_ANNOTATIONS%%
+0	7	Giovanni_Lombardi
+51	60	Doetinchem
+64	74	Netherlands
+168	190	Ronde_van_Nederland
+212	217	Almere
+223	232	Doetinchem
+239	255	Giovanni_Lombardi
+259	263	Italy
+267	271	Team_Polti
+306	318	Rolf_Sørensen
+322	328	Denmark
+332	339	Rabobank_(cycling_team)
+344	358	Lance_Armstrong
+362	365	United_States
+369	376	7-Eleven_(cycling_team)
+381	398	Maarten_den_Bakker
+402	412	Netherlands
+416	418	TVM_(cycling_team)
+437	448	Marco_Lietti
+452	456	Italy
+508	514	Belgium
+556	559	United_States
+563	573	Discovery_Channel_Pro_Cycling_Team
+578	591	Servais_Knaven
+595	605	Netherlands
+609	611	TVM_(cycling_team)
+616	626	Olaf_Ludwig
+630	636	Germany
+666	682	Jeroen_Blijlevens
+686	696	Netherlands
+700	702	TVM_(cycling_team)
+777	784	Giovanni_Lombardi
+805	813	Lance_Armstrong
+844	849	Marco_Lietti
+875	879	Italy
+895	910	Max_van_Heeswijk
+914	924	Netherlands
+928	935	7-Eleven_(cycling_team)
+961	967	Germany
+971	981	Discovery_Channel_Pro_Cycling_Team
+989	1000	Johan_Capiot
+1004	1010	Belgium
+1014	1022	Cycle_Collstrop
+1031	1041	Jans_Koerts
+1045	1055	Netherlands

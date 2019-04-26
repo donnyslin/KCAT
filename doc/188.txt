@@ -1,0 +1,32 @@
+Granic arrives to sign Croatia-Yugoslavia treaty .
+BELGRADE 1996-08-23
+Yugoslavia and Croatia were poised on Friday to sign a landmark normalisation treaty ending five years of tensions and paving way for stabilisation in the Balkans .
+Croatian Foreign Minister Mate Granic landed at Belgrade airport aboard a Croatian government jet on Friday morning for talks with his Yugoslav counterparts and a signing ceremony expected around noon ( 1000 GMT ) .
+On Thursday the Yugoslav government endorsed the text of the agreement on normalising relations between the two countries , the Yugoslav news agency Tanjug said .
+" The government assessed the agreement as a crucial step to resolving the Yugoslav crisis , ensuring the restoration of peace in former Yugoslavia , " it said .
+Last-minute talks this week on the legal fine print finally cleared the way for a treaty based on mutual recognition within internationally recognised borders and the establishment of diplomatic relations , diplomats said .
+The pact ends five years of hostility after Croatia 's secession from federal Yugoslavia .
+Western powers regard diplomatic normalisation between Croatia and Serbia , twin pillars of the old multinational federal Yugoslavia , as a crucial step towards a lasting peace in the Balkans .
+%%TYPE_ANNOTATIONS%%
+51	58	Belgrade
+71	80	Yugoslavia
+86	92	Croatia
+226	232	Balkans
+236	243	Croatia
+262	272	Mate_Granić
+284	291	Belgrade
+310	317	Croatia
+371	378	Yugoslavia
+444	446	Greenwich_Mean_Time
+468	475	Yugoslavia
+580	587	Yugoslavia
+601	606	Tanjug
+690	697	Yugoslavia
+752	761	Yugoslavia
+1045	1051	Croatia
+1079	1088	Yugoslavia
+1092	1098	Western_world
+1147	1153	Croatia
+1159	1164	Serbia
+1214	1223	Yugoslavia
+1276	1282	Balkans

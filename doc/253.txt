@@ -1,0 +1,48 @@
+SOCCER - OUT-OF-SORTS NEWCASTLE CRASH 2-1 AT HOME .
+LONDON 1996-08-24
+Newcastle 's early season teething problems continued on Saturday when they lost 2-1 at home to premier league pacesetters Sheffield Wednesday .
+England striker Alan Shearer gave Kevin Keegan 's talent-laden side the lead from the penalty spot after 13 minutes after Wednesday 's Yugoslav Dejan Stefanovic pulled down Colombian forward Faustino Asprilla .
+But two minutes later Wednesday equalised through Peter Atherton , who found space in the penalty area to meet Mark Pembridge 's free kick with a precise glancing header .
+Guy Whittingham stole three points for the Yorkshire side with a goal 10 minutes from time .
+To add to Newcastle 's misery , England striker Les Ferdinand was stretchered off in the second half .
+Wednesday , who escaped relegation on the final day of last season , have now won their first three games of the season .
+Elsewhere , title hopefuls Liverpool were held 0-0 at home by newly-promoted Sunderland , and in London , the tie between Tottenham Hotspur and Everton also ended goaless .
+Frenchman Frank LeBoeuf and Italian Gianluca Vialli scored their first premier league goals as Chelsea beat Coventry 2-0 , and managerless Arsenal won by the same scoreline at Leicester .
+Last season 's league and Cup winners Manchester United host 1995 champions Blackburn on Sunday .
+%%TYPE_ANNOTATIONS%%
+22	30	Newcastle_United_F.C.
+52	57	London
+70	78	Newcastle_United_F.C.
+193	211	Sheffield_Wednesday_F.C.
+215	221	England_national_football_team
+231	242	Alan_Shearer
+249	260	Kevin_Keegan
+350	357	Yugoslavia
+359	374	Dejan_Stefanović
+388	396	Colombia
+406	422	Faustino_Asprilla
+448	456	Sheffield_Wednesday_F.C.
+476	489	Peter_Atherton
+537	550	Mark_Pembridge
+598	612	Guy_Whittingham
+641	649	Yorkshire
+701	709	Newcastle_United_F.C.
+723	729	England_national_football_team
+739	751	Les_Ferdinand
+794	802	Sheffield_Wednesday_F.C.
+943	951	Liverpool_F.C.
+993	1002	Sunderland_A.F.C.
+1013	1018	London
+1038	1054	Tottenham_Hotspur_F.C.
+1060	1066	Everton_F.C.
+1089	1097	France
+1099	1111	Frank_Leboeuf
+1117	1123	Italy
+1125	1139	Gianluca_Vialli
+1184	1190	Chelsea_F.C.
+1197	1204	Coventry_City_F.C.
+1228	1234	Arsenal_F.C.
+1265	1273	Leicester_City_F.C.
+1303	1305	FA_Cup
+1315	1331	Manchester_United_F.C.
+1353	1361	Blackburn_Rovers_F.C.

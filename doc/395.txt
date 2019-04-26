@@ -1,0 +1,27 @@
+North Afghan highway opening put off , radio says .
+ISLAMABAD 1996-08-25
+The planned reopening of Afghanistan 's main northern Salang highway as a result of peace talks with an opposition alliance has been put off until Wednesday , official Kabul Radio said on Sunday .
+The embattled Afghan government said last week that the Kabul-Salang highway would be opened on Monday or Tuesday following talks with the Supreme Coordination Council alliance led by Jumbish-i-Milli movement of powerful opposition warlord General Abdul Rashid Dostum .
+The radio said on Sunday the postponement of the opening had been made due to " precautions " .
+It did not elaborate .
+The Salang highway , Afghanistan 's main route to Central Asia , has been controlled by Dostum since he began fighting President Burhanuddin Rabbani 's government in Kabul in January 1994 in alliance with Hezb-i-Islami party leader Gulbuddin Hekmatyar , then prime minister but rival to the president .
+Hekmatyar rejoined the government as prime minister last June under a peace pact with Rabbani and has since been trying to persuade other opposition factions to follow suit .
+Earlier this month , Jumbish denied a Kabul government statement that the two sides had agreed to a ceasefire in the north .
+%%TYPE_ANNOTATIONS%%
+52	60	Islamabad
+98	108	Afghanistan
+127	132	Salang,_Afghanistan
+241	251	Radio_Kabul
+284	289	Afghanistan
+518	536	Abdul_Rashid_Dostum
+663	668	Salang,_Afghanistan
+680	690	Afghanistan
+709	720	Central_Asia
+747	752	Abdul_Rashid_Dostum
+788	806	Burhanuddin_Rabbani
+825	829	Kabul
+864	876	Hezbi_Islami
+891	909	Gulbuddin_Hekmatyar
+962	970	Gulbuddin_Hekmatyar
+1048	1054	Burhanuddin_Rabbani
+1175	1179	Kabul

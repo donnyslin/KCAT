@@ -1,0 +1,48 @@
+Nationalists want Iliescu ousted for Hungary pact .
+BUCHAREST 1996-08-27
+Junior Nationalist members of Romania 's ruling coalition called on Tuesday for the impeachment of President Ion Iliescu for backing a friendship treaty with neighbouring Hungary .
+Iliescu 's Party of Social Democracy , the senior coalition partner , immediately dismissed the National Unity Party ( PUNR ) demand as crude electioneering .
+" It is a desperate move by the PUNR , which is losing its only reason for existing ahead of the electoral campaign , " said PDSR executive president Adrian Nastase .
+" This treaty is both necessary and good , " Nastase said , adding that the PUNR 's stance was threatening its position in the government .
+The treaty agreed unexpectedly two weeks ago will end years of disputes over the status of Romania 's large ethnic Hungarian minority .
+It will also boost both countries ' chances of admission to NATO and the European Union .
+" If they ( the PUNR ) are so vexed , they could leave the government ...
+We might also help them to do it , if they go on like this , " he said .
+The PUNR holds four key ministries -- justice , transport , agriculture and communications .
+PUNR leader Gheorghe Funar said in a statement Iliescu , in power since the fall of communism in 1989 , should be impeached for treason for compromising on the issue of ethnic Hungarian minority rights in the treaty due to be signed next month .
+Funar 's call came on the eve of the official launch of Iliescu 's campaign for a new term at November 3 polls .
+His appeal to the opposition to back his attempt to oust Iliescu was unlikely to succeed , analysts said .
+Iliescu has invited political leaders to a meeting on Thursday to discuss the final form of the pact which both Romanian and Hungarian nationalists oppose for different reasons .
+Presidential officials were not available to comment on the call for Iliescu 's impeachment .
+%%TYPE_ANNOTATIONS%%
+18	24	Ion_Iliescu
+37	43	Hungary
+52	60	Bucharest
+103	109	Romania
+182	192	Ion_Iliescu
+244	250	Hungary
+254	260	Ion_Iliescu
+265	289	Social_Democratic_Party_(Romania)
+373	376	Romanian_National_Unity_Party
+445	448	Romanian_National_Unity_Party
+538	541	Social_Democratic_Party_(Romania)
+563	576	Adrian_Năstase
+625	631	Adrian_Năstase
+656	659	Romanian_National_Unity_Party
+811	817	Romania
+835	843	Hungary
+916	919	NATO
+929	942	European_Union
+962	965	Romanian_National_Unity_Party
+1097	1100	Romanian_National_Unity_Party
+1186	1189	Romanian_National_Unity_Party
+1198	1211	Gheorghe_Funar
+1233	1239	Ion_Iliescu
+1362	1370	Hungary
+1432	1436	Gheorghe_Funar
+1488	1494	Ion_Iliescu
+1602	1608	Ion_Iliescu
+1652	1658	Ion_Iliescu
+1764	1771	Romania
+1777	1785	Hungary
+1900	1906	Ion_Iliescu

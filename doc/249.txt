@@ -1,0 +1,66 @@
+CRICKET - ESSEX POISED TO STEP UP TITLE CHALLENGE .
+LONDON 1996-08-24
+Essex are set to step up their English county championship challenge with a fifth consecutive victory after new-ball pair Neil Williams and Mark Ilott sent Gloucestershire reeling on Saturday .
+Williams seized two wickets in two deliveries and left-armer Ilott also captured two as Gloucestershire , 252 behind on first innings , slumped to 27 for four at the close on the third day of the four-day game at Colchester .
+Essex , who started the current round of matches in fifth place 20 points behind leaders Derbyshire with a game in hand , could go top if they complete victory on Monday 's last day and other results favour them .
+Williams thrust Essex on course for success by dispatching Matt Windows and Andrew Symonds in his second over , before Ilott removed Dominic Hewson and Tim Hancock to reduce Gloucestershire to 17 for four at one stage .
+The visitors had started the day optimistically by sending back former England captain Graham Gooch when he added just six to his overnight 105 , but Essex went on to make 532 for eight before declaring .
+Captain Paul Prichard plundered 88 from 73 deliveries , hitting 15 fours and one six .
+Second-placed Kent were frustrated by rain which prevented any play at Cardiff , where they have reached 255 for three in their first innings against Glamorgan , while third-placed Surrey are facing an uphill task against Nottinghamshire .
+Surrey slipped to 88 for four in reply to Notts ' commanding first innings of 446 for nine declared at Trent Bridge , before Alistair Brown struck a 55-ball half-century .
+Brown 's 56 not out , containing eight fours and three sixes , lifted Surrey to 128 for four on a rain-curtailed day .
+Fourth-placed Leicestershire had Hampshire on the ropes at Leicester before rain intervened .
+Pace trio David Millns ( 2-24 ) , Gordon Parsons ( 3-20 ) and Vince Wells ( 2-19 ) had Hampshire reeling at 81 for seven in reply to the home county 's first innings of 353 .
+Yorkshire rekindled their title hopes after three successive defeats by taking the upper hand against arch-rivals Lancashire at Old Trafford .
+Facing Yorkshire 's 529 for eight declared , Lancashire were forced to follow on 206 behind after being bowled out for 323 , paceman Darren Gough polishing off the innings with a burst of three wickets for one run in 17 deliveries .
+Lancashire then reached 210 for five at the close -- just four ahead -- after Neil Fairbrother hit 55 in 60 balls to add to his first innings of 86 .
+%%TYPE_ANNOTATIONS%%
+10	14	Essex_County_Cricket_Club
+52	57	London
+70	74	Essex_County_Cricket_Club
+101	107	England
+192	204	Neil_Williams_(cricketer)
+210	219	Mark_Ilott
+226	240	Gloucestershire_County_Cricket_Club
+325	329	Mark_Ilott
+352	366	Gloucestershire_County_Cricket_Club
+477	486	Colchester
+490	494	Essex_County_Cricket_Club
+579	588	Derbyshire_County_Cricket_Club
+720	724	Essex_County_Cricket_Club
+763	774	Matthew_Windows
+780	793	Andrew_Symonds
+823	827	Mark_Ilott
+837	850	Dominic_Hewson
+856	866	Tim_Hancock
+878	892	Gloucestershire_County_Cricket_Club
+995	1001	England_cricket_team
+1011	1022	Graham_Gooch
+1074	1078	Essex_County_Cricket_Club
+1137	1149	Paul_Prichard
+1230	1233	Kent_County_Cricket_Club
+1287	1293	Cardiff
+1366	1374	Glamorgan_County_Cricket_Club
+1397	1402	Surrey_County_Cricket_Club
+1438	1452	Nottinghamshire_County_Cricket_Club
+1456	1461	Surrey_County_Cricket_Club
+1498	1502	Nottinghamshire_County_Cricket_Club
+1559	1570	Trent_Bridge
+1581	1594	Ali_Brown
+1628	1632	Ali_Brown
+1698	1703	Surrey_County_Cricket_Club
+1761	1774	Leicestershire_County_Cricket_Club
+1780	1788	Hampshire_County_Cricket_Club
+1806	1814	Leicester
+1851	1862	David_Millns
+1875	1888	Gordon_Parsons
+1903	1913	Vince_Wells
+1928	1936	Hampshire_County_Cricket_Club
+2016	2024	Yorkshire_County_Cricket_Club
+2130	2139	Lancashire_County_Cricket_Club
+2144	2155	Old_Trafford_Cricket_Ground
+2166	2174	Yorkshire_County_Cricket_Club
+2204	2213	Lancashire_County_Cricket_Club
+2292	2303	Darren_Gough
+2392	2401	Lancashire_County_Cricket_Club
+2470	2485	Neil_Fairbrother

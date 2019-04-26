@@ -1,0 +1,117 @@
+Arafat says Israel declares war on Palestinians .
+Wafa Amr
+RAMALLAH , West Bank 1996-08-28
+Palestinian President Yasser Arafat said on Wednesday that Israel had declared war on the Palestinians and called for the first general strike in the West Bank and Gaza in two years .
+" What happened concerning continuous violations and crimes from this new Israeli leadership means they are declaring a state of war against the Palestinian people , " Arafat told the Palestinian legislature .
+Accusing Israeli Prime Minister Benjamin Netanyahu of stupidity , Arafat launched his strongest attack on the right-wing government since its election in May .
+The tirade was sparked by Israel 's announcement on Tuesday of plans to expand the Jewish settlement of Kiryat Sefer and its demolishing of a community centre in Arab East Jerusalem .
+" Israel has started the war on Jerusalem .
+They are idiots to have started the Jerusalem battle , " Arafat said in Arabic . "
+There will be no Palestinian state without Jerusalem .
+Netanyahu should know he is stupid to have started this battle . "
+Arafat called for a general strike " for Jerusalem " on Thursday in all of the West Bank and Gaza Strip .
+There has not been a joint shutdown there since May 1994 when Israeli troops began withdrawing under an interim self-rule agreement signed in 1993 .
+The strike will have little effect on the Israeli economy while hurting Palestinian merchants in East Jerusalem and Bethlehem who cater to the tourist trade .
+Some 25,000 Palestinian labourers are likely to stay away from their jobs , mainly in construction , in Israel .
+But Palestinians , once the backbone of the building industry , have been largely replaced by labourers from Romania and China .
+" On Friday , all Moslems , including Palestinians in Israel ...
+will go to ( Jerusalem 's ) Al-Aqsa mosque and pray .
+Jews and Christians who do not pray should accompany them and stand behind them , " Arafat said .
+Officials in Netanyahu 's office were not immediately available for comment on Arafat 's remarks .
+Israeli travel restrictions , imposed after bombings by Moslem militants in February and March , ban most of the two million Arabs in the West Bank and Gaza from entering Jerusalem .
+Netanyahu , who opposes trading occupied land for peace , made Jerusalem a central issue in his election campaign , accusing Labour Prime Minister Shimon Peres of planning to hand control of the Arab eastern part of the city to the Palestinians .
+Israel captured East Jerusalem in the 1967 Middle East war and claims both halves of the city as its capital .
+The PLO wants East Jerusalem as the capital of a future Palestinian state .
+In his speech to the crowded legislature , Arafat signalled he was not abandoning diplomacy although " alarm bells are ringing " .
+He unexpectedly broke off his address to take a telephone call from U.S. Middle East envoy Dennis Ross , who held talks in Paris on Tuesday with Israeli and Egyptian officials .
+When Arafat returned to the podium , he said senior PLO negotiator Mahmoud Abbas , better known as Abu Mazen , and Netanyahu aide Dore Gold could meet on Thursday .
+He quoted Ross as telling him : " The important thing is the Israelis are prepared to move . "
+Arafat said he replied : " is this like their previous promises ? "
+" No , they have good intentions , " Arafat quoted Ross as saying .
+Palestinians have been pressing Israel to carry out a long-delayed partial troop pullout from the flashpoint West Bank city of Hebron agreed by the previous Labour government .
+The Israeli government is studying redeployment plans submitted by Defence Minister Yitzhak Mordechai which are likely to demand a wider than agreed army presence in Hebron .
+%%TYPE_ANNOTATIONS%%
+0	5	Yasser_Arafat
+12	17	Israel
+59	66	Ramallah
+91	101	Palestine
+113	125	Yasser_Arafat
+150	155	Israel
+181	192	Palestine
+255	258	Gaza
+349	355	Israel
+420	430	Palestine
+443	448	Yasser_Arafat
+459	469	Palestine
+494	500	Israel
+517	534	Benjamin_Netanyahu
+551	556	Yasser_Arafat
+671	676	Israel
+728	733	Jews
+831	836	Israel
+861	869	Jerusalem
+909	917	Jerusalem
+930	935	Yasser_Arafat
+945	950	Arabic_language
+973	983	Palestine
+999	1007	Jerusalem
+1011	1019	Benjamin_Netanyahu
+1078	1083	Yasser_Arafat
+1119	1127	Jerusalem
+1171	1180	Gaza_Strip
+1246	1252	Israel
+1375	1381	Israel
+1405	1415	Palestine
+1430	1443	East_Jerusalem
+1449	1457	Bethlehem
+1504	1514	Palestine
+1596	1601	Israel
+1609	1620	Palestine
+1714	1720	Romania
+1726	1730	Republic_of_China
+1752	1758	Islam
+1772	1783	Palestine
+1788	1793	Israel
+1812	1820	Jerusalem
+1827	1833	Al-Aqsa_Mosque
+1853	1856	Jews
+1937	1942	Yasser_Arafat
+1964	1972	Benjamin_Netanyahu
+2030	2035	Yasser_Arafat
+2050	2056	Israel
+2106	2111	Islam
+2175	2179	Arab_people
+2202	2205	Gaza
+2221	2229	Jerusalem
+2233	2241	Benjamin_Netanyahu
+2296	2304	Jerusalem
+2358	2363	Israeli_Labor_Party
+2380	2391	Shimon_Peres
+2465	2476	Palestine
+2480	2485	Israel
+2496	2509	East_Jerusalem
+2523	2533	Middle_East
+2605	2618	East_Jerusalem
+2647	2657	Palestine
+2710	2715	Yasser_Arafat
+2889	2899	Dennis_Ross
+2921	2925	Paris
+2943	2949	Israel
+2955	2962	Egypt
+2981	2986	Yasser_Arafat
+3043	3055	Mahmoud_Abbas
+3075	3083	Mahmoud_Abbas
+3091	3099	Benjamin_Netanyahu
+3106	3114	Dore_Gold
+3151	3154	Dennis_Ross
+3202	3209	Israel
+3236	3241	Yasser_Arafat
+3341	3346	Yasser_Arafat
+3355	3358	Dennis_Ross
+3372	3383	Palestine
+3404	3409	Israel
+3499	3504	Hebron
+3529	3534	Israeli_Labor_Party
+3553	3559	Israel
+3633	3649	Yitzhak_Mordechai
+3715	3720	Hebron

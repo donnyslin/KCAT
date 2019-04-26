@@ -1,0 +1,35 @@
+SOCCER - BRAZILIAN CHAMPIONSHIP RESULTS .
+RIO DE JANEIRO 1996-08-22
+Results of midweek
+matches in the Brazilian soccer championship .
+Bahia 2 Atletico Paranaense 0
+Corinthians 1 Guarani 0
+Coritiba 1 Atletico Mineiro 0
+Cruzeiro 2 Vitoria 1
+Flamengo 0 Juventude 1
+Goias 3 Sport Recife 1
+Gremio 6 Bragantino 1
+Palmeiras 3 Vasco da Gama 1
+Portuguesa 2 Parana 0
+%%TYPE_ANNOTATIONS%%
+9	17	Brazil
+42	55	Rio_de_Janeiro
+102	110	Brazil
+134	138	Esporte_Clube_Bahia
+142	160	Clube_Atlético_Paranaense
+164	174	Sport_Club_Corinthians_Paulista
+178	184	Guarani_Futebol_Clube
+188	195	Coritiba_Foot_Ball_Club
+199	214	Clube_Atlético_Mineiro
+218	225	Cruzeiro_Esporte_Clube
+229	235	Esporte_Clube_Vitória
+239	246	Esporte_Clube_Flamengo
+250	258	Esporte_Clube_Juventude
+262	266	Goiás_Esporte_Clube
+270	281	Sport_Club_do_Recife
+285	290	Grêmio_Foot-Ball_Porto_Alegrense
+294	303	Clube_Atlético_Bragantino
+307	315	Sociedade_Esportiva_Palmeiras
+319	331	Associação_Desportiva_Vasco_da_Gama
+335	344	Associação_Portuguesa_de_Desportos
+348	353	Paraná_Clube

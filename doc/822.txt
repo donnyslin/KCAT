@@ -1,0 +1,24 @@
+BASEBALL - BRAVES SIGN NEAGLE .
+ATLANTA 1996-08-28
+The defending world champion Atlanta Braves , with the best record and best pitching in baseball , added another weapon Wednesday , acquiring Denny Neagle , the winningest left-hander in the National League , from the Pittsburgh Pirates .
+The Pirates , who conceded earlier this week they would be forced to trim salary from next season 's payroll , received Ron Wright , a first baseman at Double-A Greenville ; Corey Pointer , a pitcher at Class-A Eugene , and a player to be named .
+It was another stunning mid-season acquisition for the Braves , who already have an 11-game lead in the National League Eastern Division .
+In the last 15 days , Atlanta has traded for third baseman Terry Pendleton , claimed outfielder Luis Polonia on waivers and called up minor-league phenom Andruw Jones , all in preparation for their fifth post-season .
+%%TYPE_ANNOTATIONS%%
+11	16	Atlanta_Braves
+23	28	Denny_Neagle
+32	38	Atlanta
+80	93	Atlanta_Braves
+193	204	Denny_Neagle
+242	256	National_League
+269	286	Pittsburgh_Pirates
+294	300	Pittsburgh_Pirates
+410	419	Ron_Wright_(baseball)
+451	460	Greenville_Braves
+501	506	Eugene_Emeralds
+592	597	Atlanta_Braves
+641	672	National_League_East
+698	704	Atlanta_Braves
+735	749	Terry_Pendleton
+772	783	Luis_Polonia
+830	841	Andruw_Jones

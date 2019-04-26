@@ -1,0 +1,25 @@
+Albania asks Greece to explain deportations .
+TIRANA 1996-08-28
+Albania asked Greece on Wednesday to explain why it was deporting more Albanian immigrants , Foreign Minister Tritan Shehu said .
+The Albanian daily Koha Jone reported earlier that Greece had deported about 5,000 Albanians in the last five days .
+" The Foreign Ministry is trying to find out from the Greek embassy why Albanian refugees have been deported from Greece , " Shehu told Reuters .
+Athens and Tirana signed an accord in May to legalise the status of Albanian immigrant workers , estimated at 350,000 , and remove a long-standing stumbling block in relations between the two Balkan neighbours .
+%%TYPE_ANNOTATIONS%%
+0	6	Albania
+13	18	Greece
+46	51	Tirana
+64	70	Albania
+78	83	Greece
+135	142	Albania
+198	205	Albania
+213	221	Koha_Jonë
+245	250	Greece
+277	285	Albanians
+317	332	Foreign_minister
+365	369	Greece
+383	390	Albania
+425	430	Greece
+457	462	Athens
+468	473	Tirana
+525	532	Albania
+649	654	Balkans

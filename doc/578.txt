@@ -1,0 +1,23 @@
+Hong Kong nabs blind 10-year-old illegal immigrant .
+HONG KONG 1996-08-27
+A blind 10-year-old boy from China sneaked over the border into Hong Kong and was arrested as an illegal immigrant , Hong Kong police said on Tuesday .
+He was caught by police trying to force his way into a home in the rural New Territories , a police spokesman said .
+" The boy came from China 's eastern province of Jiangsu .
+He was spotted by a passerby trying to climb into an apartment in the early hours of Monday morning , " the spokesman said .
+No decision has yet been made on how to deal with the boy .
+Hong Kong police regularly catch hundreds of illegal immigrants and people who have overstayed their visas from mainland China and send them back .
+Hong Kong , a British colony , reverts to Chinese control next year but will remain sealed off from the mainland except to a tiny trickle of legal immigrants and people with special visit permits .
+%%TYPE_ANNOTATIONS%%
+0	8	Hong_Kong
+53	61	Hong_Kong
+103	107	People's_Republic_of_China
+138	146	Hong_Kong
+191	199	Hong_Kong
+299	313	New_Territories
+363	367	People's_Republic_of_China
+392	398	Jiangsu
+587	595	Hong_Kong
+708	712	People's_Republic_of_China
+735	743	Hong_Kong
+749	755	United_Kingdom
+777	783	People's_Republic_of_China

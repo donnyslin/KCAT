@@ -1,0 +1,23 @@
+TENNIS - RESULTS AT HAMLET CUP .
+COMMACK , New York 1996-08-24
+Results at the Hamlet
+Cup tennis tournament on Sunday ( prefix number denotes
+seedings :
+Finals , singles
+5 - Andrei Medvedev ( Ukraine ) beat Martin Damm ( Czech Republic ) 7-5 6-3
+Finals , doubles
+Luke Jensen and Murphy Jensen ( U.S. ) beat Alexander Volkov
+( Russia ) and Handrik Dreekmann ( Germany ) 6-3 7-6 ( 7-5 )
+%%TYPE_ANNOTATIONS%%
+33	39	Commack,_New_York
+43	50	New_York_City
+173	187	Andriy_Medvedev
+191	197	Ukraine
+206	216	Martin_Damm
+220	233	Czech_Republic
+262	272	Luke_Jensen
+278	290	Murphy_Jensen
+294	297	United_States
+306	321	Alexander_Vladimirovich_Volkov
+325	330	Russia
+358	364	Germany

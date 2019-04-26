@@ -1,0 +1,70 @@
+BASEBALL - BRAVES RALLY TO BEAT CUBS .
+ATLANTA 1996-08-25
+Fred McGriff went 5-for-5 and homered twice , including a three-run blast with two out in the bottom of the ninth inning that lifted the Atlanta Braves to a 6-5 victory over the Chicago Cubs on Saturday .
+" I was just trying to hang in there and hit it up the middle , " said McGriff about his homer in the ninth . "
+I was just looking for the ball , trying to stay on it .
+Brad Clontz ( 6-2 ) picked up the win in relief for Atlanta , which has won 11 of its last 13 games .
+In Colorado , Mark Thompson threw an eight-hitter for his third complete game and Ellis Burks homered and drove in three runs as the Colorado Rockies beat the Pittsburgh Pirates 9-3 .
+Vinny Castilla and Dante Bichette each added two RBI for Colorado , which improved the major league 's best home mark to 44-20 .
+At Florida , Kevin Brown scattered seven hits over eight innings and Kurt Abbott snapped a sixth-inning tie with a two-run double as the Florida Marlins defeated the tired Cincinnati Reds 5-3 .
+The Marlins won for just the third time in nine games , taking advantage of a Reds ' team that has not had a day off since August 8th and was playing its fourth game in 43 hours .
+In Los Angeles , Tom Candiotti allowed two runs in seven innings and singled home the go-ahead run and Mike Piazza and Todd Hollandsworth drove in two runs apiece as the Los Angeles Dodgers defeated the New York Mets 7-5 .
+Candiotti ( 8-9 ) walked one , allowed five hits and struck out a season-high eight batters for Los Angeles , which has won 10 of its last 14 games .
+In San Diego , Joey Hamilton allowed two hits over seven innings and Rickey Henderson hit his major league-record 69th leadoff homer as the San Diego Padres defeated the Philadelphia Phillies 7-1 for their fifth win in six games .
+Hamilton ( 12-7 ) won his second straight start , allowing just a sixth-inning run and a pair of singles .
+In San Francisco , Pedro Martinez allowed two hits in eight innings and David Segui drove in two runs as the Montreal Expos shut out the San Francisco Giants 3-0 for their third straight win .
+Martinez ( 11-7 ) , who lasted just 1-1/3 innings in his last start against San Diego five days ago , pitched eight-plus innings , walking four and striking out 10 .
+In Houston , Orlando Miller 's two-run homer with one out in the bottom of the ninth off Todd Stottlemyre gave the Houston Astros a 3-1 win over the St. Louis Cardinals and left the teams in a virtual tie for the lead in the NL Central division .
+Shane Reynolds ( 16-6 ) fired a five-hitter , walking one and striking out six .
+%%TYPE_ANNOTATIONS%%
+11	16	Atlanta_Braves
+32	35	Chicago_Cubs
+39	45	Atlanta
+58	69	Fred_McGriff
+195	208	Atlanta_Braves
+236	247	Chicago_Cubs
+334	340	Fred_McGriff
+432	442	Brad_Clontz
+484	490	Atlanta_Braves
+537	544	Colorado
+548	560	Mark_Thompson_(baseball)
+616	626	Ellis_Burks
+667	682	Colorado_Rockies
+693	710	Pittsburgh_Pirates
+718	731	Vinny_Castilla
+737	750	Dante_Bichette
+775	782	Colorado_Rockies
+850	856	Florida_Marlins
+860	870	Kevin_Brown_(right-handed_pitcher)
+916	926	Kurt_Abbott
+984	998	Florida_Marlins
+1019	1033	Cincinnati_Reds
+1045	1051	Florida_Marlins
+1119	1122	Cincinnati_Reds
+1224	1234	Los_Angeles
+1238	1250	Tom_Candiotti
+1324	1334	Mike_Piazza
+1340	1357	Todd_Hollandsworth
+1391	1409	Los_Angeles_Dodgers
+1424	1436	New_York_Mets
+1444	1452	Tom_Candiotti
+1540	1550	Los_Angeles_Dodgers
+1597	1605	San_Diego
+1609	1621	Joey_Hamilton
+1663	1678	Rickey_Henderson
+1734	1749	San_Diego_Padres
+1764	1784	Philadelphia_Phillies
+1825	1832	Joey_Hamilton
+1935	1947	San_Francisco
+1951	1964	Pedro_Martínez
+2004	2014	David_Segui
+2041	2054	Montreal_Expos
+2069	2088	San_Francisco_Giants
+2125	2132	Pedro_Martínez
+2201	2209	San_Diego_Padres
+2294	2300	Houston
+2304	2317	Orlando_Miller
+2380	2395	Todd_Stottlemyre
+2406	2419	Houston_Astros
+2440	2458	St._Louis_Cardinals
+2538	2551	Shane_Reynolds

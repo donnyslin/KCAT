@@ -1,0 +1,14 @@
+CRICKET - PAKISTAN DECLARE FIRST INNINGS AT 521-8 .
+LONDON 1996-08-25
+Pakistan declared their first
+innings at 521-8 on the fourth day of the third and final test
+against England at The Oval on Sunday .
+Scores : England 326 ; Pakistan 521-8 .
+%%TYPE_ANNOTATIONS%%
+10	17	Pakistan_national_cricket_team
+52	57	London
+70	77	Pakistan_national_cricket_team
+171	177	England_cricket_team
+182	189	The_Oval
+212	218	England_cricket_team
+226	233	Pakistan_national_cricket_team

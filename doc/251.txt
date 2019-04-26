@@ -1,0 +1,68 @@
+CRICKET - ENGLISH COUNTY CHAMPIONSHIP SCORES .
+LONDON 1996-08-24
+Close of play scores in four-day
+English County Championship cricket matches on Saturday :
+Final day
+At Weston-super-Mare : Match abandoned as a draw - rain .
+Durham 326 ( D. Cox 95 not out , S. Campbell 69 ; G. Rose 7-73 ) .
+Somerset 298-6 ( M. Lathwell 85 , R. Harden 65 ) .
+Somerset 9 points ,
+Durham 8 .
+Third day
+At Colchester : Gloucestershire 280 and 27-4 .
+Essex 532-8
+declared ( G. Gooch 111 , R. Irani 91 , P. Prichard 88 , D. Robinson 72 ;
+M. Alleyne 4-80 ) .
+At Cardiff : Kent 255-3 ( D. Fulton 64 , M. Walker 59 , C. Hooper
+52 not out ) v Glamorgan .
+No play - rain .
+At Leicester : Leicestershire 353 ( P. Simmons 108 , P. Nixon 67 ;
+S. Renshaw 4-56 , J. Bovill 4-102 ) .
+Hampshire 81-7 .
+At Northampton : Sussex 389 and 112 ( C. Ambrose 6-26 ) .
+Northamptonshire 361 ( K. Curran 117 , D. Ripley 66 not out ) and
+42-3 .
+At Trent Bridge : Nottinghamshire 446-9 declared ( G. Archer
+143 , M. Dowman 107 , W. Noon 57 ; B. Julian 4-104 ) .
+Surrey 128-4
+( A. Brown 56 not out ) .
+At Worcester : Warwickshire 310 ( A. Giles 83 , T. Munton 54 not
+out , W. Khan 52 ; R. Illingworth 4-54 , S. Lampitt 4-90 ) .
+Worcestershire 205-9 ( K. Spiring 52 ) .
+At Headingley : Yorkshire 529-8 declared ( C. White 181 ,
+R. Blakey 109 not out , M. Moxon 66 , M. Vaughan 57 ) .
+Lancashire 323
+( N. Fairbrother 86 , M. Watkinson 64 ; D. Gough 4-53 ) and 210-5
+( N. Speak 65 not out , N. Fairbrother 55 ) .
+%%TYPE_ANNOTATIONS%%
+10	36	County_Championship
+47	52	London
+98	124	County_Championship
+169	185	Weston-super-Mare
+224	229	Durham_County_Cricket_Club
+291	298	Somerset_County_Cricket_Club
+342	349	Somerset_County_Cricket_Club
+362	367	Durham_County_Cricket_Club
+386	395	Castle_Park_Cricket_Ground
+399	413	Gloucestershire_County_Cricket_Club
+430	434	Essex_County_Cricket_Club
+539	545	Cardiff
+549	552	Kent_County_Cricket_Club
+617	625	Glamorgan_County_Cricket_Club
+649	657	Leicester
+661	674	Leicestershire_County_Cricket_Club
+751	759	Hampshire_County_Cricket_Club
+771	781	Northampton
+785	790	Sussex_County_Cricket_Club
+826	841	Northamptonshire_County_Cricket_Club
+902	913	Trent_Bridge
+917	931	Nottinghamshire_County_Cricket_Club
+1015	1020	Surrey_County_Cricket_Club
+1057	1065	Worcester
+1069	1080	Warwickshire_County_Cricket_Club
+1180	1193	Worcestershire_County_Cricket_Club
+1224	1233	Headingley_Stadium
+1237	1245	Yorkshire_County_Cricket_Club
+1335	1344	Lancashire_County_Cricket_Club
+1372	1383	Mike_Watkinson
+1390	1397	Darren_Gough

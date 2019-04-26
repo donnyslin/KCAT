@@ -1,0 +1,46 @@
+CRICKET - ENGLISH COUNTY CHAMPIONSHIP STANDINGS .
+LONDON 1996-08-26
+English County Championship
+cricket standings after Monday 's matches ( tabulated under
+played , won , lost , drawn , batting bonus points , bowling bonus
+points , total points ) :
+Essex 13 7 2 4 45 43 212
+Kent 14 7 1 6 42 40 212
+Derbyshire 13 7 2 4 41 43 208
+Leicestershire 13 6 1 6 43 45 202
+Surrey 13 6 1 6 37 48 199
+Yorkshire 14 6 5 3 41 46 192
+Warwickshire 13 6 4 3 32 43 180
+Middlesex 13 5 5 3 26 45 160
+Sussex 13 5 6 2 27 43 156
+Somerset 13 4 5 4 27 49 152
+Worcestershire 13 3 3 7 33 48 150
+Glamorgan 13 4 5 4 36 32 144
+Hampshire 13 3 5 5 28 46 137
+Gloucestershire 14 3 6 5 19 47 129
+Northamptonshire 13 2 6 5 30 43 120
+Lancashire 13 1 4 8 38 37 115
+Nottinghamshire 13 1 6 6 34 40 108
+Durham 14 0 9 5 22 50 87
+%%TYPE_ANNOTATIONS%%
+10	36	County_Championship
+50	55	London
+68	94	County_Championship
+249	253	Essex_County_Cricket_Club
+274	277	Kent_County_Cricket_Club
+298	307	Derbyshire_County_Cricket_Club
+328	341	Leicestershire_County_Cricket_Club
+362	367	Surrey_County_Cricket_Club
+388	396	Yorkshire_County_Cricket_Club
+417	428	Warwickshire_County_Cricket_Club
+449	457	Middlesex_County_Cricket_Club
+478	483	Sussex_County_Cricket_Club
+504	511	Somerset_County_Cricket_Club
+532	545	Worcestershire_County_Cricket_Club
+566	574	Glamorgan_County_Cricket_Club
+595	603	Hampshire_County_Cricket_Club
+624	638	Gloucestershire_County_Cricket_Club
+659	674	Northamptonshire_County_Cricket_Club
+695	704	Lancashire_County_Cricket_Club
+725	739	Nottinghamshire_County_Cricket_Club
+760	765	Durham_County_Cricket_Club

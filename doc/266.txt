@@ -1,0 +1,34 @@
+SOCCER - DISAPPOINTING AJAX SLUMP 2-0 AT HEERENVEEN .
+AMSTERDAM 1996-08-24
+Dutch champions Ajax Amsterdam faltered in their second league match of the season on Saturday losing 2-0 away at Heerenveen .
+Ajax , who had a dismal series of pre-season results before beating NAC of Breda in their opening game , had the best of an entertaining first half but failed to break the deadlock .
+Eight minutes after the interval , Heerenveen 's Romeo Wouden broke through the Amsterdam defence , left defender John Veldman standing and curled the ball beyond goalkeeper Edwin van der Sar into the Ajax net .
+Ajax , without injured defenders Marcio Santos and Winston Bogarde and strikers Jari Litmanen and Marc Overmars , then stepped up the pace and looked certain to equalise .
+But they left gaps at the back and on 73 minutes Danish striker Jon Dahl Tomasson rushed out of his own half , beat the Ajax defence and lobbed van der Sar .
+The defeat means Ajax 's main title contenders PSV Eindhoven , who beat the champions 3-0 in the traditional league curtain-raiser , can go three points clear of their rivals if they beat Groningen on Sunday .
+%%TYPE_ANNOTATIONS%%
+23	26	AFC_Ajax
+41	50	SC_Heerenveen
+54	62	Amsterdam
+75	79	Eredivisie
+91	104	AFC_Ajax
+189	198	SC_Heerenveen
+202	205	AFC_Ajax
+270	272	NAC_Breda
+277	281	Breda
+420	429	SC_Heerenveen
+499	510	John_Veldman
+559	575	Edwin_van_der_Sar
+586	589	AFC_Ajax
+597	600	AFC_Ajax
+630	642	Márcio_Roberto_dos_Santos
+648	662	Winston_Bogarde
+677	689	Jari_Litmanen
+695	707	Marc_Overmars
+818	823	Denmark
+833	849	Jon_Dahl_Tomasson
+889	892	AFC_Ajax
+913	923	Edwin_van_der_Sar
+944	947	AFC_Ajax
+974	986	PSV_Eindhoven
+1115	1123	FC_Groningen

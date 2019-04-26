@@ -1,0 +1,44 @@
+SQUASH - HONG KONG OPEN FIRST ROUND RESULTS .
+HONG KONG 1996-08-27
+First round results in the Hong Kong Open squash tournament on Tuesday ( prefix denotes seeding ) :
+1 - Jansher Khan ( Pakistnn ) beat Jackie Lee ( Hong Kong ) 15-8 15-8
+15-6
+3 - Brett Martin ( Australia ) beat David Evans ( Wales ) 14-17 15-1
+13-15 17-14 15-12
+Mark Cairns ( England ) beat 6 - Del Harris ( England ) 15-12 7-15
+15-6 15-12
+Anthony Hill ( Australia ) beat 8 - Mark Chaloner ( England ) 15-11
+17-16 17-16
+Simon Frenz ( Germany ) beat Martin Heath ( Scotland ) 12-15 15-6
+15-4 12-15 15-14
+Joseph Kneipp ( Australia ) beat Ahmed Faizy ( Egypt ) 15-8 12-15
+15-14 15-9
+Mir Zaman Gul ( Pakistan ) beat Stephen Meads ( England ) 10-15
+15-12 15-10 15-3
+Dan Jensen ( Australia ) beat Anders Thoren ( Sweden ) 8-15 15-12
+10-15 15-5 15-11
+%%TYPE_ANNOTATIONS%%
+46	54	Hong_Kong
+171	182	Jansher_Khan
+215	223	Hong_Kong
+246	257	Brett_Martin
+261	269	Australia
+278	288	David_Evans_(squash_player)
+292	296	Wales
+329	339	Mark_Cairns_(squash_player)
+343	349	England
+362	371	Del_Harris_(squash_player)
+375	381	England
+422	430	Australia
+443	455	Mark_Chaloner
+459	465	England
+501	507	Germany
+516	527	Martin_Heath
+531	538	Scotland
+570	582	Joe_Kneipp
+586	594	Australia
+617	621	Egypt
+663	670	Pakistan
+695	701	England
+741	749	Australia
+774	779	Sweden

@@ -1,0 +1,48 @@
+Palestinians to strike over Jerusalem demolition .
+JERUSALEM 1996-08-27
+Palestinian leaders in Jerusalem called on Tuesday for a two-hour strike to protest what they called Israel 's war on Arab East Jerusalem after police demolished a building there .
+Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .
+Police used a huge crane to lift a bulldozer over the Old City 's walls to reach the building amidst narrow alleys , witnesses said .
+Bystanders at the scene said work had begun on the building in 1991 and it had yet to be completed when the Israeli police bulldozed it .
+The Palestinian Authority was set up under the 1993 PLO-Israel interim peace deal .
+" There has been a call for a general strike between one ( 1000 GMT ) and three o'clock , " Palestinian lawmaker Ahmed Hashem Zighayer told Reuters .
+" This is a war that has been declared on us and we want our people to come and see the site where they declared the war . "
+Prime Minister Benjamin Netanyahu 's government , which took office in June , has said it will not allow the Authority , set up under a 1993 interim peace deal to control parts of the Gaza Strip and West Bank , to operate in Jerusalem .
+Israel 's previous government held the same position but in general turned a blind eye to Palestinian Authority activity in the city .
+Tuesday 's demolition came a day after PLO officials said they had bowed to Netanyahu 's demand they close offices in Jerusalem .
+They said two of the three offices Israel wanted closed had been shut .
+Netanyahu has made closure of the three offices a condition for resuming peace negotiations with the Palestine Liberation Organisation ( PLO ) .
+Israel captured Arab East Jerusalem in the 1967 Middle East war and annexed it .
+It says it will never cede any part of the city .
+Palestinians want East Jerusalem as capital of a future state .
+The city is up for negotiation at final peace talks which have yet to resume under Netanyahu .
+%%TYPE_ANNOTATIONS%%
+0	11	State_of_Palestine
+28	36	Jerusalem
+51	59	Jerusalem
+72	82	State_of_Palestine
+95	103	Jerusalem
+173	178	Israel
+253	259	Israel
+324	332	Jerusalem
+337	344	Old_City_(Jerusalem)
+506	513	Old_City_(Jerusalem)
+694	700	Israel
+728	748	Palestinian_National_Authority
+872	874	Greenwich_Mean_Time
+900	910	State_of_Palestine
+948	954	Reuters
+1098	1115	Benjamin_Netanyahu
+1267	1276	Gaza_Strip
+1308	1316	Jerusalem
+1320	1325	Israel
+1410	1430	Palestinian_National_Authority
+1531	1539	Benjamin_Netanyahu
+1573	1581	Jerusalem
+1620	1625	Israel
+1657	1665	Benjamin_Netanyahu
+1802	1807	Israel
+1850	1860	Middle_East
+1933	1944	State_of_Palestine
+1951	1964	East_Jerusalem
+2080	2088	Benjamin_Netanyahu

@@ -1,0 +1,34 @@
+German chancellor to meet Yeltsin Sept 7 - Interfax .
+MOSCOW 1996-08-28
+German Chancellor Helmut Kohl , who spoke to President Boris Yeltsin by telephone on Wednesday , plans a trip to Moscow on September 7 and will visit Yeltsin at his vacation home near Moscow , Interfax news agency said .
+Interfax , quoting Yeltsin press secretary Sergei Yastrzhembsky , said Yeltsin and Kohl had discussed bilateral relations and international issues on the telephone .
+Yeltsin had told Kohl about efforts to find a political solution to the conflict in Russia 's breakaway Chechnya region , Interfax added .
+Yeltsin , who left on vacation on Monday , is staying at an exclusive private hunting lodge some 100 km ( 60 miles ) from Moscow .
+Germany has been one of the loudest critics of Russia 's military intervention in Chechnya , a 20-month-old conflict in which tens of thousands of people have been killed .
+%%TYPE_ANNOTATIONS%%
+0	5	Germany
+26	32	Boris_Yeltsin
+43	50	Interfax
+54	59	Moscow
+72	77	Germany
+90	100	Helmut_Kohl
+127	139	Boris_Yeltsin
+185	190	Moscow
+222	228	Boris_Yeltsin
+256	261	Moscow
+265	272	Interfax
+293	300	Interfax
+312	318	Boris_Yeltsin
+336	355	Sergey_Yastrzhembsky
+364	370	Boris_Yeltsin
+376	379	Helmut_Kohl
+459	465	Boris_Yeltsin
+476	479	Helmut_Kohl
+543	548	Russia
+563	570	Chechnya
+581	588	Interfax
+598	604	Boris_Yeltsin
+720	725	Moscow
+729	735	Germany
+776	781	Russia
+811	818	Chechnya

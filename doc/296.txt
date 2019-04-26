@@ -1,0 +1,66 @@
+Clinton campaign busy making " news " .
+Laurence McQuillan
+WASHINGTON 1996-08-24
+President Bill Clinton has served notice he intends to be busy " making news " -- or at least doing things that look and sound like it in a campaign year .
+With Democrats gathering in Chicago to start a convention on Monday to nominate him for a second term as president , Clinton plans a steady parade of events designed to highlight his leadership and dim the glow of the just-concluded Republican conclave that gave a boost to rival Bob Dole .
+After a week of carefully orchestrated events signing into law bills passed by the Republican-controlled Congress , Clinton used his Saturday radio address to the nation to proudly " announce " a development in the war on crime .
+" Sixty days ago I directed the attorney general to draw up a plan for a national registry of sex offenders , " Clinton said . "
+That plan has now reached my desk . "
+" Today I am pleased to announce that we are following through on our commitment to keep track of these criminals , not just in a single state but wherever they go , " he said .
+Actually , creation of such a registry was underway without Clinton lifting a finger .
+Attorney General Janet Reno 's report -- all nine pages of it , including footnotes -- offers only the interim services of the FBI until a formal registry on sex offenders has been established .
+Two months ago , Clinton announced he wanted an interim effort established .
+Now , 60 days later , he had a chance to talk about it again .
+It is an example of Clinton 's strategic planning as he heads into the stretch drive for the Nov. 5 presidential election .
+Such things do not happen by chance in the Clinton White House , they are part of his political chess game .
+In the past week Clinton signed into law an increase in the minimium wage , a bill that makes it easier for someone with a pre-existing health problem to change jobs , and sweeping changes overhauling the nation 's welfare system .
+" America can look back on a week of remarkable achievement , " Clinton said , without even a passing reference to the Republican majority in the House and Senate .
+" America is on the right track offering more opportunity , demanding more responsibility , building a stronger community , the sense of shared values and stronger families , " he said in striking the theme of his coming week .
+According to a senior campaign official , Clinton " will be making a lot of news in the coming week -- something different each day . "
+Clinton departs on Sunday on a four-day train trip through West Virginia , Kentucky , Ohio , Michigan and Indiana while fellow Democrats are gathered in Chicago .
+" He 'll make news during the day ... and then at night the attention will go to the convention , " said the campaign official . "
+We think it 'll work really well . "
+Although officials decline to say just what each day 's " news " will be , the intent is to put a focus on Clinton himself and not just those attending the party 's convention .
+Each day of the trip will have a late start , so that network television correspondents will be able to do live reports for morning programmes .
+Campaign officials then hope the day 's " news " event will be showcased on evening television news shows as a lead-in for that night 's convention programme .
+" We 'll be concentrating ... on supporting the president as he is on the trip and making significant public policy statements related to some of his plans for the future , " said White House Press Secretary Mike McCurry .
+McCurry said that when Clinton delivers his acceptance address on Thursday night to fellow Democrats and a national television audience , he will " set out a road map " for the nation 's future -- one the president hopes guides him back to the White House for four more years .
+%%TYPE_ANNOTATIONS%%
+0	6	Bill_Clinton
+59	68	Washington,_D.C.
+91	102	Bill_Clinton
+242	250	Democratic_Party_(United_States)
+265	271	Chicago
+354	360	Bill_Clinton
+470	479	Republican_Party_(United_States)
+517	524	Bob_Dole
+633	640	United_States_Congress
+644	650	Bill_Clinton
+870	876	Bill_Clinton
+1163	1169	Bill_Clinton
+1207	1216	Janet_Reno
+1317	1319	Federal_Bureau_of_Investigation
+1402	1408	Bill_Clinton
+1545	1551	Bill_Clinton
+1692	1698	Bill_Clinton
+1700	1710	White_House
+1775	1781	Bill_Clinton
+1992	1998	United_States
+2054	2060	Bill_Clinton
+2109	2118	Republican_Party_(United_States)
+2157	2163	United_States
+2425	2431	Bill_Clinton
+2519	2525	Bill_Clinton
+2578	2590	West_Virginia
+2594	2601	Kentucky
+2605	2608	Ohio
+2612	2619	Michigan
+2625	2631	Indiana
+2646	2654	Democratic_Party_(United_States)
+2672	2678	Chicago
+2957	2963	Bill_Clinton
+3513	3523	White_House
+3541	3552	Mike_McCurry_(press_secretary)
+3579	3585	Bill_Clinton
+3647	3655	Democratic_Party_(United_States)
+3800	3810	White_House

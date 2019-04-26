@@ -1,0 +1,79 @@
+RUGBY LEAGUE - AUSTRALIAN RUGBY LEAGUE RESULTS / STANDINGS .
+SYDNEY 1996-08-25
+Results of Australian rugby league matches played at the weekend .
+Played Sunday :
+Sydney Bulldogs 17 South Queensland 16 Brisbane 38 Gold Coast 10
+North Sydney 46 South Sydney 4
+Illawarra 42 Penrith 2
+St George 20 North Queensland 24
+Manly 42 Western Suburbs 12
+Played Saturday :
+Parramatta 14 Sydney Tigers 26
+Newcastle 24 Western Reds 20
+Played Friday :
+Canberra 30 Auckland 6
+Premiership standings ( tabulate under played , won , drawn ,
+lost , points for , against , total points ) :
+Manly 21 17 0 4 501 181 34
+Brisbane 21 16 0 5 569 257 32
+North Sydney 21 14 2 5 560 317 30
+Sydney City 20 14 1 5 487 293 29
+Cronulla 20 12 2 6 359 258 26
+Canberra 21 12 1 8 502 374 25
+St George 21 12 1 8 421 344 25
+Newcastle 21 11 1 9 416 366 23
+Western Suburbs 21 11 1 9 382 426 23
+Auckland 21 11 0 10 406 389 22
+Sydney Tigers 21 11 0 10 309 435 22
+Parramatta 21 10 1 10 388 391 21
+Sydney Bulldogs 21 10 0 11 325 356 20
+Illawarra 21 8 0 13 395 432 16
+Western Reds 21 6 1 14 297 398 13
+Penrith 21 6 1 14 339 448 13
+North Queensland 21 6 0 15 266 593 12
+Gold Coast 21 5 1 15 351 483 11
+South Sydney 21 5 1 15 304 586 11
+South Queensland 21 4 0 17 210 460 8
+%%TYPE_ANNOTATIONS%%
+0	11	Rugby_league
+15	24	Australia
+61	66	Sydney
+90	99	Australia
+162	176	Canterbury-Bankstown_Bulldogs
+181	196	South_Queensland_Crushers
+201	208	Brisbane_Broncos
+213	222	Gold_Coast_Chargers
+227	238	North_Sydney_Bears
+243	254	South_Sydney_Rabbitohs
+258	266	Illawarra_Steelers
+271	277	Penrith_Panthers
+281	289	St._George_Dragons
+294	309	North_Queensland_Cowboys
+314	318	Manly-Warringah_Sea_Eagles
+323	337	Western_Suburbs_Magpies
+360	369	Parramatta_Eels
+374	386	Balmain_Tigers
+391	399	Newcastle_Knights
+404	415	WA_Reds
+436	443	Canberra_Raiders
+448	455	New_Zealand_Warriors
+568	572	Manly-Warringah_Sea_Eagles
+595	602	Brisbane_Broncos
+625	636	North_Sydney_Bears
+659	669	Sydney_Roosters
+692	699	Cronulla-Sutherland_Sharks
+722	729	Canberra_Raiders
+752	760	St._George_Dragons
+783	791	Newcastle_Knights
+814	828	Western_Suburbs_Magpies
+851	858	New_Zealand_Warriors
+882	894	Balmain_Tigers
+918	927	Parramatta_Eels
+951	965	Canterbury-Bankstown_Bulldogs
+989	997	Illawarra_Steelers
+1020	1031	WA_Reds
+1054	1060	Penrith_Panthers
+1083	1098	North_Queensland_Cowboys
+1121	1130	Gold_Coast_Titans
+1153	1164	South_Sydney_Rabbitohs
+1187	1202	South_Queensland_Crushers

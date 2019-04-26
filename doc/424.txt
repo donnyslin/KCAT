@@ -1,0 +1,64 @@
+SOCCER - CZECH FIRST DIVISION RESULTS / STANDINGS .
+PRAGUE 1996-08-26
+Results of the Czech Republic 's
+first division soccer matches at the weekend :
+Petra Drnovice 1 Slovan Liberec 3
+SK Slavia Praha 3 SK Ceske Budejovice 0
+FK Jablonec 3 Viktoria Zizkov 1
+Banik Ostrava 3 FK Teplice 1
+Boby Brno 1 Sigma Olomouc 0
+FC Bohemians 0 FC Karvina 2
+SK Hradec Kralove 0 Kaucuk Opava 0
+Playing Monday : Viktoria Plzen v AC Sparta Praha
+Standings ( tabulate under games played , won , drawn , lost ,
+goals for , against , points ) :
+Boby Brno 3 3 0 0 5 2 9
+Banik Ostrava 3 2 0 1 7 3 6
+FK Jablonec 3 2 0 1 5 2 6
+SK Slavia Praha 3 1 2 0 6 3 5
+Kaucuk Opava 3 1 2 0 2 1 5
+Sigma Olomouc 3 1 1 1 6 3 4
+Petra Drnovice 3 1 1 1 7 5 4
+Slovan Liberec 3 1 1 1 5 4 4
+FK Teplice 3 1 1 1 3 4 4
+FC Karvina 3 1 1 1 3 5 4
+SK Ceske Budejovice 3 1 1 1 3 5 4
+Viktoria Plzen 2 0 2 0 2 2 2
+AC Sparta Praha 2 0 1 1 3 4 1
+FC Bohemians 3 0 1 2 1 4 1
+Viktoria Zizkov 3 0 1 2 3 8 1
+SK Hradec Kralove 3 0 1 2 1 7 1
+%%TYPE_ANNOTATIONS%%
+9	13	Czech_Republic
+52	57	Prague
+85	98	Czech_Republic
+150	163	FK_Drnovice
+167	180	FC_Slovan_Liberec
+184	198	Slavia_Prague
+202	220	SK_Dynamo_České_Budějovice
+224	234	FK_Baumit_Jablonec
+238	252	FK_Viktoria_Žižkov
+256	268	FC_Baník_Ostrava
+272	281	FK_Teplice
+285	293	FC_Zbrojovka_Brno
+297	309	SK_Sigma_Olomouc
+313	324	Bohemians_1905
+341	357	FC_Hradec_Králové
+361	372	SFC_Opava
+393	406	FC_Viktoria_Plzeň
+410	424	Sparta_Prague
+522	530	FC_Zbrojovka_Brno
+546	558	FC_Baník_Ostrava
+574	584	FK_Baumit_Jablonec
+600	614	Slavia_Prague
+630	641	SFC_Opava
+657	669	SK_Sigma_Olomouc
+685	698	FK_Drnovice
+714	727	FC_Slovan_Liberec
+743	752	FK_Teplice
+793	811	SK_Dynamo_České_Budějovice
+827	840	FC_Viktoria_Plzeň
+856	870	Sparta_Prague
+886	897	Bohemians_1905
+913	927	FK_Viktoria_Žižkov
+943	959	FC_Hradec_Králové

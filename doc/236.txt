@@ -1,0 +1,26 @@
+Promodes set to sell German assets - paper .
+PARIS 1996-08-23
+German retailer Promodes is in advanced talks about selling its German assets and the retailer 's board might decide as soon as Tuesday to sell the assets to Spar AG , Les Echos newspaper said on Friday .
+It said investment bank Rothschild & Cie was an intermediary in the talks and added that unlisted German retailers Metro , Rewe and Lidl were also still in discussions .
+Promodes has in Germany its Promo hypermarket unit with 36 Continent superstores , which is 1995 generated 4.7 percent of total Promodes sales .
+The French group entered the German market in 1990 , buying
+In June , Promodes signed an outline agreement to sell its Specia unit -- which runs 100 Dia stores in France -- to Germany 's Aldi .
+Promodes was not immediately available for comment .
+-- Paris newsroom +33 1 4221 5452
+%%TYPE_ANNOTATIONS%%
+21	26	Germany
+45	49	Paris
+62	67	Germany
+126	131	Germany
+230	238	Les_Échos_(France)
+365	370	Germany
+382	386	Metro_AG
+399	402	Lidl
+453	459	Germany
+586	591	France
+611	616	Germany
+731	733	Dia_(supermarket_chain)
+745	750	France
+758	764	Germany
+769	772	Aldi
+832	836	Paris

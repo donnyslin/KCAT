@@ -1,0 +1,17 @@
+Keane wins contract from ING units .
+BOSTON 1996-08-29
+Software services company Keane Inc said it had won a year 2000 compliance contract from Life Insurance Co of Georgia and Southland Life Insurance Co , both part of The Netherlands ' ING Group .
+The company said in a statement late on Wednesday it would conduct an enterprise assessment and strategic compliance plan for preparing all the mainframe systems of Life of Georgia and Southland Life to operate in the new century .
+The project will be managed by Keane 's Atlanta office .
+" The client 's goal is to complete its year 2000 conversion activities by the end of 1997 , " the statement said .
+-- New York newsroom , ( 212 ) 859-1610
+%%TYPE_ANNOTATIONS%%
+0	4	Keane_(company)
+25	27	ING_Group
+37	42	Boston
+81	89	Keane_(company)
+220	234	Netherlands
+238	246	ING_Group
+513	517	Keane_(company)
+522	528	Atlanta
+658	665	New_York_City

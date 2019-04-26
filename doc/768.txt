@@ -1,0 +1,18 @@
+France 's Juppe on official visit to Greece Sep 15 .
+ATHENS 1996-08-28
+French Premier Alain Juppe will pay an official visit to Greece on September 15 to celebrate 150 years of the French Archaeological Society , government spokesman Dimitris Reppas said on Wednesday .
+Juppe will meet Greek Prime Minister Costas Simitis and Foreign Minister Theodoros Pangalos , Reppas told reporters .
+" The French premier 's visit was planned to coincide with the Archaeological Society 's celebrations .
+The Greek government was asked for an official meeting with the prime minister and the foreign minister and it said yes , " Reppas said .
+%%TYPE_ANNOTATIONS%%
+0	5	France
+37	42	Greece
+53	58	Athens
+71	76	France
+86	96	Alain_Juppé
+128	133	Greece
+286	290	Greece
+307	320	Costas_Simitis
+343	360	Theodoros_Pangalos
+394	399	France
+496	500	Greece

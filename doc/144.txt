@@ -1,0 +1,34 @@
+TENNIS - INJURED CHANDA RUBIN OUT OF U.S. OPEN .
+NEW YORK 1996-08-23
+Promising 10th-ranked American Chanda Rubin has pulled out of the U.S. Open Tennis Championships with a wrist injury , tournament officials announced .
+The 20-year-old Rubin , who was to be seeded 11th , is still suffering from tendinitis of the right wrist that has kept her sidelined in recent months .
+Rubin 's misfortune turned into a very lucky break for eighth-seeded Olympic champion Lindsay Davenport .
+Davenport had drawn one of the toughest first-round assignments of any of the seeded players in 17th-ranked Karina Habsudova of Slovakia .
+But as the highest-ranked non-seeded player in the tournament , Habsudova will be moved into Rubin 's slot in the draw , while Davenport will now get a qualifier in the first round , according to U.S. Tennis Association officials .
+Rubin is the third notable withdrawal from the women 's competition after 12th-ranked former Australian Open champion Mary Pierce and 20th-ranked Wimbledon semifinalist Meredith McGrath pulled out earlier this week with injuries .
+Men 's Australian Open champion Boris Becker will also miss the year 's final Grand Slam with a wrist injury .
+%%TYPE_ANNOTATIONS%%
+17	28	Chanda_Rubin
+37	45	US_Open_(tennis)
+49	56	New_York_City
+91	98	United_States
+100	111	Chanda_Rubin
+135	164	US_Open_(tennis)
+237	241	Chanda_Rubin
+374	378	Chanda_Rubin
+443	449	Summer_Olympic_Games
+460	476	Lindsay_Davenport
+480	488	Lindsay_Davenport
+588	603	Karina_Habšudová
+608	615	Slovakia
+712	716	Chanda_Rubin
+746	754	Lindsay_Davenport
+815	837	United_States_Tennis_Association
+851	855	Chanda_Rubin
+944	958	Australian_Open
+969	979	Mary_Pierce
+997	1005	Wimbledon_Championships
+1020	1035	Meredith_McGrath
+1089	1103	Australian_Open
+1114	1125	Boris_Becker
+1160	1169	Grand_Slam_(tennis)

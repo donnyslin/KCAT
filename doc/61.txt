@@ -1,0 +1,23 @@
+CRICKET - POLICE COMMANDOS ON HAND FOR AUSTRALIANS ' FIRST MATCH .
+COLOMBO 1996-08-22
+Armed police commandos patrolled the ground when Australia opened their short tour of Sri Lanka with a five-run win over the country 's youth team on Thursday .
+Australia , in Sri Lanka for a limited overs tournament which also includes India and Zimbabwe , have been promised the presence of commandos , sniffer dogs and plainclothes policemen to ensure the tournament is trouble-free .
+They are making their first visit to the island since boycotting a World Cup fixture in February because of fears over ethnic violence .
+Australia , batting first in Thursday 's the warm-up match , scored 251 for seven from their 50 overs .
+Ricky Ponting led the way with 100 off 119 balls with two sixes and nine fours before retiring .
+The youth side replied with 246 for seven .
+Australian coach Geoff Marsh said he was impressed with the competitiveness of the opposition .
+" We were made to sweat to win , " he said .
+%%TYPE_ANNOTATIONS%%
+39	49	Australia_national_cricket_team
+67	73	Colombo
+135	143	Australia_national_cricket_team
+172	180	Sri_Lanka
+247	255	Australia_national_cricket_team
+262	270	Sri_Lanka
+323	327	India_national_cricket_team
+333	340	Zimbabwe_national_cricket_team
+611	619	Australia_national_cricket_team
+715	727	Ricky_Ponting
+856	865	Australia_national_cricket_team
+873	883	Geoff_Marsh

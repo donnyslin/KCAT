@@ -1,0 +1,19 @@
+U.S. lauds Russian-Chechen deal .
+WASHINGTON 1996-08-27
+The United States on Tuesday welcomed a deal aimed at resuming a troop withdrawal from the embattled Chechen capital , Grozny .
+" That is a welcome development .
+We urge both sides to continue their dialogue aimed at reaching a political settlement " of the 20-month conflict between Russian troops and Chechen rebels , State Department spokesman Glyn Davies said .
+The commander of Russian troops in Chechnya , Vyacheslav Tikhomirov , and Chechen rebel chief-of-staff Aslan Mashadov signed the deal under which the troop withdrawal is to resume on Wednesday .
+%%TYPE_ANNOTATIONS%%
+0	3	United_States
+34	43	Washington,_D.C.
+60	72	United_States
+157	163	Chechnya
+175	180	Grozny
+340	346	Russia
+359	365	Chechnya
+376	391	United_States_Department_of_State
+439	445	Russia
+457	464	Chechnya
+496	502	Chechnya
+525	538	Aslan_Maskhadov

@@ -1,0 +1,74 @@
+SOCCER - JONK RETURNS TO DUTCH SQUAD FOR BRAZIL FRIENDLY .
+ROTTERDAM 1996-08-26
+Dutch coach Guus Hiddink on Monday recalled midfielder Wim Jonk after a 14-month absence for a friendly against World Cup holders Brazil in Amsterdam on Sunday .
+Feyenoord midfielder Jean-Paul van Gastel was also named to make his debut in the 18-man squad .
+Hiddink did not name a replacement captain for Danny Blind , who announced his retirement from international soccer on Sunday .
+Ronald de Boer and Dennis Bergkamp are the likely contenders to lead the team .
+The 35-year-old Blind , who won 42 caps for the Netherlands , said he wanted to concentrate on playing for his Dutch club Ajax Amsterdam .
+AC Milan midfielder Edgar Davids , who was sent home early from the European championship in England after a clash with the coach , was left out of the squad .
+Squad :
+Goalkeepers - Edwin van der Sar ( Ajax ) , Ed de Goey ( Feyenoord ) .
+Defenders - Frank de Boer ( Ajax ) , John Veldman ( Ajax ) , Jaap Stam ( PSV ) , Arthur Numan ( PSV ) , Michael Reiziger ( AC Milan ) , Johan de Kock ( Schalke ' 04 ) .
+Midfielders - Richard Witschge ( Ajax ) , Philip Cocu ( PSV ) , Wim Jonk ( PSV ) , Aron Winter ( Internazionale ) , Jean-Paul van Gastel ( Feyenoord ) , Clarence Seedorf ( Real Madrid ) .
+Strikers - Ronald de Boer ( Ajax ) , Gaston Taument ( Feyenoord ) , Jordi Cruyff ( Manchester United ) , Dennis Bergkamp ( Arsenal ) .
+%%TYPE_ANNOTATIONS%%
+9	12	Wim_Jonk
+25	29	Netherlands
+41	46	Brazil
+59	67	Rotterdam
+80	84	Netherlands
+92	103	Guus_Hiddink
+135	142	Wim_Jonk
+192	200	FIFA_World_Cup
+210	215	Brazil_national_football_team
+220	228	Amsterdam
+242	250	Feyenoord
+263	282	Jean-Paul_van_Gastel
+339	345	Guus_Hiddink
+386	396	Danny_Blind
+467	480	Ronald_de_Boer
+486	500	Dennis_Bergkamp
+563	567	Danny_Blind
+595	605	Netherlands_national_football_team
+658	662	Netherlands
+669	682	AFC_Ajax
+686	693	A.C._Milan
+706	717	Edgar_Davids
+754	761	Europe
+779	785	England
+868	884	Edwin_van_der_Sar
+888	891	AFC_Ajax
+897	906	Ed_de_Goey
+910	918	Feyenoord
+936	948	Frank_de_Boer
+952	955	AFC_Ajax
+961	972	John_Veldman
+976	979	AFC_Ajax
+985	993	Jaap_Stam
+997	999	PSV_Eindhoven
+1005	1016	Arthur_Numan
+1020	1022	PSV_Eindhoven
+1028	1043	Michael_Reiziger
+1047	1054	A.C._Milan
+1060	1072	Johan_de_Kock
+1076	1082	FC_Schalke_04
+1107	1122	Richard_Witschge
+1126	1129	AFC_Ajax
+1135	1145	Phillip_Cocu
+1149	1151	PSV_Eindhoven
+1157	1164	Wim_Jonk
+1168	1170	PSV_Eindhoven
+1176	1186	Aron_Winter
+1190	1203	F.C._Internazionale_Milano
+1209	1228	Jean-Paul_van_Gastel
+1232	1240	Feyenoord
+1246	1261	Clarence_Seedorf
+1265	1275	Real_Madrid_C.F.
+1292	1305	Ronald_de_Boer
+1309	1312	AFC_Ajax
+1318	1331	Gaston_Taument
+1335	1343	Feyenoord
+1349	1360	Jordi_Cruyff
+1364	1380	Manchester_United_F.C.
+1386	1400	Dennis_Bergkamp
+1404	1410	Arsenal_F.C.

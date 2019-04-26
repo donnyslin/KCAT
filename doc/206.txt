@@ -1,0 +1,24 @@
+Jordan expels Iraqi diplomat .
+AMMAN 1996-08-23
+Jordan has asked an Iraqi diplomat to leave the kingdom for carrying out duties incompatible with diplomatic norms , an official source said on Friday .
+The move came after Amman blamed Iraq and a pro-Baghdad local political party for last week 's worst unrest in seven years after a government decision to double prices of bread .
+The government declined comment .
+" Jordan has asked Mr. Adel Ibrahim , the Iraqi embassy 's press attache , to leave because he was carrying out duties incompatible with diplomatic norms , " the source told Reuters .
+He said Ibrahim was still in Amman .
+The Jordanian Arab Socialist Baath Party has denied involvement in unrest which it blamed on government policies and rising economic hardship .
+The riots , which shook Jordan for two days , broke out after last Friday 's main prayers in the southern town of Karak and spread to Amman .
+%%TYPE_ANNOTATIONS%%
+0	5	Jordan
+14	18	Iraq
+31	35	Amman
+48	53	Jordan
+68	72	Iraq
+221	225	Amman
+234	237	Iraq
+416	421	Jordan
+456	460	Iraq
+588	594	Reuters
+627	631	Amman
+803	808	Jordan
+893	897	Al_Karak
+913	917	Amman

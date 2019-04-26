@@ -1,0 +1,121 @@
+BASEBALL - MAJOR LEAGUE STANDINGS AFTER FRIDAY 'S GAMES .
+NEW YORK 1996-08-24
+Major League Baseball
+standings after games played on Friday ( tabulate under won ,
+lost , winning percentage and games behind ) :
+AMERICAN LEAGUE EASTERN DIVISION
+W L PCT GB
+NEW YORK 73 54 .575 -
+BALTIMORE 67 60 .528 6
+BOSTON 64 65 .496 10
+TORONTO 60 69 .465 14
+DETROIT 46 82 .359 27 1/2
+CENTRAL DIVISION
+CLEVELAND 76 52 .594 -
+CHICAGO 69 61 .531 8
+MINNESOTA 64 64 .500 12
+MILWAUKEE 61 68 .473 15 1/2
+KANSAS CITY 58 72 .446 19
+WESTERN DIVISION
+TEXAS 74 55 .574 -
+SEATTLE 66 61 .520 7
+OAKLAND 62 69 .473 13
+CALIFORNIA 60 68 .469 13 1/2
+SATURDAY , AUGUST 24TH SCHEDULE
+SEATTLE AT BOSTON
+MILWAUKEE AT CLEVELAND
+CALIFORNIA AT BALTIMORE
+TORONTO AT CHICAGO
+OAKLAND AT NEW YORK
+DETROIT AT KANSAS CITY
+TEXAS AT MINNESOTA
+NATIONAL LEAGUE EASTERN DIVISION
+W L PCT GB
+ATLANTA 80 47 .630 -
+MONTREAL 69 58 .543 11
+NEW YORK 59 70 .457 22
+FLORIDA 59 70 .457 22
+PHILADELPHIA 53 76 .411 28
+CENTRAL DIVISION
+ST LOUIS 68 60 .531 -
+HOUSTON 68 61 .527 1/2
+CINCINNATI 64 63 .504 3 1/2
+CHICAGO 63 63 .500 4
+PITTSBURGH 55 73 .430 13
+WESTERN DIVISION
+SAN DIEGO 70 60 .538 -
+LOS ANGELES 68 60 .531 1
+COLORADO 66 63 .512 3 1/2
+SAN FRANCISCO 54 72 .429 14
+SATURDAY , AUGUST 24TH SCHEDULE
+CHICAGO AT ATLANTA
+ST LOUIS AT HOUSTON
+NEW YORK AT LOS ANGELES
+MONTREAL AT SAN FRANCISCO
+CINCINNATI AT FLORIDA
+PITTSBURGH AT COLORADO
+PHILADELPHIA AT SAN DIEGO
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+58	65	New_York_City
+78	98	Major_League_Baseball
+209	240	American_League_East
+253	260	New_York_Yankees
+275	283	Baltimore_Orioles
+298	303	Boston_Red_Sox
+319	325	Toronto
+341	347	Detroit_Tigers
+367	382	National_League_Central
+384	392	Cleveland_Indians
+407	413	Chicago_White_Sox
+428	436	Minnesota_Twins
+452	460	Milwaukee_Brewers
+480	490	Kansas_City_Royals
+506	521	National_League_West
+523	527	Texas_Rangers_(baseball)
+542	548	Seattle_Mariners
+563	569	Oakland_Athletics
+585	594	Los_Angeles_Angels_of_Anaheim
+646	652	Seattle_Mariners
+657	662	Boston_Red_Sox
+664	672	Milwaukee_Brewers
+677	685	Cleveland_Indians
+687	696	Los_Angeles_Angels_of_Anaheim
+701	709	Baltimore_Orioles
+711	717	Toronto
+722	728	Chicago_White_Sox
+730	736	Oakland_Athletics
+741	748	New_York_City
+750	756	Detroit_Tigers
+761	771	Kansas_City_Royals
+773	777	Texas_Rangers_(baseball)
+782	790	Minnesota_Twins
+792	823	National_League_East
+836	842	Atlanta_Braves
+857	864	Montreal_Expos
+880	887	New_York_Yankees
+903	909	Florida_Marlins
+925	936	Philadelphia_Phillies
+952	967	National_League_Central
+991	997	Houston_Astros
+1014	1023	Cincinnati_Reds
+1042	1048	Chicago_White_Sox
+1063	1072	Pittsburgh_Pirates
+1088	1103	National_League_West
+1105	1113	San_Diego_Padres
+1128	1138	Los_Angeles_Angels_of_Anaheim
+1153	1160	Colorado_Rockies
+1179	1191	San_Francisco_Giants
+1239	1245	Chicago_White_Sox
+1250	1256	Atlanta_Braves
+1270	1276	Houston_Astros
+1278	1285	New_York_Yankees
+1290	1300	Los_Angeles
+1302	1309	Montreal
+1314	1326	San_Francisco_Giants
+1328	1337	Cincinnati_Reds
+1342	1348	Florida_Marlins
+1350	1359	Pittsburgh_Pirates
+1364	1371	Colorado_Rockies
+1373	1384	Philadelphia_Phillies
+1389	1397	San_Diego_Padres

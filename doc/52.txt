@@ -1,0 +1,53 @@
+BASEBALL - MAJOR LEAGUE RESULTS WEDNESDAY .
+NEW YORK 1996-08-22
+Results of Major League
+Baseball games played on Wednesday ( home team in CAPS ) :
+American League
+California 7 NEW YORK 1
+DETROIT 7 Chicago 4
+Milwaukee 10 MINNESOTA 7
+BOSTON 6 Oakland 4
+BALTIMORE 10 Seattle 5
+Texas 10 CLEVELAND 8 ( in 10 )
+Toronto 6 KANSAS CITY 2
+National League
+CHICAGO 8 Florida 3
+SAN FRANCISCO 12 New York 11
+ATLANTA 4 Cincinnati 3
+Pittsburgh 5 HOUSTON 2
+COLORADO 10 St Louis 2
+Philadelphia 6 LOS ANGELES 0
+SAN DIEGO 7 Montreal 2
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+44	51	New_York_City
+75	86	Major_League_Baseball
+147	161	American_League
+163	172	Los_Angeles_Angels_of_Anaheim
+176	183	New_York_Yankees
+187	193	Detroit_Tigers
+197	203	Chicago_White_Sox
+207	215	Milwaukee_Brewers
+220	228	Minnesota_Twins
+232	237	Boston_Red_Sox
+241	247	Oakland_Athletics
+251	259	Baltimore_Orioles
+264	270	Seattle_Mariners
+274	278	Texas_Rangers_(baseball)
+283	291	Cleveland_Indians
+305	311	Toronto_Blue_Jays
+315	325	Kansas_City_Royals
+329	343	National_League
+345	351	Chicago_White_Sox
+355	361	Florida_Marlins
+365	377	San_Francisco_Giants
+382	389	New_York_Yankees
+394	400	Atlanta_Braves
+404	413	Cincinnati_Reds
+417	426	Pittsburgh_Pirates
+430	436	Houston_Astros
+440	447	Colorado_Rockies
+463	474	Philadelphia_Phillies
+478	488	Los_Angeles_Angels_of_Anaheim
+492	500	San_Diego_Padres
+504	511	Montreal_Expos

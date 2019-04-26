@@ -1,0 +1,17 @@
+ONE ROMANIAN DIES IN BUS CRASH IN BULGARIA .
+SOFIA 1996-08-22
+One Romanian passenger was killed , and 14 others were injured on Thursday when a Romanian-registered bus collided with a Bulgarian one in northern Bulgaria , police said .
+The two buses collided head on at 5 o'clock this morning on the road between the towns of Rousse and Veliko Tarnovo , police said .
+A Romanian woman Maria Marco , 35 , was killed .
+The accident was being investigated , police added .
+-- Sofia Newsroom , 359-2-84561
+%%TYPE_ANNOTATIONS%%
+4	11	Romania
+34	41	Bulgaria
+45	49	Sofia
+66	73	Romania
+184	192	Bulgaria
+210	217	Bulgaria
+325	330	Ruse,_Bulgaria
+336	349	Veliko_Tarnovo
+369	376	Romania

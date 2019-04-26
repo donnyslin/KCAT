@@ -1,0 +1,43 @@
+SOCCER - SWISS PREMIER DIVISION RESULTS / STANDINGS .
+GENEVA 1996-08-25
+Results of Swiss premier division
+matches played at the weekend :
+Aarau 1 Young Boys 0
+Grasshopper 2 Lucerne 2
+Lugano 1 Basle 1
+Neuchatel 3 St Gallen 0
+Sion 3 Servette 1
+Standings ( tabulated under played , won , drawn , lost , goals
+for , against , points ) :
+Neuchatel 8 6 1 1 12 7 19
+Grasshopper 9 4 4 1 17 11 16
+St. Gallen 9 4 4 1 6 5 16
+Lausanne 9 4 2 3 18 13 14
+Aarau 8 4 1 3 9 4 13
+Sion 9 3 4 2 13 11 13
+Zurich 9 2 5 2 9 9 11
+Basle 8 2 3 3 12 11 9
+Servette 9 2 3 4 10 12 9
+Lucerne 8 1 5 2 10 11 8
+Lugano 9 1 4 4 6 15 7
+Young Boys 9 1 0 8 6 19 3
+%%TYPE_ANNOTATIONS%%
+9	13	Switzerland
+54	59	Geneva
+83	87	Switzerland
+138	142	FC_Aarau
+146	155	BSC_Young_Boys
+159	169	Grasshopper_Club_Zürich
+173	179	FC_Luzern
+183	188	FC_Lugano
+212	220	FC_St._Gallen
+224	227	FC_Sion
+231	238	Servette_FC
+359	369	Grasshopper_Club_Zürich
+414	421	FC_Lausanne-Sport
+440	444	FC_Aarau
+461	464	FC_Sion
+527	534	Servette_FC
+552	558	FC_Luzern
+576	581	FC_Lugano
+598	607	BSC_Young_Boys

@@ -1,0 +1,29 @@
+TENNIS - RESULTS AT TOSHIBA CLASSIC .
+CARLSBAD , California 1996-08-24
+Results from the
+$ 450,000 Toshiba Classic tennis tournament on Friday ( prefix
+number denotes seeding ) :
+Quarterfinals :
+1 - Arantxa Sanchez Vicario ( Spain ) beat Katarina Studenikova
+( Slovakia ) 6-3 6-3
+3 - Jana Novotna ( Czech Republic ) beat Sandrine Testud ( France )
+2-6 7-6 ( 7-4 ) 6-3 .
+4 - Kimiko Date ( Japan ) beat 5 - Gabriela Sabatini ( Argentina )
+6-4 6-1
+%%TYPE_ANNOTATIONS%%
+20	34	Southern_California_Open
+38	45	Carlsbad,_California
+49	58	California
+98	112	Southern_California_Open
+198	220	Arantxa_Sánchez_Vicario
+224	228	Spain
+237	256	Katarína_Studeníková
+260	267	Slovakia
+283	294	Jana_Novotná
+298	311	Czech_Republic
+320	334	Sandrine_Testud
+338	343	France
+373	383	Kimiko_Date_Krumm
+387	391	Japan
+404	420	Gabriela_Sabatini
+424	432	Argentina

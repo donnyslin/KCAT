@@ -1,0 +1,150 @@
+TENNIS - WEDNESDAY 'S RESULTS FROM THE U.S. OPEN .
+NEW YORK 1996-08-28
+Results of Wednesday 's matches in the U.S. Open Tennis Championships at the National Tennis Centre ( prefix number denotes seeding ) :
+Women 's singles , second round
+15 - Gabriela Sabatini ( Argentina ) beat Ann Grossman ( U.S. ) 6-2 6 - 3
+Irina Spirlea ( Romania ) beat Maria Jose Gaidano ( Argentina ) 6-1 6-2
+8 - Lindsay Davenport ( U.S. ) beat Henrietta Nagyova ( Slovakia ) 6- 0 6-4
+Anne-Gaelle Sidot ( France ) beat Wang Shi-Ting ( Taiwan ) 6-4 3-6 6-3
+Sandrine Testud ( France ) beat Cristina Torrens-Valero ( Spain ) 6 - 2 6-1
+Men 's singles , first round
+Andrei Medvedev ( Ukraine ) beat Jean-Philippe Fleurian ( France ) 6-2 6-0 6-1
+David Nainkin ( South Africa ) beat 9 - Wayne Ferreira ( South Africa ) 6-4 6-4 2-6 7-5
+David Rikl ( Czech Republic ) beat Hicham Arazi ( Morocco ) 6-4 7-5 6-2
+Andrea Gaudenzi ( Italy ) beat Shuzo Matsuoka ( Japan ) 7-6 ( 7-4 ) 6 - 2 6-3
+Men 's singles , first round
+17 - Felix Mantilla ( Spain ) beat Fernando Meligeni ( Brazil ) 6-1 6 - 7 ( 2-7 ) 7-6 ( 7-5 ) 6-3
+Jonas Bjorkman ( Sweden ) beat Karol Kucera ( Slovakia ) 6-2 5-7 7- 6 ( 7-3 ) 7-5
+Jan Kroslak ( Slovakia ) beat Chris Woodruff ( U.S. ) 2-6 6-4 3-6 6 - 2 7-6 ( 7-1 )
+Women 's singles , second round
+Amanda Coetzer ( South Africa ) beat Mariaan de Swardt ( South Africa ) 6-2 7-5
+Linda Wild ( U.S. ) beat Kristie Boogert ( Netherlands ) 5-7 6-3 6-3
+Kimberly Po ( U.S. ) beat Kristina Brandi ( U.S. ) 6-1 6-4
+Helena Sukova ( Czech Republic ) beat Paola Suarez ( Argentina ) 6- 4 7-6 ( 7-2 )
+Women 's singles , second round
+2 - Monica Seles ( U.S. ) beat Laurence Courtois ( Belgium ) by walkover ( knee injury )
+Dally Randriantefy ( Madagascar ) beat Jane Chi ( U.S. ) 6-3 6-1
+Ines Gorrochategui ( Argentina ) beat Aleksandra Olsza ( Poland ) 6 - 1 6-1
+Men 's singles , first round
+12 - Todd Martin ( U.S. ) beat Younes El Aynaoui ( Morocco ) 6-3 6-2 4-6 6-4
+Sjeng Schalken ( Netherlands ) beat Gilbert Schaller ( Austria ) 6- 3 6-4 6-7 ( 6-8 ) 6-3
+Men 's singles , first round
+Michael Tebbutt ( Australia ) beat Richey Reneberg ( U.S. ) 3-6
+6-1 3-6 7-5 6-3
+Paul Haarhuis ( Netherlands ) beat Michael Joyce ( U.S ) 6-7
+( 5-7 ) 7-6 ( 8-6 ) 1-6 6-2 6-2
+Women 's singles , second round
+Barbara Rittner ( Germany ) beat 13 - Brenda Schultz-McCarthy (
+Netherlands ) 6-2 6-1
+Men 's singles , first round
+Guy Forget ( France ) beat Grant Stafford ( South Africa ) 3-6 2-6 6-4 7-6 ( 7-2 ) 6-3
+( End first round )
+Women 's singles , second round
+Lisa Raymond ( U.S. ) beat Sarah Pitkowski ( France ) 6-2 6-0
+Asa Carlsson ( Sweden ) beat Barbara Schett ( Austria ) 6-2 3-1 retired ( Thigh injury )
+%%TYPE_ANNOTATIONS%%
+39	47	US_Open_(tennis)
+51	58	New_York_City
+110	139	US_Open_(tennis)
+244	260	Gabriela_Sabatini
+264	272	Argentina
+281	292	Ann_Grossman
+296	299	United_States
+313	325	Irina_Spîrlea
+329	335	Romania
+365	373	Argentina
+389	405	Lindsay_Davenport
+409	412	United_States
+441	448	Slovakia
+461	477	Anne-Gaëlle_Sidot
+481	486	France
+511	516	Republic_of_China
+532	546	Sandrine_Testud
+550	555	France
+590	594	Spain
+637	651	Andriy_Medvedev
+655	661	Ukraine
+670	691	Jean-Philippe_Fleurian
+695	700	France
+732	743	South_Africa
+756	769	Wayne_Ferreira
+773	784	South_Africa
+804	813	David_Rikl
+817	830	Czech_Republic
+839	850	Hicham_Arazi
+854	860	Morocco
+876	890	Andrea_Gaudenzi
+894	898	Italy
+907	920	Shuzo_Matsuoka
+924	928	Japan
+988	1001	Félix_Mantilla_Botella
+1005	1009	Spain
+1018	1034	Fernando_Meligeni
+1038	1043	Brazil
+1081	1094	Jonas_Björkman
+1098	1103	Sweden
+1112	1123	Karol_Kučera
+1127	1134	Slovakia
+1163	1173	Ján_Krošlák
+1177	1184	Slovakia
+1193	1206	Chris_Woodruff
+1210	1213	United_States
+1279	1292	Amanda_Coetzer
+1296	1307	South_Africa
+1316	1332	Mariaan_de_Swardt
+1336	1347	South_Africa
+1359	1368	Linda_Wild
+1372	1375	United_States
+1384	1398	Kristie_Boogert
+1402	1412	Netherlands
+1428	1438	Kimberly_Po
+1442	1445	United_States
+1454	1468	Kristina_Brandi
+1472	1475	United_States
+1487	1499	Helena_Suková
+1503	1516	Czech_Republic
+1525	1536	Paola_Suárez
+1540	1548	Argentina
+1605	1616	Monica_Seles
+1620	1623	United_States
+1632	1648	Laurence_Courtois
+1652	1658	Belgium
+1690	1707	Dally_Randriantefy
+1711	1720	Madagascar
+1740	1743	United_States
+1755	1772	Inés_Gorrochategui
+1776	1784	Argentina
+1793	1808	Aleksandra_Olsza
+1812	1817	Poland
+1865	1875	Todd_Martin
+1879	1882	United_States
+1891	1907	Younes_El_Aynaoui
+1911	1917	Morocco
+1937	1950	Sjeng_Schalken
+1954	1964	Netherlands
+1973	1988	Gilbert_Schaller
+1992	1998	Austria
+2056	2070	Michael_Tebbutt
+2074	2082	Australia
+2091	2105	Richey_Reneberg
+2109	2112	United_States
+2136	2148	Paul_Haarhuis
+2152	2162	Netherlands
+2171	2183	Michael_Joyce_(tennis)
+2187	2189	United_States
+2261	2275	Barbara_Rittner
+2279	2285	Germany
+2299	2321	Brenda_Schultz-McCarthy
+2325	2335	Netherlands
+2376	2385	Guy_Forget
+2389	2394	France
+2403	2416	Grant_Stafford
+2420	2431	South_Africa
+2515	2526	Lisa_Raymond
+2530	2533	United_States
+2542	2556	Sarah_Pitkowski-Malcor
+2560	2565	France
+2577	2588	Åsa_Svensson
+2592	2597	Sweden
+2606	2619	Barbara_Schett
+2623	2629	Austria

@@ -1,0 +1,26 @@
+RUGBY UNION - MULDER OUT OF SECOND TEST .
+JOHANNESBURG 1996-08-23
+Centre Japie Mulder has been ruled out of South Africa 's team for the second test against New Zealand in Pretoria on Saturday .
+Mulder missed the first test in Durban with back spasms and failed a fitness check on Thursday .
+But new Springbok skipper Gary Teichmann has recovered from a bruised thigh and is ready to play , coach Andre Markgraaff said .
+Mulder 's absence means that Northern Transvaal centre Andre Snyman should win his second cap alongside provincial colleague Danie van Schalkwyk .
+Wing Pieter Hendriks is expected to retain his place , following speculation that Snyman would be picked out of position on the wing .
+The line-up would not be announced until shortly before the start , Markgraaff said .
+%%TYPE_ANNOTATIONS%%
+0	10	Rugby_union
+14	19	Japie_Mulder
+42	53	Johannesburg
+73	84	Japie_Mulder
+108	119	South_Africa
+157	167	New_Zealand_national_rugby_union_team
+172	179	Pretoria
+195	200	Japie_Mulder
+227	232	Durban
+300	308	South_Africa_national_rugby_union_team
+318	331	Gary_Teichmann
+397	412	Andre_Markgraaff
+421	426	Japie_Mulder
+450	467	Northerns_cricket_team
+476	487	Andre_Snyman
+650	655	Andre_Snyman
+771	780	Andre_Markgraaff

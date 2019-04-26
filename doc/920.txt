@@ -1,0 +1,19 @@
+Earthquake jolts New Zealands South Island .
+WELLINGTON 1996-08-29
+An earthquake measuring 5.5 on the Richter scale shook New Zealands upper South Island on Thursday but there were no reports of injuries , Television New Zealand said .
+It said the quake , centred near the small town of Waiau , was strongly felt in the cities of Nelson and Christchurch .
+Some minor damage had been reported in the spa town of Hanmer .
+New Zealand is prone to frequent earthquakes but they rarely cause major damage .
+The country has only 3.5 million people in an area about the size of Britain or Japan .
+%%TYPE_ANNOTATIONS%%
+30	41	South_Island
+45	54	Wellington
+102	108	Richter_magnitude_scale
+141	152	South_Island
+206	227	Television_New_Zealand
+287	291	Waiau,_Canterbury
+330	335	Nelson,_New_Zealand
+341	352	Christchurch
+420	430	New_Zealand
+571	577	United_Kingdom
+582	586	Japan

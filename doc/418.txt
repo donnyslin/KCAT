@@ -1,0 +1,62 @@
+SOCCER - SEYCHELLES FAIL IN BID FOR HISTORIC VICTORY .
+Mark Gleeson
+JOHANNESBURG 1996-08-26
+The tiny islands of the Seychelles failed to make soccer history at the weekend when they bowed out of the preliminary rounds of the African Nations Cup .
+Trailing fellow Indian Ocean islanders Mauritius 1-0 from the first leg , they were held to a 1-1 draw at home on Saturday despite playing against 10 men for most of the match .
+The 2-1 aggregate took Mauritius into the group phase of the qualifiers for the 1998 finals , and kept up the Seychelles ' record of never having won an official match in their 10 years of FIFA membership .
+The Seychelles must have thought they were on course for a historic breakthrough when Mauritian midfielder Andre Caboche was sent off for a crude tackle in the 19th minute .
+But the visitors responded to the setback immediately -- veteran striker Ashley Mocude scoring a minute later to give them a two-goal aggregate lead .
+Although Danny Rose 's 50th-minute equaliser gave the Seychellois renewed hope they could not find the net again and were eliminated .
+Mauritius now play in group seven of the qualifiers against Malawi , Mozambique and favourites Zambia .
+Namibia , who drew 0-0 with Botswana in their first leg , won the second leg in Windhoek 6-0 to stretch their unbeaten run to eight matches and continue their remarkable progress on the African soccer stage .
+They now play in group five with Cameroon , Gabon and Kenya .
+German-based striker Bachirou Salou returned home to Togo to score the decisive only goal of their tie against Congo .
+Salou , who plays for MSV Duisburg in the Bundesliga , scored in the 53rd minute of Sunday 's match in Lome for a 1-0 aggregate win which takes his side into group six , where they will meet Liberia , Tanzania and Zaire .
+Ethiopia needed a penalty shoot-out in Addis Ababa to overcome Uganda after a 2-2 aggregate scoreline .
+Both legs ended 1-1 before Ethiopia won the spot kick decider 4-2 .
+Uganda 's elimination follows their humiliating 5-1 aggregate defeat by Angola in June 's World Cup qualifying preliminaries .
+The other preliminary round second leg match , between Mauritania and Benin in Nouakchott , was postponed until Friday .
+Benin won the first leg 4-1 .
+%%TYPE_ANNOTATIONS%%
+9	18	Seychelles
+55	66	Mark_Gleeson_(journalist)
+68	79	Johannesburg
+116	125	Seychelles
+225	243	Africa_Cup_of_Nations
+286	294	Mauritius_national_football_team
+448	456	Mauritius_national_football_team
+535	544	Seychelles_national_football_team
+614	617	FIFA
+636	645	Seychelles_national_football_team
+718	726	Mauritius
+1092	1100	Mauritius_national_football_team
+1152	1157	Malawi_national_football_team
+1161	1170	Mozambique_national_football_team
+1187	1192	Zambia_national_football_team
+1196	1202	Namibia_national_football_team
+1224	1231	Botswana_national_football_team
+1276	1283	Windhoek
+1382	1388	Africa
+1438	1445	Cameroon_national_football_team
+1449	1453	Gabon_national_football_team
+1459	1463	Kenya_national_football_team
+1488	1501	Bachirou_Salou
+1520	1523	Togo
+1578	1582	Congo_national_football_team
+1586	1590	Bachirou_Salou
+1608	1619	MSV_Duisburg
+1628	1637	Fußball-Bundesliga
+1689	1692	Lomé
+1777	1783	Liberia_national_football_team
+1787	1794	Tanzania_national_football_team
+1800	1804	Congo_DR_national_football_team
+1808	1815	Ethiopia_national_football_team
+1871	1876	Uganda_national_football_team
+1939	1946	Ethiopia_national_football_team
+1980	1985	Uganda_national_football_team
+2052	2057	Angola_national_football_team
+2070	2078	1998_FIFA_World_Cup
+2162	2171	Mauritania_national_football_team
+2177	2181	Benin_national_football_team
+2186	2195	Nouakchott
+2228	2232	Benin_national_football_team

@@ -1,0 +1,30 @@
+Rugby union-England given final chance to stay in Five Nations .
+LONDON 1996-08-28
+England have been given a final chance to remain in the Five Nations ' championship despite striking an exclusive television deal with Rupert Murdoch 's Sky television .
+In a statement on Wednesday , the Four Nations TV Committee said dates had been set for a competition involving Scotland , Wales , Ireland and France next year .
+" Between now and then , discussions will take place in one final attempt to persuade the Rugby Football Union to save the Five Nations ' championship in its current form , " the statement said .
+No further details were immediately available .
+England infuriated their championship colleagues when they decided to sign a 87.5 million pounds sterling ( $ 135.8 million ) deal giving Sky television exclusive rights to rugby union matches in England .
+The present contract with the British Broadcasting Corporation was shared between the four home nations while France have their own television deal .
+Last month Five Nations ' committee chairman Tom Kiernan said England would be thrown out of the competition " unless circumstances change in the near future " .
+%%TYPE_ANNOTATIONS%%
+50	61	Five_Nations_XV
+65	70	London
+83	89	England_national_rugby_union_team
+139	150	Five_Nations_XV
+218	231	Rupert_Murdoch
+236	238	Sky_Digital_(UK_&_Ireland)
+365	372	Scotland
+376	380	Wales
+384	390	Ireland
+396	401	France
+505	524	Rugby_Football_Union
+538	549	Five_Nations_XV
+659	665	England_national_rugby_union_team
+797	799	Sky_Digital_(UK_&_Ireland)
+855	861	England
+895	926	BBC
+975	980	France
+1026	1037	Five_Nations_XV
+1060	1070	Tom_Kiernan
+1077	1083	England_national_football_team

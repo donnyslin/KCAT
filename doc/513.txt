@@ -1,0 +1,28 @@
+More hostages freed from hijacked Sudanese plane .
+STANSTED , England 1996-08-27
+Armed hijackers believed to be Iraqis released between 60 and 70 people on Tuesday from a Sudan Airways plane carrying 199 passengers and crew that landed in London after being diverted on a flight from Khartoum to Amman , authorities said .
+A spokesman for Stansted airport said that the unidentified hijackers were demanding to see a British-based member of the Iraqi Community Association , called Mr Sadiki , and that police were trying to trace him .
+Police spokeswoman Kim White said police had already contacted Sadiki and were trying to arrange to bring him to Stansted , 30 miles ( 48 km ) north-east of London , to talk to the hijackers .
+The airport spokesman said the six hijackers , who police said were armed with grenades and possibly other explosives , were believed to be Iraqi nationals .
+The hijackers started to release people for the Airbus plane in batches of 10 , starting with women and children , in what police described as a " controlled release " .
+Police said most of the passengers were Sudanese but that there were also an unknown number of Iraqis , Jordanians , Palestinians , Syrians and Saudis .
+Later they said the number of passengers released from the plane had reached 80 .
+%%TYPE_ANNOTATIONS%%
+34	41	Sudan
+51	58	London_Stansted_Airport
+62	68	England
+112	117	Iraq
+171	183	Sudan_Airways
+239	244	London
+284	291	Khartoum
+296	300	Amman
+339	346	London_Stansted_Airport
+417	429	United_Kingdom
+650	657	London_Stansted_Airport
+694	699	London
+870	874	Iraq
+1098	1105	Sudan
+1153	1158	Iraq
+1175	1186	State_of_Palestine
+1190	1196	Syria
+1202	1207	Saudi_Arabia

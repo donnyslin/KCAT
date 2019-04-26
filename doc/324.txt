@@ -1,0 +1,30 @@
+CRICKET - POLLOCK CONCLUDES WARWICKSHIRE CAREER WITH FLOURISH .
+LONDON 1996-08-25
+South African fast bowler Shaun Pollock concluded his Warwickshire career with a flourish on Sunday by taking the final three wickets during the county 's Sunday league victory over Worcestershire .
+Pollock , who returns home on Tuesday for an ankle operation , took the last three wickets in nine balls as Worcestershire were dismissed for 154 .
+After an hour 's interruption for rain , Warwickshire then reached an adjusted target of 109 with 13 balls to spare and record their fifth win in the last six games .
+Warwickshire are currently in fourth position behind Yorkshire , Nottinghamshire and Surrey .
+Yorkshire captain David Byas completed his third Sunday league century as his side swept clear at the top of the table , reaching a career best 111 not out against Lancashire .
+Lancashire 's total of 205 for eight from 40 overs looked reasonable before Byas put their attack to the sword , collecting his runs from just 100 balls with three sixes and nine fours .
+Yorkshire eventually reached their target with only four wickets down and 7.5 overs to spare .
+%%TYPE_ANNOTATIONS%%
+10	16	Shaun_Pollock
+28	39	Warwickshire_County_Cricket_Club
+64	69	London
+82	94	South_Africa
+108	120	Shaun_Pollock
+136	147	Warwickshire_County_Cricket_Club
+264	277	Worcestershire_County_Cricket_Club
+281	287	Shaun_Pollock
+389	402	Worcestershire_County_Cricket_Club
+470	481	Warwickshire_County_Cricket_Club
+596	607	Warwickshire_County_Cricket_Club
+649	657	Yorkshire_County_Cricket_Club
+661	675	Nottinghamshire_County_Cricket_Club
+681	686	Surrey_County_Cricket_Club
+690	698	Yorkshire_County_Cricket_Club
+708	717	David_Byas
+854	863	Lancashire_County_Cricket_Club
+867	876	Lancashire_County_Cricket_Club
+943	946	David_Byas
+1054	1062	Yorkshire_County_Cricket_Club

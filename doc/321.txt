@@ -1,0 +1,155 @@
+MOTORCYCLING - WORLD SUPERBIKE CHAMPIONSHIP RESULTS .
+SUGO , Japan 1996-08-25
+Leading results from round
+nine of the superbike world championship on Sunday :
+First race
+1. Yuuchi Takeda ( Japan ) Honda 38 minutes 30.054 seconds
+2. Noriyuki Haga ( Japan ) Yamaha 38:30.140
+3. Wataru Yoshikawa ( Japan ) Yamaha 38:32.353
+4. Troy Corser ( Australia ) Ducati 38:34.436
+5. John Kocinski ( U.S. ) Ducati 38:36.306
+6. Aaron Slight ( New Zealand ) Honda 38:41.756
+7. Norihiko Fujiwara ( Japan ) Yamaha 38:43.253
+8. Carl Fogarty ( Britain ) Honda 38:49.595
+9. Akira Ryo ( Japan ) Kawasaki 38:50.269
+10. Shiya Takeishi ( Japan ) Kawasaki 38:52.271
+Fastest lap : Haga 147.159 kph .
+Second race
+1. Takuma Aoki ( Japan ) Honda 38:18.759
+2. Kocinski 38:19.313
+3. Haga 38:32.040
+4. Slight 38:32.149
+5. Fogarty 38:32.719
+6. Fujiwara 38:33.595
+7. Ryo 38:34.682
+8. Takeishi 38:34.999
+9. Yoshikawa 38:35.297
+10. Corser 38:42.015
+Fastest lap : Aoki 147.786 kph
+World championship standings ( after nine rounds ) :
+1. Slight 280 points
+2. Corser 269
+3. Kocinski 254
+4. Fogarty 236
+5. Colin Edwards ( U.S. ) Yamaha 176
+6. Pier Francesco Chili ( Italy ) Ducati 175
+7. Simon Crafar ( New Zealand ) Kawasaki 132
+8. Anthony Gobert ( Australia ) Kawasaki 117
+9. Yoshikawa 107
+10. Neil Hodgson ( Britain ) Ducati 82
+Revised placings for second race after the disqualification
+of Japanese rider Noriyuki Haga for using an illegal carburettor
+part :
+1. Takuma Aoki ( Japan ) Honda 38:18.759
+2. Kocinski 38:19.313
+3. Slight 38:32.149
+4. Fogarty 38:32.719
+5. Fujiwara 38:33.595
+6. Ryo 38:34.682
+7. Takeishi 38:34.999
+8. Yoshikawa 38:35.297
+9. Corser 38:42.015
+10. Keiichi Kitigawa ( Japan ) Suzuki 38:42.333
+Fastest lap : Aoki 147.786 kph
+Revised world championship standings ( after nine rounds ) :
+1. Slight 283 points
+2. Corser 270
+3. Kocinski 254
+4. Fogarty 238
+5. Colin Edwards ( U.S. ) Yamaha 176
+6. Pier Francesco Chili ( Italy ) Ducati 175
+7. Simon Crafar ( New Zealand ) Kawasaki 133
+8. Anthony Gobert ( Australia ) Kawasaki 117
+9. Yoshikawa 108
+10. Neil Hodgson ( Britain ) Ducati 82
+%%TYPE_ANNOTATIONS%%
+61	65	Japan
+188	192	Japan
+196	200	Honda
+231	243	Noriyuki_Haga
+247	251	Japan
+255	260	Yamaha_Motor_Company
+275	290	Wataru_Yoshikawa
+294	298	Japan
+302	307	Yamaha_Motor_Company
+322	332	Troy_Corser
+336	344	Australia
+348	353	Ducati
+368	380	John_Kocinski
+384	387	United_States
+391	396	Ducati
+411	422	Aaron_Slight
+426	436	New_Zealand
+440	444	Honda
+479	483	Japan
+487	492	Yamaha_Motor_Company
+507	518	Carl_Fogarty
+522	528	United_Kingdom
+532	536	Honda
+551	559	Akira_Ryō
+563	567	Japan
+571	578	Kawasaki_Heavy_Industries
+611	615	Japan
+619	626	Kawasaki_Heavy_Industries
+652	655	Noriyuki_Haga
+686	696	Takuma_Aoki
+700	704	Japan
+708	712	Honda
+727	734	John_Kocinski
+749	752	Noriyuki_Haga
+767	772	Aaron_Slight
+787	793	Carl_Fogarty
+869	877	Wataru_Yoshikawa
+893	898	Troy_Corser
+924	927	Takuma_Aoki
+997	1002	Aaron_Slight
+1018	1023	Troy_Corser
+1032	1039	John_Kocinski
+1048	1054	Carl_Fogarty
+1063	1075	Colin_Edwards
+1079	1082	United_States
+1086	1091	Yamaha_Motor_Company
+1123	1127	Italy
+1131	1136	Ducati
+1145	1156	Simon_Crafar
+1160	1170	New_Zealand
+1174	1181	Kawasaki_Heavy_Industries
+1190	1203	Anthony_Gobert
+1207	1215	Australia
+1219	1226	Kawasaki_Heavy_Industries
+1235	1243	Wataru_Yoshikawa
+1253	1264	Neil_Hodgson
+1268	1274	United_Kingdom
+1278	1283	Ducati
+1351	1358	Japan
+1366	1378	Noriyuki_Haga
+1423	1433	Takuma_Aoki
+1437	1441	Japan
+1445	1449	Honda
+1464	1471	John_Kocinski
+1486	1491	Aaron_Slight
+1506	1512	Carl_Fogarty
+1588	1596	Wataru_Yoshikawa
+1611	1616	Troy_Corser
+1651	1655	Japan
+1659	1664	Suzuki
+1690	1693	Takuma_Aoki
+1771	1776	Aaron_Slight
+1792	1797	Troy_Corser
+1806	1813	John_Kocinski
+1822	1828	Carl_Fogarty
+1837	1849	Colin_Edwards
+1853	1856	United_States
+1860	1865	Yamaha_Motor_Company
+1897	1901	Italy
+1905	1910	Ducati
+1919	1930	Simon_Crafar
+1934	1944	New_Zealand
+1948	1955	Kawasaki_Heavy_Industries
+1964	1977	Anthony_Gobert
+1981	1989	Australia
+1993	2000	Kawasaki_Heavy_Industries
+2009	2017	Wataru_Yoshikawa
+2027	2038	Neil_Hodgson
+2042	2048	United_Kingdom
+2052	2057	Ducati

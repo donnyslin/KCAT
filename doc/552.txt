@@ -1,0 +1,57 @@
+McGrath left out of Ireland World Cup squad .
+DUBLIN 1996-08-27
+Ireland 's most experienced player , defender Paul McGrath , was left out of the national squad for the first time in 11 years on Tuesday when new manager Mick McCarthy named his side to face Liechtenstein in a World Cup qualifier .
+The 36-year-old Aston Villa player won the last of his Irish record of 82 international caps against the Czech Republic in Prague in April .
+" Paul accepted the situation .
+He has n't played any first-team games for Villa this season and he 's not the type of player I would have brought on as a substitute , " McCarthy said . "
+But he surprised me in training over the last two days because of his involvement .
+He 's certainly is still very much part of my plans for the future .
+" At 24 , 25 or 26 you could get away with it , not having played first-team games .
+But at 36 it would be asking too much of Paul , " he said .
+Also omitted from the 20-man squad which will travel to Vaduz for Saturday 's group eight match are central defenders Alan Kernaghan and Liam Daish .
+Leeds United defender Gary Kelly is unable to travel because of a knee injury picked up in Monday 's 1-0 victory over Wimbledon at Elland Road .
+Since taking over from Jack Charlton in February , McCarthy has played largely experimental sides and seen them lose five times , draw twice and win just once .
+Squad : Alan Kelly , Shay Given , Denis Irwin , Phil Babb , Jeff Kenna , Curtis Fleming , Gary Breen , Ian Harte , Kenny Cunningham , Steve Staunton , Andy Townsend , Ray Houghton , Gareth Farrelly , Alan McLoughlin , Jason McAteer , Alan Moore , Keith O'Neill , Tony Cascarino , Niall Quinn , David Kelly .
+-- Dublin Newsroom +6613377
+%%TYPE_ANNOTATIONS%%
+0	6	Paul_McGrath_(footballer)
+20	26	Ireland
+28	36	1998_FIFA_World_Cup
+46	51	Dublin
+64	70	Ireland
+110	121	Paul_McGrath_(footballer)
+219	231	Mick_McCarthy
+256	268	Liechtenstein_national_football_team
+313	323	Aston_Villa_F.C.
+352	356	Republic_of_Ireland
+402	415	Czech_Republic
+420	425	Prague
+513	517	Aston_Villa_F.C.
+608	615	Mick_McCarthy
+980	984	Vaduz
+1042	1055	Alan_Kernaghan
+1061	1070	Liam_Daish
+1074	1085	Leeds_United_A.F.C.
+1096	1105	Gary_Kelly_(footballer_born_1974)
+1192	1200	Wimbledon_F.C.
+1205	1215	Elland_Road
+1242	1254	Jack_Charlton
+1270	1277	Mick_McCarthy
+1388	1397	Alan_Kelly,_Sr.
+1401	1410	Shay_Given
+1414	1424	Denis_Irwin
+1428	1436	Phil_Babb
+1453	1466	Curtis_Fleming
+1470	1479	Gary_Breen
+1483	1491	Ian_Harte
+1495	1510	Kenny_Cunningham
+1514	1527	Steve_Staunton
+1531	1543	Andy_Townsend
+1547	1558	Ray_Houghton
+1562	1576	Gareth_Farrelly
+1580	1594	Alan_McLoughlin
+1598	1610	Jason_McAteer
+1614	1623	Alan_Moore_(footballer)
+1643	1656	Tony_Cascarino
+1660	1670	Niall_Quinn
+1674	1684	David_Kelly_(footballer)

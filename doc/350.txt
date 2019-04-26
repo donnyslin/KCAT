@@ -1,0 +1,69 @@
+BASEBALL - ORIOLES SNEAK PAST ANGELS .
+BALTIMORE 1996-08-25
+Rafael Palmeiro 's two-out single in the sixth inning scored Roberto Alomar with the go-ahead run as the Baltimore Orioles rallied past the California Angels 5-4 and took over the American League 's wild-card berth on Saturday .
+The Orioles trailed 4-3 when pinch-hitter Mike Devereaux led off the sixth with a triple against reliever Kyle Abbott ( 0-1 ) and scored the tying run on Alomar 's single .
+After Brady Anderson sacrificed , Palmeiro hit the first pitch into right field for a single , scoring Alomar .
+In Boston , former Mariner Darren Bragg 's first career grand slam in the sixth inning off reliever Randy Johnson lifted the Boston Red Sox to their fifth win in six games , a 9-5 victory over Seattle .
+" Just one of those things , I was just trying to make contact , " said Bragg . "
+The bases were loaded and I had two strikes .
+I was just trying to put the ball in play .
+I got the good part of the bat on it and it carried out . "
+In Cleveland , Kevin Seitzer 's two-out single in the top of the 10th brought home David Hulse with the winning run as the Milwaukee Brewers sent the Cleveland Indians to their third straight extra-inning defeat 4-3 .
+Bob Wickman ( 5-1 ) , acquired from the New York Yankees on Friday , earned the win in his Milwaukee debut despite allowing the tying run in the eighth inning .
+At Minnesota , Marty Cordova and Matt Lawton hit solo homers and Frankie Rodriguez allowed six hits over seven innings to earn his first win as a starter in a month as the Minnesota Twins held on to beat the Texas Rangers 6-5 .
+" Yeah , you know it 's fun , it 's always fun when you 've got a chance to go to the ballpark and win a game that 's important , " said Rodriguez . "
+Every game should be important , but it 's a little more important now . "
+In New York , Wally Whitehurst allowed two runs over seven innings for his first win in more than two years and Paul O'Neill 's three-run double snapped a sixth-inning tie as the New York Yankees held on for a 5-4 victory over the Oakland Athletics .
+Whitehurst , promoted from Triple-A Columbus on Wednesday , allowed seven hits and struck out one without a walk .
+It was his first win since defeating the St. Louis Cardinals on May 28th , 1994 when he was with the San Diego Padres .
+In Kansas City , Jose Rosado came within one out of his third complete game and Michael Tucker homered and drove in three runs as the Kansas City Royals broke a six-game losing streak with a 9-2 victory over the Detroit Tigers in a battle of cellar-dwellers .
+Rosado ( 5-3 ) allowed two runs -- one earned -- and seven hits over 8-2/3 innings with three walks and six strikeouts .
+In his last four starts , the 21-year-old left-hander has given up only four earned runs in 29-2/3 innings .
+%%TYPE_ANNOTATIONS%%
+11	17	Baltimore_Orioles
+30	35	Los_Angeles_Angels_of_Anaheim
+39	47	Baltimore
+60	74	Rafael_Palmeiro
+121	134	Roberto_Alomar
+165	181	Baltimore_Orioles
+200	216	Los_Angeles_Angels_of_Anaheim
+240	254	American_League
+293	299	Baltimore_Orioles
+331	344	Mike_Devereaux
+395	405	Kyle_Abbott
+443	448	Roberto_Alomar
+468	481	Brady_Anderson
+496	503	Rafael_Palmeiro
+565	570	Roberto_Alomar
+577	582	Boston
+674	686	Randy_Johnson
+699	712	Boston_Red_Sox
+767	773	Seattle_Mariners
+849	853	Darren_Bragg
+1012	1020	Cleveland
+1024	1036	Kevin_Seitzer
+1092	1102	David_Hulse_(baseball)
+1132	1148	Milwaukee_Brewers
+1159	1175	Cleveland_Indians
+1227	1237	Bob_Wickman
+1267	1282	New_York_Yankees
+1318	1326	Milwaukee_Brewers
+1391	1399	Minnesota
+1403	1415	Marty_Cordova
+1421	1431	Matt_Lawton
+1453	1469	Frank_Rodriguez
+1560	1574	Minnesota_Twins
+1596	1608	Texas_Rangers_(baseball)
+1845	1852	New_York_City
+1856	1871	Wally_Whitehurst
+2021	2036	New_York_Yankees
+2073	2089	Oakland_Athletics
+2093	2102	Wally_Whitehurst
+2249	2267	St._Louis_Cardinals
+2309	2324	San_Diego_Padres
+2331	2341	Kansas_City,_Missouri
+2345	2355	José_Rosado
+2408	2421	Michael_Tucker_(baseball)
+2462	2479	Kansas_City_Royals
+2540	2553	Detroit_Tigers
+2588	2593	José_Rosado

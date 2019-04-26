@@ -1,0 +1,56 @@
+Lebed likely to fail on Chechnya - Polish minister .
+WARSAW 1996-08-28
+Russian security chief Aleksander Lebed faces an almost impossible task in Chechnya and is likely to be sidelined , Polish Foreign Minister Dariusz Rosati was reported as saying on Wednesday .
+According to best-selling daily Gazeta Wyborcza , Rosati told the Polish parliament 's foreign affairs committee on Tuesday that the fact Lebed had been charged with resolving the conflict in Chechnya showed he would be marginalised .
+" It is almost impossible to gain success in this , " it quoted Rosati as saying during a committee debate .
+" Lebed has no diplomatic experience .
+Yeltsin sent him there to compromise him .
+This tactical manoeuvre also shows that in the ruling circle there is no unity of action , " he said .
+Lebed , who has arranged a military truce with separatist rebels in the southern Russia region , was in Moscow this week seeking support for a deal on Chechnya 's political status .
+But Russian President Boris Yeltsin has seemed unwilling to meet his envoy and went on holiday on Monday .
+Gazeta Wyborcza quoted Rosati as saying Yeltsin was very ill and effectively on leave , but for now retained control in Russia although matters were passing into the hands of his close collaborators .
+Rosati said Russia 's July polls , in which Yeltsin won re-election , showed democracy had passed an important test and the Russian people had chosed the path of further reforms .
+But he said a power struggle in Russia 's ruling circles could not be ruled out , which could harm further reforms .
+He expressed concern over problems in the Russian economy , saying this could lead to social unrest , the daily reported .
+On Moscow 's foreign policy , Rosati said it had changed its stance on NATO 's eastward expansion and was preparing itself for Poland 's inevitable entry into the Western alliance .
+He also reportedly criticised Russian Foreign Minister Yevgeny Primakov , saying his style of work resembled that of the Soviet-era 1970s and 1980s .
+%%TYPE_ANNOTATIONS%%
+0	4	Alexander_Lebed
+24	31	Chechnya
+35	40	Poland
+53	58	Warsaw
+71	77	Russia
+146	153	Chechnya
+187	192	Poland
+211	224	Dariusz_Rosati
+296	310	Gazeta_Wyborcza
+314	319	Dariusz_Rosati
+330	335	Poland
+402	406	Alexander_Lebed
+456	463	Chechnya
+563	568	Dariusz_Rosati
+610	614	Alexander_Lebed
+647	653	Boris_Yeltsin
+793	797	Alexander_Lebed
+874	879	Russia
+897	902	Moscow
+944	951	Chechnya
+979	985	Russia
+997	1009	Boris_Yeltsin
+1082	1096	Gazeta_Wyborcza
+1105	1110	Dariusz_Rosati
+1122	1128	Boris_Yeltsin
+1202	1207	Russia
+1283	1288	Dariusz_Rosati
+1295	1300	Russia
+1327	1333	Boris_Yeltsin
+1407	1413	Russia
+1495	1500	Russia
+1622	1628	Russia
+1706	1711	Russia
+1733	1738	Dariusz_Rosati
+1774	1777	NATO
+1830	1835	Poland
+1866	1872	NATO
+1915	1921	Russia
+1940	1955	Yevgeny_Primakov

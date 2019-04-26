@@ -1,0 +1,15 @@
+Clinton arrives in Chicago on day of re-nomination .
+CHICAGO 1996-08-28
+President Bill Clinton arrived in Chicago on Wednesday as the Democratic convention prepared to re-nominate him for a second four-year term .
+Clinton flew in by helicopter from Michigan City , Indiana , after ending a four-day , 559-mile trip aboard a campaign train from Washington .
+%%TYPE_ANNOTATIONS%%
+0	6	Bill_Clinton
+19	25	Chicago
+53	59	Chicago
+82	93	Bill_Clinton
+106	112	Chicago
+134	143	Democratic_Party_(United_States)
+214	220	Bill_Clinton
+249	261	Michigan_City,_Indiana
+265	271	Indiana
+344	353	Washington,_D.C.

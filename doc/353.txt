@@ -1,0 +1,32 @@
+SOCCER - CHAMPIONS PORTO KICK OFF SEASON WITH A DRAW .
+LISBON 1996-08-25
+Portuguese champions Porto kicked off the season with a disappointing 2-2 home draw against Setubal and were lucky to squeeze in an equaliser in extra time .
+Porto , who are fighting to take their third consecutive title this season , were 2-0 down until the 86th minute when a header by Mario Jardel found the net after a string of missed opportunities , including a penalty taken by top league scorer Domingos Oliveira in the 60th minute .
+Domingos redeemed himself by netting the equaliser just into extra time .
+Setubal , who put on a skilful counter-attack throughout the game , opened the scoring 16 minutes into the match when an unmarked Chiquinho Conde shot around Porto 's new Polish keeper Andrejez Wozniak .
+Conde scored his second in the 70th minute .
+Benfica , also playing their first game of the season at home , were held to a 1-1 draw by northern side Braga despite the fact that the visitors were reduced to 10 men in the 54th minute after Rodrigo Carneiro was sent off for a second bookable offence .
+Benfica dominated the game but their lack of a first-class striker was apparent throughout and in the 30th minute they lost key Brazilian midfielder Valdo who suffered a light knee injury .
+He was substituted by Paulao .
+Benfica finally opened the scoring in the 81st minute with a penalty taken by Helder after Luis Baltasar tripped up captain Joao Pinto under the referee 's nose .
+Braga defender Idalecio gave his team their equaliser seven minutes from the final whistle with a header into the back of the net .
+%%TYPE_ANNOTATIONS%%
+19	23	F.C._Porto
+55	60	Lisbon
+73	82	Portugal
+94	98	F.C._Porto
+231	235	F.C._Porto
+361	372	Mário_Jardel
+719	733	Chiquinho_Conde
+747	751	F.C._Porto
+760	765	Poland
+793	797	Chiquinho_Conde
+838	844	S.L._Benfica
+943	947	S.C._Braga
+1094	1100	S.L._Benfica
+1222	1230	Brazil
+1243	1247	Valdo_Filho
+1306	1311	Paulo_Roberto_do_Carmo
+1315	1321	S.L._Benfica
+1439	1448	João_Domingos_Pinto
+1478	1482	S.C._Braga

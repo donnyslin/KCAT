@@ -1,0 +1,53 @@
+BASEBALL - MAJOR LEAGUE RESULTS WEDNESDAY .
+NEW YORK 1996-08-29
+Results of Major League
+Baseball games played on Wednesday ( home team in CAPS ) :
+National League
+COLORADO 10 Cincinnati 9
+MONTREAL 6 Los Angeles 5
+Atlanta 9 PITTSBURGH 4
+San Diego 3 NEW YORK 2 ( 10 innings )
+HOUSTON 5 Chicago 4 ( 11 innings )
+Florida 3 ST LOUIS 2 ( 10 innings )
+SAN FRANCISCO 7 Philadelphia 6
+American League
+Cleveland 9 DETROIT 3
+CHICAGO 2 Milwaukee 0
+Oakland 3 BALTIMORE 0
+TORONTO 6 Minnesota 1
+KANSAS CITY 4 Texas 3 ( 12 innings )
+Boston 7 CALIFORNIA 4
+SEATTLE 10 New York 2
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+44	51	New_York_City
+75	86	Major_League_Baseball
+147	161	National_League
+163	170	Colorado_Rockies
+175	184	Cincinnati_Reds
+188	195	Montreal_Expos
+199	209	Los_Angeles_Dodgers
+213	219	Atlanta_Braves
+223	232	Pittsburgh_Pirates
+236	244	San_Diego_Padres
+248	255	New_York_Yankees
+274	280	Houston_Astros
+284	290	Chicago_White_Sox
+309	315	Florida_Marlins
+345	357	San_Francisco_Giants
+361	372	Philadelphia_Phillies
+376	390	American_League
+392	400	Cleveland_Indians
+404	410	Detroit_Tigers
+414	420	Chicago_White_Sox
+424	432	Milwaukee_Brewers
+436	442	Oakland_Athletics
+446	454	Baltimore_Orioles
+458	464	Toronto_Blue_Jays
+468	476	Minnesota_Twins
+480	490	Kansas_City_Royals
+494	498	Texas_Rangers_(baseball)
+517	522	Boston_Red_Sox
+526	535	Los_Angeles_Angels_of_Anaheim
+539	545	Seattle_Mariners
+550	557	New_York_Yankees

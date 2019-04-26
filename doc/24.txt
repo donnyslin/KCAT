@@ -1,0 +1,12 @@
+Greek socialists give PM green light for election .
+ATHENS 1996-08-22
+The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .
+Prime Minister Costas Simitis will make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .
+-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4
+%%TYPE_ANNOTATIONS%%
+0	4	Greece
+52	57	Athens
+74	78	Greece
+136	149	Costas_Simitis
+224	241	Kostas_Skandalidis
+287	300	Costas_Simitis

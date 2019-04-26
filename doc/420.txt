@@ -1,0 +1,59 @@
+SOCCER - UKRAINIAN PREMIER DIVISION RESULTS / STANDINGS .
+KIEV 1996-08-26
+Results of Ukraine premier division
+matches played at the weekend :
+Dynamo Kiev 5 Kremin Kremenchuk 0
+Vorskla Poltava 2 Nyva Ternopil 1
+Torpedo Zaporizhya 2 Shakhtar Donetsk 1
+Kryvbas Kryvy Rig 1 Karpaty Lviv 2
+Prykarpattya Ivano-Frankivsk 0 Zirka-Nibas Kirovohrad 0
+Chornomorets Odessa 2 Metalurg Zaporizhya 1
+Dnipro Dnipropetrovsk 2 CSKA Kiev 1
+Standings ( tabulated under played , won , drawn , lost , goals
+for , against , points ) :
+Dynamo 6 5 0 1 16 2 15
+Vorskla 6 4 2 0 11 3 14
+Dnipro 6 4 1 1 13 6 13
+Chornomorets 6 4 1 1 11 7 13
+Shakhtar 6 3 2 1 10 3 11
+Metalurg 6 3 2 1 9 6 11
+Karpaty 6 3 1 2 9 5 10
+Zirka-Nibas 6 3 1 2 6 8 10
+Torpedo 6 3 1 2 8 7 10
+Tavria 5 2 0 3 3 7 6
+Nyva Ternopil 6 2 0 4 4 11 6
+CSKA 6 1 1 4 4 7 4
+Kryvbas 6 1 1 4 5 9 4
+Nyva Vinnytsya 5 0 2 3 1 7 2
+Prykarpattya 6 0 2 4 4 13 2
+Kremin 6 0 1 5 1 14 1
+%%TYPE_ANNOTATIONS%%
+9	17	Ukraine
+58	61	Kiev
+85	91	Ukraine
+142	152	FC_Dynamo_Kyiv
+156	172	FC_Kremin_Kremenchuk
+176	190	FC_Vorskla_Poltava
+194	206	FC_Nyva_Ternopil
+210	227	FC_Torpedo_Zaporizhya
+231	246	FC_Shakhtar_Donetsk
+270	281	FC_Karpaty_Lviv
+285	312	FSC_Prykarpattya_Ivano-Frankivsk
+341	359	FC_Chornomorets_Odesa
+363	381	FC_Metalurh_Zaporizhya
+385	405	FC_Dnipro_Dnipropetrovsk
+409	417	FC_CSKA_Kyiv
+512	517	FC_Dynamo_Kyiv
+535	541	FC_Vorskla_Poltava
+559	564	FC_Dnipro_Dnipropetrovsk
+582	593	FC_Chornomorets_Odesa
+611	618	FC_Shakhtar_Donetsk
+636	643	FK_Metalurg_Skopje
+660	666	FC_Karpaty_Lviv
+710	716	FC_Torpedo_Moscow
+733	738	SC_Tavriya_Simferopol
+754	766	FC_Nyva_Ternopil
+783	786	FC_CSKA_Kyiv
+802	808	FC_Kryvbas_Kryvyi_Rih
+853	864	FSC_Prykarpattya_Ivano-Frankivsk
+881	886	FC_Kremin_Kremenchuk

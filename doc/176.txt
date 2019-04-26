@@ -1,0 +1,23 @@
+CRICKET - PAKISTAN 229-1 V ENGLAND - close .
+Saeed Anwar not out 116
+Aamir Sohail c Cork b Croft 46
+Ijaz Ahmed not out 58
+Extras 9
+Fall of wicket - 1-106
+To bat - Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam
+England 326 all out
+%%TYPE_ANNOTATIONS%%
+10	17	Pakistan_national_cricket_team
+27	33	England_cricket_team
+45	55	Saeed_Anwar
+84	87	Dominic_Cork
+91	95	Robert_Croft
+100	109	Ijaz_Ahmed_(cricketer)
+163	176	Inzamam-ul-Haq
+180	190	Saleem_Malik
+194	205	Asif_Mujtaba
+209	219	Wasim_Akram
+223	231	Moin_Khan
+235	247	Mushtaq_Ahmed
+251	262	Waqar_Younis
+280	286	England_cricket_team

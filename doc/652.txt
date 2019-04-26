@@ -1,0 +1,94 @@
+BASEBALL - DODGERS WIN FIFTH STRAIGHT .
+MONTREAL 1996-08-28
+Hideo Nomo allowed a run in seven innings for his fifth win in seven road starts and Greg Gagne capped a three-run fourth with a two-run homer as the Los Angeles Dodgers claimed a 5-1 victory the Montreal Expos on Tuesday .
+With their fifth straight win , the Dodgers moved a half-game ahead of the Expos at the top of the wild card hunt behind Nomo ( 13-10 ) , who allowed six hits and walked four with six strikeouts .
+In San Francisco , Mike Williams allowed two runs in 7-1/3 innings and Benito Santiago and Ruben Amaro had RBI hits in the first inning as the Philadelphia Phillies edged the San Francisco Giants 3-2 .
+Williams ( 5-12 ) , who snapped a personal three-game losing streak , allowed five hits , walked two and struck out five .
+It was also Williams ' first win in three career decisions against San Francisco .
+In Pittsburgh , Al Martin 's run-scoring single snapped a fifth-inning tie and Denny Neagle outdueled John Smoltz as the Pittsburgh Pirates edged the Atlanta Braves 3-2 .
+The Braves led 2-1 entering the fifth , but the Pirates pushed across two runs against Smoltz ( 20-7 ) .
+Neagle ( 14-6 ) beat the Braves for the third time this season , allowing two runs and six hits in eight innings .
+In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals 6-3 .
+White added a solo homer , his 11th , off reliever Mark Petkovsek with one out in the fifth , giving the Marlins a 6-0 lead .
+In New York , Steve Finley 's three-run homer capped a four-run eighth inning and gave the San Diego Padres a 4-3 victory over New York , spoiling Bobby Valentine 's debut as Mets ' manager .
+The rally made a winner out of reliever Willie Blair Tony Gwynn and Wally Joyner had two hits apiece , helping the Padres to their third straight win .
+First-place San Diego has won seven of its last eight games and improved to 34-20 against NL East opponents .
+In Houston , Tony Eusebio 's eighth-inning sacrifice fly capped a comeback from a five-run deficit that gave the Houston Astros a 6-5 victory over the Chicago Cubs .
+The Astros trailed 5-0 after three innings , but scored three runs in the fourth and one in the sixth before taking the lead in the eighth .
+In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals , 6-3 ,
+Sheffield , who was benched Monday , delivered a double down the left-field line in the first , scoring Luis Castilla and Alex Arias to put the Marlins ahead to stay .
+At Colorado , Hal Morris and Eric Davis each homered and John Smiley scattered six hits over 6 2/3 innings as the Cincinnati Reds defeated the Colorado Rockies 4-3 , snapping a four-game losing streak .
+The Reds took a one-run lead in the second inning when Morris led off with his 10th homer off starter Armando Reynoso ( 8-9 ) .
+They increased their bulge to 4-0 in the third when Barry Larkin drew a one-out walk , Kevin Mitchell singled and Davis launched his 22nd homer over the right-field wall .
+%%TYPE_ANNOTATIONS%%
+11	17	Los_Angeles_Dodgers
+40	47	Montreal
+60	69	Hideo_Nomo
+145	154	Greg_Gagne_(baseball)
+210	228	Los_Angeles_Dodgers
+256	269	Montreal_Expos
+320	326	Los_Angeles_Dodgers
+359	363	Montreal_Expos
+405	408	Hideo_Nomo
+484	496	San_Francisco
+500	512	Mike_Williams_(baseball)
+552	566	Benito_Santiago
+624	644	Philadelphia_Phillies
+656	675	San_Francisco_Giants
+683	690	Mike_Williams_(baseball)
+818	825	Mike_Williams_(baseball)
+873	885	San_Francisco_Giants
+892	901	Pittsburgh
+905	913	Al_Martin
+968	979	Denny_Neagle
+991	1001	John_Smoltz
+1010	1027	Pittsburgh_Pirates
+1039	1052	Atlanta_Braves
+1064	1069	Atlanta_Braves
+1108	1114	Pittsburgh_Pirates
+1147	1152	John_Smoltz
+1165	1170	Denny_Neagle
+1190	1195	Atlanta_Braves
+1283	1290	St._Louis,_Missouri
+1294	1307	Gary_Sheffield
+1313	1323	Devon_White_(baseball)
+1352	1362	Mark_Hutton
+1413	1427	Florida_Marlins
+1438	1456	St._Louis_Cardinals
+1515	1528	Mark_Petkovsek
+1569	1575	Florida_Marlins
+1593	1600	New_York_City
+1604	1615	Steve_Finley
+1681	1696	San_Diego_Padres
+1717	1724	New_York_Mets
+1737	1751	Bobby_Valentine
+1765	1768	New_York_Mets
+1850	1861	Wally_Joyner
+1897	1902	San_Diego_Padres
+1946	1954	San_Diego_Padres
+2024	2030	National_League_East
+2047	2053	Houston
+2057	2068	Tony_Eusebio
+2157	2170	Houston_Astros
+2195	2206	Chicago_Cubs
+2214	2219	Houston_Astros
+2354	2361	St._Louis,_Missouri
+2365	2378	Gary_Sheffield
+2384	2394	Devon_White_(baseball)
+2423	2433	Mark_Hutton
+2484	2498	Florida_Marlins
+2509	2527	St._Louis_Cardinals
+2537	2545	Gary_Sheffield
+2659	2668	Alex_Arias
+2681	2687	Florida_Marlins
+2708	2715	Colorado
+2719	2728	Hal_Morris
+2734	2743	Eric_Davis_(baseball)
+2762	2772	John_Smiley
+2819	2833	Cincinnati_Reds
+2848	2863	Colorado_Rockies
+2912	2915	Cincinnati_Reds
+2963	2968	Hal_Morris
+3010	3024	Armando_Reynoso
+3088	3099	Barry_Larkin
+3123	3136	Kevin_Mitchell_(baseball)

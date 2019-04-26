@@ -1,0 +1,17 @@
+Dutch Queen Beatrix to visit S. Africa in October .
+JOHANNESBURG 1996-08-29
+Queen Beatrix of The Netherlands will pay a four-day state visit to South Africa in October , the first by a ruling Dutch monarch , the South African foreign ministry said on Thursday .
+She will be accompanied by several officials who will sign a cultural agreement with South Africa , where the Dutch were the first European settlers in 1652 .
+The queen will be accompanied by her husband Prince Claus on the September 30 to October 3 visit .
+%%TYPE_ANNOTATIONS%%
+0	4	Netherlands
+12	18	Beatrix_of_the_Netherlands
+52	63	Johannesburg
+82	88	Beatrix_of_the_Netherlands
+93	107	Netherlands
+144	155	South_Africa
+192	196	Netherlands
+212	224	South_Africa
+347	358	South_Africa
+372	376	Netherlands
+393	400	Europe

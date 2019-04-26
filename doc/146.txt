@@ -1,0 +1,44 @@
+BASEBALL - MAJOR LEAGUE RESULTS THURSDAY .
+NEW YORK 1996-08-23
+Results of Major League
+Baseball games played on Thursday ( home team in CAPS ) :
+American League
+BOSTON 2 Oakland 1
+Seattle 10 BALTIMORE 3
+California 12 NEW YORK 3
+Toronto 1 CHICAGO 0 ( in 6 1/2 )
+Detroit 10 KANSAS CITY 3
+Texas 11 MINNESOTA 2
+National League
+COLORADO 10 St Louis 5
+Cincinnati 3 ATLANTA 2 ( in 13 )
+Pittsburgh 8 HOUSTON 6
+LOS ANGELES 8 Philadelphia 5
+Montreal 5 SAN FRANCISCO 4
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+43	50	New_York_City
+74	85	Major_League_Baseball
+145	159	American_League
+161	166	Boston_Red_Sox
+170	176	Oakland_Athletics
+180	186	Seattle_Mariners
+191	199	Baltimore_Orioles
+203	212	Los_Angeles_Angels_of_Anaheim
+217	224	New_York_Yankees
+228	234	Toronto_Blue_Jays
+238	244	Chicago_White_Sox
+261	267	Detroit_Tigers
+272	282	Kansas_City_Royals
+286	290	Texas_Rangers_(baseball)
+295	303	Minnesota_Twins
+307	321	National_League
+323	330	Colorado_Rockies
+346	355	Cincinnati_Reds
+359	365	Atlanta_Braves
+379	388	Pittsburgh_Pirates
+392	398	Houston_Astros
+402	412	Los_Angeles_Angels_of_Anaheim
+416	427	Philadelphia_Phillies
+431	438	Montreal_Expos
+442	454	San_Francisco_Giants

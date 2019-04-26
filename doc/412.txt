@@ -1,0 +1,13 @@
+CRICKET - PAKISTAN BEAT ENGLAND BY NINE WICKETS IN THIRD TEST .
+LONDON 1996-08-26
+Pakistan beat England by nine wickets on the fifth day of the third and final test at The Oval on Monday to win the series 2-0 .
+Scores : England 326 and 242 ; Pakistan 521-8 declared and 48-1 .
+%%TYPE_ANNOTATIONS%%
+10	17	Pakistan
+24	30	England
+64	69	London
+82	89	Pakistan_national_cricket_team
+96	102	England_cricket_team
+168	175	The_Oval
+220	226	England_cricket_team
+242	249	Pakistan_national_cricket_team

@@ -1,0 +1,11 @@
+SOCCER - FRENCH FIRST DIVISION RESULT .
+PARIS 1996-08-27
+Result of a French first division
+soccer match played on Tuesday :
+Auxerre 0 Marseille 0
+%%TYPE_ANNOTATIONS%%
+9	14	France
+40	44	Paris
+69	74	France
+124	130	AJ_Auxerre
+134	142	Olympique_de_Marseille

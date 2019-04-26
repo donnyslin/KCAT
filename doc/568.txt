@@ -1,0 +1,13 @@
+Brazil 's Eletropaulo names new president .
+SAO PAULO 1996-08-27
+Sao Paulo state power firm Eletropaulo said it has named Eduardo Bernini as new president , replacing Emmanuel Sobral , who will head a secretariat at the Transportation Ministry .
+Bernini is expected to take office Thursday , a Eletropaulo spokeswoman said .
+-- Romina Nicaretta , Sao Paulo newsroom , 5511 232 4411 .
+%%TYPE_ANNOTATIONS%%
+0	5	Brazil
+10	20	AES_Eletropaulo
+44	52	São_Paulo
+65	73	São_Paulo
+92	102	AES_Eletropaulo
+294	304	AES_Eletropaulo
+347	355	São_Paulo

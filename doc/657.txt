@@ -1,0 +1,19 @@
+SOCCER - RUSSIA AND BRAZIL DRAW 2-2 IN FRIENDLY .
+MOSCOW 1996-08-28
+Russia and Brazil drew 2-2
+( halftime 1-0 ) in a friendly soccer international on Wednesday .
+Scorers :
+Russia - Yuri Nikiforov ( 18th minute ) , Vladislav Rodimov
+( 80th )
+Brazil - Donizetti ( 47th ) , Ronaldo ( 85th )
+Attendence : 20,000
+%%TYPE_ANNOTATIONS%%
+9	14	Russia
+20	25	Brazil
+50	55	Moscow
+68	73	Russia_national_football_team
+79	84	Brazil_national_football_team
+172	177	Russia_national_football_team
+181	194	Yuriy_Nikiforov
+241	246	Brazil_national_football_team
+271	277	Ronaldo

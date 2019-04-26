@@ -1,0 +1,34 @@
+Mass .
+governor has trouble winning home support .
+BOSTON 1996-08-23
+The 12-year-old daughter of Republican Gov .
+William Weld is working to stop his bid to win a U.S. Senate seat because she does n't want to leave Massachusetts .
+Weld conceded his 12-year-old daughter , Franny , is " a foot soldier " for Democratic incumbent Sen .
+John Kerry , even though she is n't old enough to vote .
+Weld , speaking on WBUR-FM radio on Thursday , said he was facing a revolt from his daughter in part because she does not want to leave Cambridge , Massachusetts , and move to Washington .
+He also said Franny Weld 's best friend , Tracy Roosevelt , might have something to do with her politics .
+Tracy is the great-granddaughter of Democratic former President Franklin Roosevelt , and support for Democrats runs in the family .
+The Roosevelts are good friends of Weld and his wife , Susan Roosevelt Weld , a descendant of former President Theodore Roosevelt , who won the presidency as a Republican .
+%%TYPE_ANNOTATIONS%%
+0	3	Massachusetts
+51	56	Boston
+97	106	Republican_Party_(United_States)
+114	125	William_Weld
+163	166	United_States
+215	227	Massachusetts
+231	234	William_Weld
+307	316	Democratic_Party_(United_States)
+334	343	John_Kerry
+391	394	William_Weld
+410	416	WBUR
+527	535	Cambridge,_Massachusetts
+539	551	Massachusetts
+567	576	Washington,_D.C.
+723	732	Democratic_Party_(United_States)
+751	768	Franklin_D._Roosevelt
+788	796	Democratic_Party_(United_States)
+823	832	Roosevelt_family
+854	857	William_Weld
+874	893	Susan_Roosevelt_Weld
+930	947	Theodore_Roosevelt
+979	988	Republican_Party_(United_States)

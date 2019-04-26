@@ -1,0 +1,109 @@
+GOLF - SCORES AT WORLD SERIES OF GOLF .
+AKRON , Ohio 1996-08-23
+Scores from the $ 2.1
+million NEC World Series of Golf after the second round was
+suspended due to rain on Friday with 38 of the 43 players yet
+to finish their rounds on the 7,149 yard , par 70 Firestone C.C
+course ( players U.S. unless noted ) :
+- 5 Paul Goydos through 2 holes
+- 5 Billy Mayfair through 2
+- 4 Greg Norman ( Australia ) through 8
+- 4 Hidemichi Tanaka ( Japan ) through 3
+- 3 Steve Stricker through 3
+- 2 Phil Mickelson through 7
+- 2 Mark Brooks through 3
+- 1 Hal Sutton through 11
+- 1 John Cook through 5
+- 1 Tim Herron through 4
+- 1 Justin Leonard through 3
+0 Steve Jones through 7
+0 Nick Faldo ( Britain ) through 5
+0 Davis Love through 5
++1 Fred Couples through 15
++1 Fred Funk through 9
++1 Scott Hoch through 9
++1 Ernie Els ( South Africa ) through 8
++2 D.A. Weibring through 12
++2 Clarence Rose through 9
++2 Duffy Waldorf through 4
++3 Jim Furyk through 16
++3 Corey Pavin through 14
++3 Craig Stadler through 14
++3 Brad Bryant through 12
++3 Tom Lehman through 11
++3 Sven Struver ( Germany ) through 10
++3 Alexander Cejka ( Germany ) through 10
++3 Anders Forsbrand ( Sweden ) through 5
++4 Willie Wood through 17
++4 Costantino Rocca ( Italy ) through 15
++4 Stewart Ginn ( Australia ) through 13
++5 Wayne Westner ( South Africa ) 77 68
++5 Sigeki Maruyama ( Japan ) through 17
++5 Mark O'Meara through 15
++5 Loren Roberts through 9
++6 Scott McCarron 76 70
++7 Satoshi Higashi ( Japan ) through 16
++7 Paul Stankowski through 15
++8 Craig Parry ( Australia ) through 13
++9 Tom Watson 79 70
++11 Seiki Okuda ( Japan ) 81 70 ( through 18 )
++11 Steve Schneiter 77 74 ) through 18 )
+%%TYPE_ANNOTATIONS%%
+17	36	World_Series_of_Golf
+40	44	Akron,_Ohio
+48	51	Ohio
+94	117	WGC-Bridgestone_Invitational
+289	292	United_States
+315	325	Paul_Goydos
+347	359	Billy_Mayfair
+375	385	Greg_Norman
+389	397	Australia
+415	430	Hidemichi_Tanaka
+434	438	Japan
+456	469	Steve_Stricker
+485	498	Phil_Mickelson
+514	524	Mark_Brooks_(golfer)
+540	549	Hal_Sutton
+566	574	John_Cook_(golfer)
+590	599	Tim_Herron
+615	628	Justin_Leonard
+642	652	Steve_Jones_(golfer)
+666	675	Nick_Faldo
+679	685	United_Kingdom
+701	710	Davis_Love_III
+725	736	Fred_Couples
+752	760	Fred_Funk
+775	784	Scott_Hoch
+799	807	Ernie_Els
+811	822	South_Africa
+839	851	D._A._Weibring
+867	879	Clarence_Rose
+894	906	Duffy_Waldorf
+921	929	Jim_Furyk
+945	955	Corey_Pavin
+971	983	Craig_Stadler
+999	1009	Brad_Bryant
+1025	1034	Tom_Lehman
+1050	1061	Sven_Strüver
+1065	1071	Germany
+1089	1103	Alex_Čejka
+1107	1113	Germany
+1131	1146	Anders_Forsbrand
+1150	1155	Sweden
+1172	1182	Willie_Wood_(golfer)
+1198	1213	Costantino_Rocca
+1217	1221	Italy
+1239	1250	Stewart_Ginn
+1254	1262	Australia
+1280	1292	Wayne_Westner
+1296	1307	South_Africa
+1338	1342	Japan
+1387	1399	Loren_Roberts
+1414	1427	Scott_McCarron
+1438	1452	Satoshi_Higashi
+1456	1460	Japan
+1478	1492	Paul_Stankowski
+1508	1518	Craig_Parry
+1522	1530	Australia
+1548	1557	Tom_Watson_(golfer)
+1583	1587	Japan

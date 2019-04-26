@@ -1,0 +1,44 @@
+Japan coalition party leader plans to resign .
+TOKYO 1996-08-28
+The leader of a junior partner in Japan 's three-party ruling coalition plans to resign to quell a political rebellion , party officials said on Wednesday .
+The officials said New Party Sakigake President Masayoshi Takemura , finance minister until the beginning of this year , promised his resignation in a meeting with the politician who set off the rebellion in the smallest coalition member .
+They said the date of Takemura 's resignation would be determined by party officials .
+The Sakigake row has caused jitters in its coalition partners , Prime Minister Ryutaro Hashimoto 's Liberal Democratic Party ( LDP ) , the biggest grouping , and the Social Democratic Party .
+But analysts said the row was not expected to immediately destabilise the government as even if Sakigake splits apart it has so few seats a loss of support would not lead to a general election .
+The dispute pits Takemura , who founded Sakigake in 1993 as a reform-oriented LDP splinter group , against party official Yukio Hatoyama , who says he will leave Sakigake to form a reformist political group next month .
+Hatoyama , the 49-year-old grandson of a 1950s prime minister , on Tuesday quit as Sakigake secretary general and has publicly snubbed the 62-year-old Takemura , pointedly ruling his mentor out as a possible member of the new political force .
+Marathon talks between the two former allies on Tuesday night and Wednesday morning failed to resolve the dispute over the role of Takemura , seen by Hatoyama backers as tainted by his senior role in the LDP-dominated coalition .
+The presence of Takemura , whose role as finance minister in passing an unpopular plan to use taxpayer funds to wind up failed housing loan firms ruined his reputation as a reformer , has stalled Hatoyama 's efforts to attract to his new group defectors from the opposition camp , analysts said .
+Media reports say that at most 10 of 23 Sakigake members , joined by a handful of Social Democrats , will follow Hatoyama when he bolts -- far short of the 50 lawmakers needed to topple Hashimoto 's eight-month-old government .
+Hashimoto -- who returns from a 10-day Latin American tour on Saturday -- must call polls by mid-1997 , and has repeatedly said he would not call an early general election .
+But many analysts and politicians believe he may dissolve parliament soon after it reconvenes in early October .
+%%TYPE_ANNOTATIONS%%
+0	4	Japan
+47	51	Tokyo
+98	102	Japan
+240	257	New_Party_Sakigake
+269	286	Masayoshi_Takemura
+483	490	Masayoshi_Takemura
+552	559	New_Party_Sakigake
+627	643	Ryutaro_Hashimoto
+648	671	Liberal_Democratic_Party_(Japan)
+675	677	Liberal_Democratic_Party_(Japan)
+714	736	Social_Democratic_Party_(Japan)
+836	843	New_Party_Sakigake
+952	959	Masayoshi_Takemura
+975	982	New_Party_Sakigake
+1013	1015	Liberal_Democratic_Party_(Japan)
+1057	1070	Yukio_Hatoyama
+1097	1104	New_Party_Sakigake
+1155	1162	Yukio_Hatoyama
+1238	1245	New_Party_Sakigake
+1306	1313	Masayoshi_Takemura
+1530	1537	Masayoshi_Takemura
+1549	1556	Yukio_Hatoyama
+1645	1652	Masayoshi_Takemura
+1825	1832	Yukio_Hatoyama
+1966	1973	New_Party_Sakigake
+2039	2046	Yukio_Hatoyama
+2112	2120	Ryutaro_Hashimoto
+2154	2162	Ryutaro_Hashimoto
+2193	2206	Latin_America

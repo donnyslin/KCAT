@@ -1,0 +1,71 @@
+SOCCER - SCOTTISH LEAGUE RESULTS .
+GLASGOW 1996-08-24
+Results of Scottish league soccer
+matches on Saturday :
+Premier division
+Hibernian 0 Dunfermline 0
+Kilmarnock 1 Celtic 3
+Raith 0 Motherwell 3
+Rangers 1 Dundee United 0
+Playing Sunday :
+Aberdeen v Hearts
+Division one
+Airdrieonians 0 East Fife 0
+Clydebank 1 Stirling 0
+Dundee 2 Greenock Morton 1
+Falkirk 1 Partick 0
+St Mirren 0 St Johnstone 3
+Division two
+Berwick 0 Stenhousemuir 6
+Brechin 1 Ayr 1
+Hamilton 2 Clyde 0
+Queen of the South 2 Dumbarton 1
+Stranraer 1 Livingston 2
+Division three
+Alloa 1 Arbroath 1
+Cowdenbeath 1 Monstrose 0
+Forfar 3 Inverness 1
+Ross County 1 Queen 's Park 2
+Played Friday :
+East Stirling 0 Albion 1
+%%TYPE_ANNOTATIONS%%
+9	16	Scotland
+35	41	Glasgow
+65	72	Scotland
+127	135	Hibernian_F.C.
+139	149	Dunfermline_Athletic_F.C.
+153	162	Kilmarnock_F.C.
+166	171	Celtic_F.C.
+175	179	Raith_Rovers_F.C.
+183	192	Motherwell_F.C.
+196	202	Rangers_F.C.
+206	218	Dundee_United_F.C.
+239	246	Aberdeen_F.C.
+250	255	Heart_of_Midlothian_F.C.
+270	282	Airdrieonians_F.C.
+286	294	East_Fife_F.C.
+298	306	Clydebank_F.C.
+310	317	Stirling_Albion_F.C.
+321	326	Dundee_F.C.
+330	344	Greenock_Morton_F.C.
+348	354	Falkirk_F.C.
+358	364	Partick_Thistle_F.C.
+368	376	St._Mirren_F.C.
+380	391	St._Johnstone_F.C.
+408	414	Berwick_Rangers_F.C.
+418	430	Stenhousemuir_F.C.
+434	440	Brechin_City_F.C.
+444	446	Ayr_United_F.C.
+450	457	Hamilton_Academical_F.C.
+461	465	Clyde_F.C.
+469	486	Queen_of_the_South_F.C.
+490	498	Dumbarton_F.C.
+502	510	Stranraer_F.C.
+514	523	Livingston_F.C.
+542	546	Alloa_Athletic_F.C.
+550	557	Arbroath_F.C.
+561	571	Cowdenbeath_F.C.
+587	592	Forfar_Athletic_F.C.
+596	604	Inverness_Caledonian_Thistle_F.C.
+608	618	Ross_County_F.C.
+654	666	East_Stirlingshire_F.C.

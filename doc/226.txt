@@ -1,0 +1,8 @@
+RTRS - Toyota Australia workers to return to work .
+MELBOURNE 1996-08-23
+Over 2,000 striking workers voted on Friday to return to work on Monday at Toyota Australia 's Melbourne assembly line , ending a two-week stoppage .
+%%TYPE_ANNOTATIONS%%
+7	22	Toyota_Australia
+52	60	Melbourne
+148	163	Toyota_Australia
+168	176	Melbourne

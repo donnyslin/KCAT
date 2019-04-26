@@ -1,0 +1,37 @@
+CRICKET - INDIA BANS SIDHU FOR 50 DAYS .
+NEW DELHI 1996-08-25
+Indian opener Navjot Singh Sidhu was on Sunday given a 50-day ban from international cricket for quitting this year 's tour of England , the Press Trust of India said .
+The right-handed batsman will have to forfeit half the money he was due to earn from the tour , the news agency said after a disciplinary committee set up by the Board of Control for Cricket in India met at Mohali , near the northern city of Chandigarh .
+Sidhu abandoned the Indian team after the third one-day international against England at Old Trafford in Manchester on May 26 , before India began a three-test series , citing serious differences with captain Mohammed Azharuddin .
+Azharuddin was sacked after the tour and replaced by Sachin Tendulkar .
+Sidhu was not considered for the four-nation Singer Cup beginning in Sri Lanka this month and the Sahara Cup against Pakistan scheduled to be played in Canada next month .
+Sidhu , whose ban ends on October 14 , will be free to play domestic cricket .
+He will not be considered for a test match against Australia starting on October 10 in New Delhi , the United News of India said .
+%%TYPE_ANNOTATIONS%%
+10	14	India_national_cricket_team
+21	25	Navjot_Singh_Sidhu
+41	49	New_Delhi
+62	67	India
+76	93	Navjot_Singh_Sidhu
+189	195	England
+203	222	Press_Trust_of_India
+393	429	Board_of_Control_for_Cricket_in_India
+438	443	Mohali
+473	482	Chandigarh
+486	490	Navjot_Singh_Sidhu
+506	511	India
+564	570	England_cricket_team
+575	586	Old_Trafford_Cricket_Ground
+591	600	Manchester
+621	625	India_national_cricket_team
+695	713	Mohammad_Azharuddin
+717	726	Mohammad_Azharuddin
+770	785	Sachin_Tendulkar
+789	793	Navjot_Singh_Sidhu
+858	866	Sri_Lanka
+906	913	Pakistan_national_cricket_team
+941	946	Canada
+961	965	Navjot_Singh_Sidhu
+1091	1099	Australia_national_cricket_team
+1127	1135	New_Delhi
+1143	1162	United_News_of_India

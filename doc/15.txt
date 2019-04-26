@@ -1,0 +1,33 @@
+Arafat to meet Peres in Gaza after flight ban .
+JERUSALEM 1996-08-22
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .
+" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , " Peres ' office said .
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .
+Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .
+%%TYPE_ANNOTATIONS%%
+0	5	Yasser_Arafat
+15	19	Shimon_Peres
+24	27	Gaza_Strip
+48	56	Jerusalem
+69	81	Yasser_Arafat
+93	104	Shimon_Peres
+109	112	Gaza_Strip
+132	143	State_of_Palestine
+165	171	Israel
+199	209	State_of_Palestine
+312	316	Shimon_Peres
+322	327	Yasser_Arafat
+348	351	Erez
+367	370	Gaza_Strip
+383	390	Ramallah
+407	411	Shimon_Peres
+429	439	State_of_Palestine
+460	466	Israel
+490	495	Yasser_Arafat
+513	518	Israel
+525	535	State_of_Palestine
+603	607	Shimon_Peres
+611	617	Israel
+634	651	Benjamin_Netanyahu
+683	687	Shimon_Peres
+753	757	Likud

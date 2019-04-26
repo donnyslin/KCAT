@@ -1,0 +1,29 @@
+Iraqi Kurd group says agrees new ceasefire .
+ANKARA 1996-08-28
+An Iraqi Kurdish group on Wednesday said it had agreed a new U.S.-brokered ceasefire with a rival faction after a previous accord was shattered by sporadic fighting between the groups in recent days .
+" The Patriotic Union of Kurdistan ( PUK ) leadership declares its endorsement for a ceasefire arrangement with the KDP ( Kurdistan Democratic Party ) to take effect as of 8:00 a.m. on August 28 , " the PUK said in a statement .
+The PUK said the ceasefire was agreed after talks between U.S. Assistant Secretary for Near East Affairs Robert Pelletreau and PUK leader Jalal Talabani .
+The KDP , led by Massoud Barzani , had said a previous ceasefire negotiated by Pelletreau last Friday was broken by the PUK .
+Talabani has agreed to take part in talks in London on reaching a comprehensive settlement for the PUK-KDP conflict , the PUK statement said .
+It said the KDP was responsible for breaking the previous ceasefire by refusing to endorse it publicly .
+%%TYPE_ANNOTATIONS%%
+45	50	Ankara
+66	78	Iraqi_Kurdistan
+270	297	Patriotic_Union_of_Kurdistan
+301	303	Patriotic_Union_of_Kurdistan
+380	382	Kurdistan_Democratic_Party
+386	411	Kurdistan_Democratic_Party
+467	469	Patriotic_Union_of_Kurdistan
+497	499	Patriotic_Union_of_Kurdistan
+551	554	United_States
+598	614	Robert_Pelletreau
+620	622	Patriotic_Union_of_Kurdistan
+631	644	Jalal_Talabani
+652	654	Kurdistan_Democratic_Party
+665	679	Massoud_Barzani
+727	736	Robert_Pelletreau
+768	770	Patriotic_Union_of_Kurdistan
+774	781	Jalal_Talabani
+819	824	London
+896	898	Patriotic_Union_of_Kurdistan
+929	931	Kurdistan_Democratic_Party

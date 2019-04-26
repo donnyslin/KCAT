@@ -1,0 +1,31 @@
+TENNIS - RESULTS AT CANADIAN OPEN .
+TORONTO 1996-08-23
+Results from the Canadian Open
+tennis tournament on Friday ( prefix numbers denotes seedings ) :
+Quarterfinals
+3 - Wayne Ferreira ( South Africa ) beat 5 - Thomas Enqvist
+( Sweden ) 7-5 6-2
+4 - Marcelo Rios ( Chile ) beat Patrick Rafter ( Australia ) 0-6
+7-6 ( 7-4 ) 6-1
+7 - Todd Martin ( U.S. ) beat Alex O'Brien ( U.S. ) 6-4 6-4
+Todd Woodbridge ( Australia ) beat Mark Philippoussis
+( Australia ) 7-5 6-4
+%%TYPE_ANNOTATIONS%%
+20	32	Rogers_Cup_(tennis)
+36	42	Toronto
+72	84	Rogers_Cup_(tennis)
+170	183	Wayne_Ferreira
+187	198	South_Africa
+211	224	Thomas_Enqvist
+228	233	Sweden
+249	260	Marcelo_Ríos
+264	268	Chile
+277	290	Patrick_Rafter
+294	302	Australia
+330	340	Todd_Martin
+344	347	United_States
+371	374	United_States
+386	400	Todd_Woodbridge
+404	412	Australia
+421	438	Mark_Philippoussis
+442	450	Australia

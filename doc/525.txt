@@ -1,0 +1,115 @@
+CRICKET - ENGLAND AND PAKISTAN TEST AVERAGES .
+LONDON 1996-08-27
+England and Pakistan Test averages
+after their three-match series which ended on Monday :
+England
+Batting ( tabulated under matches , innings , not outs , runs ,
+highest score , average ) :
+Alec Stewart 3 5 0 396 170 79.20
+John Crawley 2 3 0 178 106 59.33
+Nick Knight 3 5 0 190 113 38.00
+Nasser Hussain 2 3 0 111 51 37.00
+Mike Atherton 3 5 0 162 64 32.40
+Graham Thorpe 3 5 0 159 77 31.80
+Jack Russell 2 3 1 51 41no 25.50
+Ian Salisbury 2 4 1 50 40 16.66
+Mark Ealham 1 2 0 30 25 15.00
+Dominic Cork 3 5 0 58 26 11.60
+Robert Croft 1 2 1 11 6 11.00
+Simon Brown 1 2 1 11 10no 11.00
+Alan Mullally 3 5 1 39 24 9.75
+Chris Lewis 2 3 0 18 9 6.00
+Andy Caddick 1 1 0 4 4 4.00
+Graeme Hick 1 2 0 8 4 4.00
+Bowling ( tabulated under overs , maidens , runs , wickets ,
+average ) :
+Atherton 7 1 20 1 20.00
+Caddick 57.2 10 165 6 27.50
+Cork 131 23 434 12 36.16
+Mullally 150.3 36 377 10 37.70
+Hick 13 2 42 1 42.00
+Croft 47.4 10 125 2 62.50
+Brown 33 4 138 2 69.00
+Ealham 37 8 81 1 81.00
+Salisbury 61.2 8 221 2 110.50
+Lewis 71 10 264 1 264.00
+Thorpe 13 4 19 0 -
+Pakistan
+Batting :
+Moin Khan 2 3 1 158 105 79.00
+Ijaz Ahmed 3 6 1 344 141 68.80
+Salim Malik 3 5 2 195 100no 65.00
+Inzamam-ul-Haq 3 5 0 320 148 64.00
+Saeed Anwar 3 6 0 362 176 60.33
+Rashid Latif 1 1 0 45 45 45.00
+Aamir Sohail 2 3 1 77 46 38.50
+Asif Mujtaba 2 3 0 90 51 30.00
+Wasim Akram 3 5 1 98 40 24.50
+Shadab Kabir 2 4 0 87 35 21.75
+Mushtaq Ahmed 3 5 1 44 20 11.00
+Waqar Younis 3 3 1 11 7 5.50
+Ata-ur-Rehman 2 2 2 10 10no -
+Mohammad Akram 1 0 0 0 0 -
+Bowling :
+Mushtaq Ahmed 195 52 447 17 26.29
+Waqar Younis 125 25 431 16 26.93
+Wasim Akram 128 29 350 11 31.81
+Ata-ur-Rehman 48.4 6 173 5 34.60
+Mohammad Akram 22 4 71 1 71.00
+Aamir Sohail 11 3 24 0 -
+Asif Mujtaba 7 5 6 0 -
+Salim Malik 1 0 1 0 -
+Shadab Kabir 1 0 9 0 -
+%%TYPE_ANNOTATIONS%%
+10	16	England_cricket_team
+22	29	Pakistan_national_cricket_team
+47	52	London
+65	71	England_cricket_team
+77	84	Pakistan_national_cricket_team
+155	161	England_cricket_team
+255	266	Alec_Stewart
+288	299	John_Crawley
+321	331	Nick_Knight
+353	366	Nasser_Hussain
+387	399	Mike_Atherton
+420	432	Graham_Thorpe
+486	498	Ian_Salisbury
+518	528	Mark_Ealham
+548	559	Dominic_Cork
+579	590	Robert_Croft
+609	619	Simon_Brown_(cricketer)
+641	653	Alan_Mullally
+672	682	Chris_Lewis_(cricketer)
+700	711	Andrew_Caddick
+728	738	Graeme_Hick
+828	835	Mike_Atherton
+852	858	Andrew_Caddick
+880	883	Dominic_Cork
+905	912	Alan_Mullally
+936	939	Graeme_Hick
+957	961	Robert_Croft
+1006	1011	Mark_Ealham
+1029	1037	Ian_Salisbury
+1084	1089	Graham_Thorpe
+1103	1110	Pakistan_national_cricket_team
+1122	1130	Moin_Khan
+1152	1161	Ijaz_Ahmed_(cricketer)
+1183	1193	Saleem_Malik
+1217	1230	Inzamam-ul-Haq
+1252	1262	Saeed_Anwar
+1284	1295	Rashid_Latif
+1346	1357	Asif_Mujtaba
+1377	1387	Wasim_Akram
+1407	1418	Shadab_Kabir
+1438	1450	Mushtaq_Ahmed
+1470	1481	Waqar_Younis
+1499	1511	Ata-ur-Rehman
+1529	1542	Mohammad_Akram
+1566	1578	Mushtaq_Ahmed
+1600	1611	Waqar_Younis
+1633	1643	Wasim_Akram
+1665	1677	Ata-ur-Rehman
+1698	1711	Mohammad_Akram
+1754	1765	Asif_Mujtaba
+1777	1787	Saleem_Malik
+1799	1810	Shadab_Kabir

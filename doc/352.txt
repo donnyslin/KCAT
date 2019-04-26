@@ -1,0 +1,53 @@
+BASEBALL - MAJOR LEAGUE RESULTS SATURDAY .
+NEW YORK 1996-08-25
+Results of Major League
+Baseball games played on Saturday ( home team in CAPS ) :
+National League
+ATLANTA 6 Chicago 5
+HOUSTON 3 St Louis 1
+LOS ANGELES 7 New York 5
+Montreal 3 SAN FRANCISCO 0
+FLORIDA 5 Cincinnati 3
+COLORADO 9 Pittsburgh 3
+SAN DIEGO 7 Philadelphia 1
+American League
+BOSTON 9 Seattle 5
+Milwaukee 4 CLEVELAND 3 ( 10 innings )
+BALTIMORE 5 California 4
+Toronto 9 CHICAGO 2
+NEW YORK 5 Oakland 4
+KANSAS CITY 9 Detroit 2
+MINNESOTA 6 Texas 5
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+43	50	New_York
+74	85	Major_League_Baseball
+145	159	National_League
+161	167	Atlanta_Braves
+171	177	Chicago_White_Sox
+181	187	Houston_Astros
+202	212	Los_Angeles_Angels_of_Anaheim
+216	223	New_York_Yankees
+227	234	Montreal_Expos
+238	250	San_Francisco_Giants
+254	260	Florida_Marlins
+264	273	Cincinnati_Reds
+277	284	Colorado_Rockies
+288	297	Pittsburgh_Pirates
+301	309	San_Diego_Padres
+313	324	Philadelphia_Phillies
+328	342	American_League
+344	349	Boston_Red_Sox
+353	359	Seattle_Mariners
+363	371	Milwaukee_Brewers
+375	383	Cleveland_Indians
+402	410	Baltimore_Orioles
+414	423	Los_Angeles_Angels_of_Anaheim
+427	433	Toronto_Blue_Jays
+437	443	Chicago_White_Sox
+447	454	New_York_Yankees
+458	464	Oakland_Athletics
+468	478	Kansas_City_Royals
+482	488	Detroit_Tigers
+492	500	Minnesota_Twins
+504	508	Texas_Rangers_(baseball)

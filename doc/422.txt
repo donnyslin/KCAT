@@ -1,0 +1,62 @@
+SOCCER - SLOVAK FIRST DIVISION RESULTS / STANDINGS .
+BRATISLAVA 1996-08-26
+Results of Slovak first
+division soccer matches at the weekend :
+Inter Bratislava 0 Slovan Bratislava 2
+Chemlon Humenne 0 Tatran Presov 1
+Artmedia Petrzalka 0 JAS Bardejov 0
+DAC Dunajska Streda 1 Spartak Trnava 3
+Dukla Banska Bystrica 3 FC Nitra 0
+MSK Zilina 0 FC Kosice 2
+Petrimex Prievidza 2 FC Rimavska Sobota 0
+Lokomotiva Kosice 2 Kerametal Dubnica 0
+Standings ( tabulate under games played , won , drawn , lost ,
+goals for , goals against , points ) :
+Tatran Presov 4 3 1 0 5 0 10
+Dukla Banska Bystrica 4 3 0 1 7 2 9
+Slovan Bratislava 4 3 0 1 7 2 9
+Petrimex Prievidza 4 3 0 1 4 2 9
+Spartak Trnava 4 2 2 0 10 5 8
+FC Kosice 4 2 2 0 6 3 8
+Artmedia Petrzalka 4 1 3 0 1 0 6
+DAC Dunajska Streda 4 2 0 2 5 6 6
+FC Rimavska Sobota 4 2 0 2 4 5 6
+JAS Bardejov 4 1 2 1 2 2 5
+Chemlon Humenne 4 1 1 2 1 2 4
+Inter Bratislava 4 1 1 2 4 6 4
+Lokomotiva Kosice 4 1 1 2 3 5 4
+Kerametal Dubnica 4 0 1 3 3 9 1
+FC Nitra 4 0 0 4 1 8 0
+MSK Zilina 4 0 0 4 0 6 0
+%%TYPE_ANNOTATIONS%%
+9	14	Slovakia
+53	62	Bratislava
+86	91	Slovakia
+140	155	FK_Inter_Bratislava
+159	175	ŠK_Slovan_Bratislava
+179	193	1._HFC_Humenné
+197	209	1._FC_Tatran_Prešov
+213	230	MFK_Petržalka
+249	267	FK_DAC_1904_Dunajská_Streda
+271	284	FC_Spartak_Trnava
+288	308	FK_Dukla_Banská_Bystrica
+312	319	FC_Nitra
+323	332	MŠK_Žilina
+336	344	MFK_Košice
+369	386	MŠK_Rimavská_Sobota
+390	406	FC_Lokomotíva_Košice
+410	426	MFK_Dubnica
+532	544	1._FC_Tatran_Prešov
+561	581	FK_Dukla_Banská_Bystrica
+597	613	ŠK_Slovan_Bratislava
+662	675	FC_Spartak_Trnava
+692	700	MFK_Košice
+716	733	MFK_Petržalka
+749	767	FK_DAC_1904_Dunajská_Streda
+783	800	MŠK_Rimavská_Sobota
+843	857	1._HFC_Humenné
+873	888	FK_Inter_Bratislava
+904	920	FC_Lokomotíva_Košice
+936	952	MFK_Dubnica
+968	975	FC_Nitra
+991	1000	MŠK_Žilina

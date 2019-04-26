@@ -1,0 +1,157 @@
+SOCCER - ENGLISH LEAGUE RESULTS .
+LONDON 1996-08-24
+Results of English league soccer
+matches on Saturday :
+Premier league
+Aston Villa 2 Derby 0
+Chelsea 2 Coventry 0
+Leicester 0 Arsenal 2
+Liverpool 0 Sunderland 0
+Newcastle 1 Sheffield Wednesday 2
+Nottingham Forest 1 Middlesbrough 1
+Tottenham 0 Everton 0
+West Ham 2 Southampton 1
+Playing Sunday :
+Manchester United v Blackburn
+Playing Monday :
+Leeds v Wimbledon
+Division one
+Bolton 3 Norwich 1
+Charlton 1 West Bromwich 1
+Crystal Palace 3 Oldham 1
+Ipswich 5 Reading 2
+Oxford 5 Southend 0
+Sheffield United 4 Birmingham 4
+Stoke 2 Manchester City 1
+Swindon 1 Port Vale 1
+Wolverhampton 1 Bradford 0
+Played Friday :
+Portsmouth 1 Queen 's Park Rangers 2
+Tranmere 3 Grimsby 2
+Playing Sunday :
+Barnsley v Huddersfield
+Division two
+Brentford 3 Luton 2
+Bristol City v Blackpool late kickoff
+Burnley 2 Walsall 1
+Chesterfield 1 Bury 2
+Peterborough 2 Crewe 2
+Preston 0 Bristol Rovers 0
+Rotherham 1 Shrewsbury 2
+Stockport 0 Notts County 0
+Watford 0 Millwall 2
+Wrexham 4 Plymouth 4
+Wycombe 1 Gillingham 1
+York 1 Bournemouth 2
+Division three
+Barnet 1 Wigan 1
+Cardiff 1 Brighton 0
+Carlisle 0 Hull 0
+Chester 1 Cambridge 1
+Darlington 4 Swansea 1
+Exeter 2 Scarborough 2
+Hartlepool 2 Fulham 1
+Hereford 1 Doncaster 0
+Lincoln 1 Leyton Orient 1
+Northampton 3 Mansfield 0
+Rochdale 0 Colchester 0
+Scunthorpe 1 Torquay 0
+Add Division two
+Bristol City 0 Blackpool 1
+%%TYPE_ANNOTATIONS%%
+9	15	England
+34	39	London
+63	69	England
+122	132	Aston_Villa_F.C.
+136	140	Derby_County_F.C.
+144	150	Chelsea_F.C.
+154	161	Coventry_City_F.C.
+165	173	Leicester_City_F.C.
+177	183	Arsenal_F.C.
+187	195	Liverpool_F.C.
+199	208	Sunderland_A.F.C.
+212	220	Newcastle_United_F.C.
+224	242	Sheffield_Wednesday_F.C.
+246	262	Nottingham_Forest_F.C.
+266	278	Middlesbrough_F.C.
+282	290	Tottenham_Hotspur_F.C.
+294	300	Everton_F.C.
+304	311	West_Ham_United_F.C.
+315	325	Southampton_F.C.
+346	362	Manchester_United_F.C.
+366	374	Blackburn_Rovers_F.C.
+393	397	Leeds_United_A.F.C.
+401	409	Wimbledon_F.C.
+424	429	Bolton_Wanderers_F.C.
+433	439	Norwich_City_F.C.
+443	450	Charlton_Athletic_F.C.
+454	466	West_Bromwich_Albion_F.C.
+470	483	Crystal_Palace_F.C.
+487	492	Oldham_Athletic_A.F.C.
+496	502	Ipswich_Town_F.C.
+506	512	Reading_F.C.
+516	521	Oxford_United_F.C.
+525	532	Southend_United_F.C.
+536	551	Sheffield_United_F.C.
+555	564	Birmingham_City_F.C.
+568	572	Stoke_City_F.C.
+576	590	Manchester_City_F.C.
+594	600	Swindon_Town_F.C.
+604	612	Port_Vale_F.C.
+616	628	Wolverhampton_Wanderers_F.C.
+632	639	Bradford_City_A.F.C.
+659	668	Portsmouth_F.C.
+696	703	Tranmere_Rovers_F.C.
+707	713	Grimsby_Town_F.C.
+734	741	Barnsley_F.C.
+745	756	Huddersfield_Town_F.C.
+771	779	Brentford_F.C.
+783	787	Luton_Town_F.C.
+791	802	Bristol_City_F.C.
+806	814	Blackpool_F.C.
+829	835	Burnley_F.C.
+839	845	Walsall_F.C.
+849	860	Chesterfield_F.C.
+864	867	Bury_F.C.
+871	882	Peterborough_United_F.C.
+886	890	Crewe_Alexandra_F.C.
+894	900	Preston_North_End_F.C.
+904	917	Bristol_Rovers_F.C.
+921	929	Rotherham_United_F.C.
+933	942	Shrewsbury_Town_F.C.
+946	954	Stockport_County_F.C.
+958	969	Notts_County_F.C.
+973	979	Watford_F.C.
+983	990	Millwall_F.C.
+994	1000	Wrexham_F.C.
+1004	1011	Plymouth_Argyle_F.C.
+1015	1021	Wycombe_Wanderers_F.C.
+1025	1034	Gillingham_F.C.
+1038	1041	York_City_F.C.
+1045	1055	A.F.C._Bournemouth
+1074	1079	Barnet_F.C.
+1083	1087	Wigan_Athletic_F.C.
+1091	1097	Cardiff_City_F.C.
+1101	1108	Brighton_&_Hove_Albion_F.C.
+1112	1119	Carlisle_United_F.C.
+1123	1126	Hull_City_A.F.C.
+1130	1136	Chester_City_F.C.
+1140	1148	Cambridge_United_F.C.
+1152	1161	Darlington_F.C.
+1165	1171	Swansea_City_A.F.C.
+1175	1180	Exeter_City_F.C.
+1184	1194	Scarborough_F.C.
+1198	1207	Hartlepool_United_F.C.
+1211	1216	Fulham_F.C.
+1220	1227	Hereford_United_F.C.
+1231	1239	Doncaster_Rovers_F.C.
+1243	1249	Lincoln_City_F.C.
+1253	1265	Leyton_Orient_F.C.
+1269	1279	Northampton_Town_F.C.
+1283	1291	Mansfield_Town_F.C.
+1295	1302	Rochdale_A.F.C.
+1306	1315	Colchester_United_F.C.
+1319	1328	Scunthorpe_United_F.C.
+1332	1338	Torquay_United_F.C.
+1359	1370	Bristol_City_F.C.
+1374	1382	Blackpool_F.C.

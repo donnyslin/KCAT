@@ -1,0 +1,39 @@
+SOCCER - GERMAN FIRST DIVISION SUMMARIES .
+BONN 1996-08-27
+Summaries of Bundesliga matches
+played on Tuesday :
+Borussia Dortmund 3 ( Riedle 8th minute , Heinrich 29th ,
+Tretschok 77th ) Freiburg 1 ( Decheiver 51st penalty ) .
+Halftime
+2-0 .
+Attendance 48,800 .
+Hamburg 0 VfB Stuttgart 4 ( Balakov 29th , Bobic 47th and 60th ,
+Hagner 85th ) .
+0-1 .
+31,139 .
+Werder Bremen 1 ( Schulz 31st ) Borussia Moenchengladbach 0 .
+1-0 .
+24,800 .
+Schalke 1 ( Thon 2nd ) Bochum 1 ( Donkow 86th ) .
+1-0 .
+33,230 .
+%%TYPE_ANNOTATIONS%%
+9	14	Germany
+43	46	Bonn
+72	81	Fußball-Bundesliga
+111	127	Borussia_Dortmund
+133	138	Karl-Heinz_Riedle
+153	160	Jörg_Heinrich
+169	177	René_Tretschok
+186	193	SC_Freiburg
+199	207	Harry_Decheiver
+261	267	Hamburger_SV
+271	283	VfB_Stuttgart
+289	295	Krassimir_Balakov
+304	308	Fredi_Bobic
+326	331	Matthias_Hagner
+357	369	SV_Werder_Bremen
+389	413	Borussia_Mönchengladbach
+434	440	FC_Schalke_04
+446	449	Olaf_Thon
+457	462	VfL_Bochum

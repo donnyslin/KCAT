@@ -1,0 +1,45 @@
+EU Commission cool on changing beef cull plan .
+BRUSSELS 1996-08-29
+The European Commission said on Thursday it would study scientific reports saying Britain 's mad cow epidemic would die out by 2001 but offered little prospect the findings would change an agreed slaughter campaign .
+" Obviously we are interested in this research .
+We will ask the ( EU ) scientific and veterinary committee to examine it , " Commission spokesman Gerard Kiely told Reuters .
+But he added that new research into the dynamics of the bovine spongiform encephalopathy ( BSE ) , a fatal brain-wasting disease suffered by cattle , was unlikely to alter a slaughter plan agreed by Britain and its 14 EU partners .
+" We agreed that following detailed scientific analysis using a methodology which would take out the maximum number of BSE cases possible .
+I think it would be very difficult to sell to the European Commission a programme which would involve the elimination of fewer BSE cases , " Kiely said .
+" We will look at our approach ( to the plan ) but we wo n't get involved with the number of animals to be slaughtered , " he said .
+" We have always avoided the question of numbers of animals to be slaughtered , that 's not the issue .
+The issue is the protection of consumers ' health and the rapid eradication of BSE , " he added .
+The reaction is likely to disappoint British farmers , who seized on research by Oxford scientists in the scientific journal Nature saying it would be hard to get rid of the disease any faster than 2001 without killing vast numbers of cattle .
+The researchers predicted there would be 340 new infections and 14,000 new cases of BSE before 2001 .
+British farmers ' leader called on Wednesday for an urgent meeting with ministers to discuss the report .
+" I hope the government will now make it clear they believe there is a better way of dealing with this issue , " National Farmers Union president Sir David Naish told BBC radio .
+Naish said there was no need for Britain to carry out a planned cull of some 147,000 cattle to which it had reluctantly agreed to placate its European partners .
+" The new evidence to me means some of that proposal should be re-examined because we could get away with considerably less animals being culled if in fact scientists throughout Europe accepted this evidence , " Naish said .
+The report could well reopen a damaging row between Britain and the EU , which slapped a worldwide ban on British beef after the government said there could be a link between BSE and the human form of the disease .
+The issue flared in in March when government scientists admitted that people could become infected with Creutzfeldt-Jakob Disease ( CJD ) from eating BSE-infected beef .
+%%TYPE_ANNOTATIONS%%
+0	12	European_Commission
+48	55	Brussels
+72	90	European_Commission
+150	156	United_Kingdom
+411	420	European_Commission
+450	456	Reuters
+551	553	Bovine_spongiform_encephalopathy
+659	665	United_Kingdom
+811	813	Bovine_spongiform_encephalopathy
+882	900	European_Commission
+959	961	Bovine_spongiform_encephalopathy
+1302	1304	Bovine_spongiform_encephalopathy
+1358	1364	United_Kingdom
+1402	1407	University_of_Oxford
+1446	1451	Nature_(journal)
+1649	1651	Bovine_spongiform_encephalopathy
+1667	1673	United_Kingdom
+1985	1991	United_Kingdom
+2094	2101	European_Union
+2292	2297	Europe
+2391	2397	United_Kingdom
+2445	2451	United_Kingdom
+2514	2516	Bovine_spongiform_encephalopathy
+2658	2682	Creutzfeldt–Jakob_disease
+2686	2688	Creutzfeldt–Jakob_disease

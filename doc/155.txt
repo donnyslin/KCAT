@@ -1,0 +1,14 @@
+SOCCER - GERMAN FIRST DIVISION RESULTS .
+BONN 1996-08-23
+Results of German first division
+soccer matches on Friday :
+St Pauli 4 Schalke 4
+Hansa Rostock 0 Hamburg 1
+%%TYPE_ANNOTATIONS%%
+9	14	Germany
+41	44	Bonn
+68	73	Germany
+117	124	FC_St._Pauli
+128	134	FC_Schalke_04
+138	150	F.C._Hansa_Rostock
+154	160	Hamburger_SV

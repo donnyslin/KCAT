@@ -1,0 +1,10 @@
+SOCCER - SCOTTISH THIRD DIVISION RESULT .
+GLASGOW 1996-08-23
+Result of a Scottish third
+division soccer match on Friday :
+East Stirling 0 Albion 1
+%%TYPE_ANNOTATIONS%%
+9	16	Scotland
+42	48	Glasgow
+73	80	Scotland
+122	134	East_Stirlingshire_F.C.

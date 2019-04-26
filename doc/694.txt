@@ -1,0 +1,19 @@
+U.S. Treasury balances at Fed rose on Aug 27 .
+WASHINGTON 1996-08-28
+U.S. Treasury balances at Federal Reserve based on Treasury Department 's latest budget statement .
+( BILLIONS OF DLRS )
+Aug 27 Aug 26
+Fed acct 5.208 4.425
+Tax / loan note acct 14.828 15.687
+Cash balance 20.036 20.112
+---
+Total public debt ,
+subject to limit 5,124.053 5,122.084
+%%TYPE_ANNOTATIONS%%
+0	12	United_States_Department_of_the_Treasury
+26	28	Federal_Reserve_System
+47	56	Washington,_D.C.
+69	81	United_States_Department_of_the_Treasury
+95	109	Federal_Reserve_System
+120	138	United_States_Department_of_the_Treasury
+204	206	Federal_Reserve_System

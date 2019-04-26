@@ -1,0 +1,90 @@
+GOLF - BRITISH MASTERS FIRST ROUND SCORES .
+NORTHAMPTON , England 1996-08-28
+Leading completed
+first-round scores in the rain-affected British Masters golf
+championship at Collingtree Park on Wednesday ( Britain unless
+stated ) :
+66 Gavin Levenson ( South Africa )
+68 Colin Montgomerie
+69 Jose Coceres ( Argentina ) , Raymond Russell , Robert Allenby
+( Australia ) , David Gilford , Stuart Cage , Mike Clayton
+( Australia ) , Mark Roe , Emanuele Canonica ( Italy )
+70 Francisco Cea ( Spain ) , David Howell , Peter Hedblom
+( Sweden )
+71 Steven Bottomley , Ove Sellberg ( Sweden ) , Joakim Haeggman
+( Sweden ) , Stephen Ames ( Trinidad and Tobago ) , Klas Eriksson
+( Sweden ) , Roger Chapman , Mark Davis , Pierre Fulke ( Sweden ) ,
+Martin Gates , Anders Haglund ( Sweden )
+72 Niclas Fasth ( Sweden ) , Michael Jonzon ( Sweden ) , Chistian Cevaer ( France ) , Thomas Bjorn ( Denmark ) , Tony Johnstone
+( Zimbabwe ) , Padraig Harrington ( Ireland ) , Pedro Linhart
+( Spain ) , David Carter
+73 Ross McFarlane , Domingo Hospital ( Spain ) , Seve Ballesteros
+( Spain ) , Paul Broadhurst , Greg Turner ( New Zealand ) , Mike Harwood ( Australia ) , Brenden Pappas ( South Africa ) , Peter Teravainen ( U.S. ) , Jean Van de Velde ( France ) , Oyvind Rojahn
+( Norway ) , Stephen McAllister , Neal Briggs
+Note : 77 players to complete their first rounds on Thursday
+%%TYPE_ANNOTATIONS%%
+7	21	British_Masters
+44	54	Northampton
+58	64	England
+135	149	British_Masters
+172	187	Collingtree_Park
+204	210	United_Kingdom
+250	261	South_Africa
+268	284	Colin_Montgomerie
+289	300	José_Cóceres
+304	312	Argentina
+318	332	Raymond_Russell
+336	349	Robert_Allenby
+353	361	Australia
+367	379	David_Gilford
+383	393	Stuart_Cage
+412	420	Australia
+426	433	Mark_Roe
+437	453	Emanuele_Canonica
+457	461	Italy
+484	488	Spain
+494	505	David_Howell_(golfer)
+509	521	Peter_Hedblom
+525	530	Sweden
+556	567	Ove_Sellberg
+571	576	Sweden
+582	596	Joakim_Haeggman
+600	605	Sweden
+611	622	Stephen_Ames
+650	662	Klas_Eriksson
+666	671	Sweden
+677	689	Roger_Chapman_(golfer)
+693	702	Mark_Davis_(golfer)
+706	717	Pierre_Fulke
+721	726	Sweden
+764	769	Sweden
+776	787	Niclas_Fasth
+791	796	Sweden
+802	815	Michael_Jonzon
+819	824	Sweden
+848	853	France
+859	870	Thomas_Bjørn
+874	880	Denmark
+886	899	Tony_Johnstone
+903	910	Zimbabwe
+916	933	Pádraig_Harrington
+937	943	Republic_of_Ireland
+949	961	Pedro_Linhart
+965	969	Spain
+975	986	David_Carter_(golfer)
+991	1004	Ross_McFarlane
+1027	1031	Spain
+1037	1052	Severiano_Ballesteros
+1056	1060	Spain
+1066	1080	Paul_Broadhurst
+1084	1094	Greg_Turner
+1098	1108	New_Zealand
+1114	1125	Mike_Harwood
+1129	1137	Australia
+1143	1156	Brenden_Pappas
+1160	1171	South_Africa
+1196	1199	United_States
+1205	1221	Jean_Van_de_Velde
+1225	1230	France
+1252	1257	Norway
+1263	1280	Stephen_McAllister

@@ -1,0 +1,154 @@
+TENNIS - THURSDAY 'S RESULTS FROM THE U.S. OPEN .
+NEW YORK 1996-08-29
+Results of second round matches on Thursday in the U.S. Open Tennis Championships at the National Tennis Centre ( prefix number denotes seeding ) :
+Women 's singles
+Anna Kournikova ( Russia ) beat Natalia Baudone ( Italy ) 6-3 6-3
+Rita Grande ( Italy ) beat Tina Krizan ( Slovenia ) 6-2 6-0
+Els Callens ( Belgium ) beat Annabel Ellwood ( Australia ) 6-4
+1-6 6-1
+Elena Likhovtseva ( Russia ) beat Lila Osterloh ( U.S. ) 6-4 6-2
+Sandra Dopfer ( Austria ) beat Nanne Dahlman ( Finland ) 2-6 6-2
+6- 3
+Men 's singles
+13 - Thomas Enqvist ( Sweden ) beat Guillaume Raoux ( France ) 6-3
+6- 2 6-3
+Sergi Bruguera ( Spain ) beat Michael Stich ( Germany ) 6-3 6-2
+6-4
+Jakob Hlasek ( Switzerland ) beat Alberto Berasategui ( Spain ) 7-6 ( 7-5 ) 7-6 ( 9-7 ) 6-0
+Women 's singles , second round
+1 - Steffi Graf ( Germany ) beat Karin Kschwendt ( Austria ) 6-2 6-1
+Naoko Kijimuta ( Japan ) beat Alexandra Fusai ( France ) 6-4 7-5
+Natasha Zvereva ( Belarus ) beat Ai Sugiyama ( Japan ) 4-6 6-4 6-3
+14 - Barbara Paulus ( Austria ) beat Elena Wagner ( Germany ) 7-5 7-6 ( 7-5 )
+Petra Langrova ( Czech Republic ) beat Naoko Sawamatsu ( Japan ) 6- 4 3-6 7-5
+17 - Karina Habsudova ( Slovakia ) beat Nathalie Dechy ( France ) 6-4 6-2
+Women 's singles , second round
+7 - Jana Novotna ( Czech Republic ) beat Florencia Labat ( Argentina ) 6-2 4-6 6-2
+Men 's singles , second round
+3 - Thomas Muster ( Austria ) beat Dirk Dier ( Germany ) 6-3 6-2 6-4
+Pablo Campana ( Ecuador ) beat Mark Knowles ( Bahamas ) 7-6 ( 7-3 ) 3 - 6 6-3 6-7 ( 3-7 ) 6-3
+Jason Stoltenberg ( Australia ) beat Kenneth Carlsen ( Denmark ) 6- 3 7-6 ( 7-1 ) 6-3
+Arnaud Boetsch ( France ) beat Magnus Gustafsson ( Sweden ) 7-6 ( 8- 6 ) 6-3 6-1
+Add Women 's singles , second round
+16 - Martina Hingis ( Switzerland ) beat Miriam Oremans ( Netherlands ) 6-4 6-4
+Tami Whitlinger Jones ( U.S. ) beat Amy Frazier ( U.S. ) 7-6 ( 7-3 ) 6-2
+Judith Wiesner ( Austria ) beat Debbie Graham ( U.S. ) 6-2 7-5
+Add Men 's singles , second round
+6 - Andre Agassi ( U.S. ) beat Leander Paes ( India ) 3-6 6-4 6-1 6-0
+Javier Sanchez ( Spain ) beat Jim Grabb ( U.S. ) 6-2 7-6 ( 7-3 ) 2-6 6-3
+Hernan Gumy ( Argentina ) beat Jared Palmer ( U.S. ) 6-7 ( 5-7 ) 6-3 7-6 ( 7-4 ) 0-6 7-6 ( 7-1 )
+:
+Women 's singles , second round
+3 - Arantxa Sanchez Vicario ( Spain ) beat Nicole Arendt ( U.S. )
+6-2 6-2
+Men 's singles , second round
+David Wheaton ( U.S. ) beat Frederic Vitoux ( France ) 6-4 6-4
+4-6 7-6 ( 7-4 )
+Jan Siemerink ( Netherlands ) beat Carlos Moya ( Spain ) 7-6
+( 7-2 ) 6-4 6-4
+%%TYPE_ANNOTATIONS%%
+38	46	US_Open_(tennis)
+50	57	New_York_City
+121	150	US_Open_(tennis)
+235	249	Anna_Kournikova
+253	258	Russia
+285	289	Italy
+315	319	Italy
+328	338	Tina_Križan
+342	349	Slovenia
+361	371	Els_Callens
+375	381	Belgium
+408	416	Australia
+432	448	Elena_Likhovtseva
+452	457	Russia
+482	485	United_States
+513	519	Austria
+544	550	Finland
+587	600	Thomas_Enqvist
+604	609	Sweden
+618	632	Guillaume_Raoux
+636	641	France
+658	671	Sergi_Bruguera
+675	679	Spain
+688	700	Michael_Stich
+704	710	Germany
+726	737	Jakob_Hlasek
+741	751	Switzerland
+760	778	Alberto_Berasategui
+782	786	Spain
+854	864	Steffi_Graf
+868	874	Germany
+883	897	Karin_Kschwendt
+901	907	Austria
+936	940	Japan
+949	963	Alexandra_Fusai
+967	972	France
+984	998	Natasha_Zvereva
+1002	1008	Belarus
+1017	1027	Ai_Sugiyama
+1031	1035	Japan
+1056	1069	Barbara_Paulus
+1073	1079	Austria
+1088	1099	Elena_Pampoulova
+1103	1109	Germany
+1129	1142	Petra_Langrová
+1146	1159	Czech_Republic
+1168	1182	Naoko_Sawamatsu
+1186	1190	Japan
+1212	1227	Karina_Habšudová
+1231	1238	Slovakia
+1247	1260	Nathalie_Dechy
+1264	1269	France
+1317	1328	Jana_Novotná
+1332	1345	Czech_Republic
+1354	1368	Florencia_Labat
+1372	1380	Argentina
+1430	1442	Thomas_Muster
+1446	1452	Austria
+1473	1479	Germany
+1511	1517	Ecuador
+1526	1537	Mark_Knowles
+1541	1547	The_Bahamas
+1589	1605	Jason_Stoltenberg
+1609	1617	Australia
+1626	1640	Kenneth_Carlsen
+1644	1650	Denmark
+1675	1688	Arnaud_Boetsch
+1692	1697	France
+1706	1722	Magnus_Gustafsson
+1726	1731	Sweden
+1797	1810	Martina_Hingis
+1814	1824	Switzerland
+1833	1846	Miriam_Oremans
+1850	1860	Netherlands
+1872	1892	Tami_Whitlinger
+1896	1899	United_States
+1908	1918	Amy_Frazier
+1922	1925	United_States
+1945	1958	Judith_Wiesner
+1962	1968	Austria
+1977	1989	Debbie_Graham
+1993	1996	United_States
+2046	2057	Andre_Agassi
+2061	2064	United_States
+2073	2084	Leander_Paes
+2088	2092	India
+2112	2125	Javier_Sánchez
+2129	2133	Spain
+2142	2150	Jim_Grabb
+2154	2157	United_States
+2185	2195	Hernán_Gumy
+2199	2207	Argentina
+2216	2227	Jared_Palmer
+2231	2234	United_States
+2320	2342	Arantxa_Sánchez_Vicario
+2346	2350	Spain
+2359	2371	Nicole_Arendt
+2375	2378	United_States
+2420	2432	David_Wheaton
+2436	2439	United_States
+2466	2471	France
+2499	2511	Jan_Siemerink
+2515	2525	Netherlands
+2534	2544	Carlos_Moyá
+2548	2552	Spain

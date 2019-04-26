@@ -1,0 +1,40 @@
+Kurds clash again in Iraq , dozens reported dead .
+ANKARA 1996-08-26
+Heavy fighting broke out between two rival Kurdish factions in northern Iraq at midnight Sunday and at least 29 people were killed , one of the groups said on Monday .
+The Kurdistan Democratic Party ( KDP ) said the Patriotic Union of Kurdistan ( PUK ) had broken the U.S.-brokered ceasefire agreed between the two parties last week .
+The factions reached a ceasefire on Friday after a week of fierce fighting which had put an end to a truce agreed a year earlier .
+" The PUK leadership who pledged to end fighting and cooperate with the latest U.S. initiative started a major military offensive against KDP positions , " the KDP said in a statement .
+It said heavy fighting started at midnight in the region dividing the two warring factions , with the PUK aiming to break through to KDP 's headquarters in Salahuddin .
+The KDP said 29 PUK fighters were killed in the attack .
+It did not provide details of KDP casualties and a PUK spokesman was not immediately available for comment .
+The statement said the PUK resumed its attack on Monday morning on KDP positions near Rawandouz and indiscriminately shelled the town of Dayana , killing a priest and injuring some civilians .
+The fighting has threatened a U.S.-led peace plan to unite the mountainous Kurdish region in northern Iraq against President Saddam Hussein .
+A U.S.-led air force has protected Iraqi Kurds against attack from Baghdad since shortly after the Gulf War in 1991 .
+%%TYPE_ANNOTATIONS%%
+0	4	Kurdish_people
+21	24	Iraq
+51	56	Ankara
+112	118	Kurdish_people
+141	144	Iraq
+241	266	Kurdistan_Democratic_Party
+270	272	Kurdistan_Democratic_Party
+285	312	Patriotic_Union_of_Kurdistan
+316	318	Patriotic_Union_of_Kurdistan
+541	543	Patriotic_Union_of_Kurdistan
+614	617	United_States
+673	675	Kurdistan_Democratic_Party
+695	697	Kurdistan_Democratic_Party
+823	825	Patriotic_Union_of_Kurdistan
+854	856	Kurdistan_Democratic_Party
+894	896	Kurdistan_Democratic_Party
+906	908	Patriotic_Union_of_Kurdistan
+977	979	Kurdistan_Democratic_Party
+998	1000	Patriotic_Union_of_Kurdistan
+1079	1081	Patriotic_Union_of_Kurdistan
+1123	1125	Kurdistan_Democratic_Party
+1142	1150	Rowanduz
+1324	1330	Kurdish_people
+1351	1354	Iraq
+1374	1387	Saddam_Hussein
+1458	1464	Baghdad
+1490	1497	Gulf_War

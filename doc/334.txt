@@ -1,0 +1,22 @@
+CRICKET - ENGLAND NAME SQUAD FOR ONE-DAY INTERNATIONALS .
+LONDON 1996-08-25
+The England cricket squad was announced on Sunday for the one-day international series against Pakistan starting on Thursday .
+Squad : Michael Atherton ( captain ) , Alec Stewart , Graham Thorpe , Nick Knight , Graham Lloyd , Matthew Maynard , Ronnie Irani , Adam Hollioake , Robert Croft , Darren Gough , Peter Martin , Dean Headley , Alan Mullally .
+%%TYPE_ANNOTATIONS%%
+10	16	England_cricket_team
+58	63	London
+80	86	England
+171	178	Pakistan_national_cricket_team
+211	226	Mike_Atherton
+242	253	Alec_Stewart
+257	269	Graham_Thorpe
+273	283	Nick_Knight
+287	298	Graham_Lloyd
+302	316	Matthew_Maynard
+320	331	Ronnie_Irani
+335	348	Adam_Hollioake
+352	363	Robert_Croft
+367	378	Darren_Gough
+382	393	Peter_Martin_(cricketer)
+397	408	Dean_Headley
+412	424	Alan_Mullally

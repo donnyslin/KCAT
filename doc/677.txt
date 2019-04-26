@@ -1,0 +1,37 @@
+SOCCER - LEADING FRENCH LEAGUE SCORERS .
+PARIS 1996-08-28
+Leading scorers in the French
+first division after Wednesday 's matches :
+3 - Anton Drobnjak ( Bastia ) , Vladimir Smicer ( Lens ) , Miladin Becanovic ( Lille ) , Alain Caveglia ( Lyon ) , Xavier Gravelaine
+( Marseille ) , Robert Pires ( Metz ) , Thierry Henry ( Monaco )
+2 - Christopher Wreh ( Guingamp ) , Marc-Vivien Foe ( Lens ) , Enzo Scifo ( Monaco ) , James Debbah ( Nice ) , Patrice Loko ( PSG ) ,
+Stephane Guivarch ( Rennes )
+%%TYPE_ANNOTATIONS%%
+17	22	France
+41	45	Paris
+81	86	France
+153	158	SC_Bastia
+164	178	Vladimír_Šmicer
+182	185	RC_Lens
+191	207	Miladin_Bečanović
+211	215	Lille_OSC
+221	234	Alain_Caveglia
+238	241	Olympique_Lyonnais
+247	263	Xavier_Gravelaine
+267	275	Olympique_de_Marseille
+281	292	Robert_Pirès
+296	299	FC_Metz
+305	317	Thierry_Henry
+321	326	AS_Monaco_FC
+334	349	Christopher_Wreh
+353	360	En_Avant_de_Guingamp
+366	380	Marc-Vivien_Foé
+384	387	RC_Lens
+393	402	Enzo_Scifo
+406	411	AS_Monaco_FC
+417	428	James_Debbah
+432	435	OGC_Nice
+441	452	Patrice_Loko
+456	458	Paris_Saint-Germain_F.C.
+464	480	Stéphane_Guivarc'h
+484	489	Stade_Rennais_F.C.

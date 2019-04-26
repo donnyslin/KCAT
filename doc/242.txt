@@ -1,0 +1,93 @@
+MOTOR RACING - BELGIAN GRAND PRIX GRID POSITIONS .
+SPA-FRANCORCHAMPS , Belgium 1996-08-24
+Grid positions
+for Sunday 's Belgian Grand Prix motor race after final
+qualifying on Saturday :
+1. Jacques Villeneuve ( Canada ) Williams 1 minute 50.574
+seconds ( average speed 226.859 kph )
+2. Damon Hill ( Britain ) Williams 1:50.980
+3. Michael Schumacher ( Germany ) Ferrari 1:51.778
+4. David Coulthard ( Britain ) McLaren 1:51.884
+5. Gerhard Berger ( Austria ) Benetton 1:51.960
+6. Mika Hakkinen ( Finland ) McLaren 1:52.318
+7. Jean Alesi ( France ) Benetton 1:52.354
+8. Martin Brundle ( Britain ) Jordan 1:52.977
+9. Eddie Irvine ( Britain ) Ferrari 1:53.043
+10. Rubens Barrichello ( Brazil ) Jordan 1:53.152
+Add grid :
+11. Heinz-Harald Frentzen ( Germany ) Sauber 1:53.199
+12. Johnny Herbert ( Britain ) Sauber 1:53.993
+13. Mika Salo ( Finland ) Tyrrell 1:54.095
+14. Olivier Panis ( France ) Ligier 1:54.220
+15. Pedro Diniz ( Brazil ) Ligier 1:54.700
+16. Jos Verstappen ( Netherlands ) Arrows 1:55.150
+17. Ukyo Katayama ( Japan ) Tyrrell 1:55.371
+18. Ricardo Rosset ( Brazil ) Arrows 1:56.286
+19. Pedro Lamy ( Portugal ) Minardi 1:56.830
+Did not qualify ( times did not meet qualifying standard ) :
+20. Giovanni Lavaggi ( Italy ) Minardi 1:58.579
+%%TYPE_ANNOTATIONS%%
+15	32	1996_Belgian_Grand_Prix
+51	67	Circuit_de_Spa-Francorchamps
+71	77	Belgium
+119	136	1996_Belgian_Grand_Prix
+189	206	Jacques_Villeneuve
+210	215	Canada
+219	226	WilliamsF1
+285	294	Damon_Hill
+298	304	United_Kingdom
+308	315	WilliamsF1
+329	346	Michael_Schumacher
+350	356	Germany
+360	366	Scuderia_Ferrari
+380	394	David_Coulthard
+398	404	United_Kingdom
+408	414	McLaren
+428	441	Gerhard_Berger
+445	451	Austria
+455	462	Benetton_Formula
+476	488	Mika_Häkkinen
+492	498	Finland
+502	508	McLaren
+522	531	Jean_Alesi
+535	540	France
+544	551	Benetton_Formula
+565	578	Martin_Brundle
+582	588	United_Kingdom
+592	597	Jordan_Grand_Prix
+611	622	Eddie_Irvine
+626	632	United_Kingdom
+636	642	Scuderia_Ferrari
+657	674	Rubens_Barrichello
+678	683	Brazil
+687	692	Jordan_Grand_Prix
+718	738	Heinz-Harald_Frentzen
+742	748	Germany
+752	757	Sauber
+772	785	Johnny_Herbert
+789	795	United_Kingdom
+799	804	Sauber
+819	827	Mika_Salo
+831	837	Finland
+841	847	Tyrrell_Racing
+862	874	Olivier_Panis
+878	883	France
+887	892	Equipe_Ligier
+907	917	Pedro_Diniz
+921	926	Brazil
+930	935	Equipe_Ligier
+950	963	Jos_Verstappen
+967	977	Netherlands
+981	986	Arrows
+1001	1013	Ukyo_Katayama
+1017	1021	Japan
+1025	1031	Tyrrell_Racing
+1046	1059	Ricardo_Rosset
+1063	1068	Brazil
+1072	1077	Arrows
+1092	1101	Pedro_Lamy
+1105	1112	Portugal
+1116	1122	Minardi
+1198	1213	Giovanni_Lavaggi
+1217	1221	Italy
+1225	1231	Minardi

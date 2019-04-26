@@ -1,0 +1,93 @@
+TENNIS - RESULTS AT CANADIAN OPEN .
+TORONTO 1996-08-21
+Results from the Canadian Open
+tennis tournament on Wednesday ( prefix number denotes
+seeding ) :
+Second round
+Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5
+Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia )
+6-7 ( 3-7 ) 6-4 6-4
+3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech Republic ) 7-5 6-3
+4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2
+6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4
+6-2
+7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3
+Mark Philippoussis ( Australia ) beat 8 - Marc Rosset
+( Switzerland ) 6-3 3-6 7-6 ( 8-6 )
+9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6
+( 7-1 ) 6-4
+Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui
+( Spain ) 6-1 6-2
+Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain )
+6-3 6-4
+Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg
+( Australia ) 5-7 7-6 ( 7-1 ) 7-6 ( 13-11 )
+Todd Woodbridge ( Australia beat Sebastien Lareau ( Canada ) 6-3
+1-6 6-3
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( Italy )
+6-3 4-6 6-1
+Tim Henman ( Britain ) beat Chris Woodruff ( U.S. ) , walkover
+%%TYPE_ANNOTATIONS%%
+20	32	Rogers_Cup_(tennis)
+36	42	Toronto
+72	84	Rogers_Cup_(tennis)
+166	178	Daniel_Nestor
+182	187	Canada
+200	212	Thomas_Muster
+216	222	Austria
+234	249	Mikael_Tillström
+253	258	Sweden
+271	286	Goran_Ivanišević
+290	296	Croatia
+324	337	Wayne_Ferreira
+341	352	South_Africa
+361	370	Jiří_Novák
+374	387	Czech_Republic
+403	414	Marcelo_Ríos
+418	422	Chile
+431	445	Kenneth_Carlsen
+449	455	Denmark
+471	488	MaliVai_Washington
+492	495	United_States
+504	516	Àlex_Corretja
+520	524	Spain
+540	550	Todd_Martin
+554	557	United_States
+566	577	Renzo_Furlan
+581	585	Italy
+605	622	Mark_Philippoussis
+626	634	Australia
+647	657	Marc_Rosset
+661	671	Switzerland
+699	712	Cédric_Pioline
+716	721	France
+730	743	Grégory_Carraz
+747	752	France
+772	785	Patrick_Rafter
+789	797	Australia
+811	829	Alberto_Berasategui
+833	837	Spain
+849	858	Petr_Korda
+862	875	Czech_Republic
+889	904	Francisco_Clavet
+908	912	Spain
+924	935	Daniel_Vacek
+939	952	Czech_Republic
+966	982	Jason_Stoltenberg
+986	994	Australia
+1028	1042	Todd_Woodbridge
+1046	1054	Australia
+1061	1076	Sébastien_Lareau
+1080	1085	Canada
+1116	1119	United_States
+1128	1138	Byron_Black
+1142	1149	Zimbabwe
+1169	1183	Bohdan_Ulihrach
+1187	1200	Czech_Republic
+1209	1223	Andrea_Gaudenzi
+1227	1231	Italy
+1247	1256	Tim_Henman
+1260	1266	United_Kingdom
+1275	1288	Chris_Woodruff
+1292	1295	United_States

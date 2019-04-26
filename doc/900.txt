@@ -1,0 +1,30 @@
+Baker made secret trip to Syria in March 1995 .
+WASHINGTON 1996-08-29
+Former Secretary of State James Baker made a secret trip to Syria in March 1995 in an unsuccessful bid to break an impasse in negotiations between Syria and Israel , the Washington Post reported on Thursday .
+The paper said Baker declined to discuss the trip , but authorised an associate to confirm it took place and give an account of it .
+News of the secret trip came after Baker trashed the Clinton administration at the Republican National Convention two weeks ago for its efforts to nudge Syria into peace with Israel .
+Baker made the March 1995 trip on the explicit understanding that it remain a secret , but after his speech at the GOP convention , Israel 's outgoing ambassador Itamar Rabinovich told a reporter about it , the Post said .
+Baker was secretary of state in the Republican administration of President George Bush .
+%%TYPE_ANNOTATIONS%%
+0	4	James_Baker
+26	30	Syria
+48	57	Washington,_D.C.
+96	106	James_Baker
+130	134	Syria
+217	221	Syria
+227	232	Israel
+240	254	The_Washington_Post
+294	298	James_Baker
+447	451	James_Baker
+465	471	Bill_Clinton
+495	524	Republican_National_Convention
+565	569	Syria
+587	592	Israel
+596	600	James_Baker
+711	713	Republican_Party_(United_States)
+728	733	Israel
+758	774	Itamar_Rabinovich
+807	810	The_Washington_Post
+819	823	James_Baker
+855	864	Republican_Party_(United_States)
+894	904	George_H._W._Bush

@@ -1,0 +1,70 @@
+ATHLETICS - JOHNSON , CHRISTIE , BAILEY TO RUN OWENS RELAY .
+Adrian Warner
+BERLIN 1996-08-29
+Olympic champions Michael Johnson and Donovan Bailey and former champion Linford Christie will run in a " Dream Team " sprint relay squad in honour of Jesse Owens on Friday .
+Johnson , the 200 metres world record holder , and Britain 's 1992 Olympic 100 champion Christie confirmed on Thursday that they would join 100 record holder Bailey and Namibia 's Frankie Fredericks in one of the greatest 4x100 squads ever assembled .
+They will run against quartets from the United States , Europe and Africa in a special race at the Berlin Grand Prix meeting to mark the 60th anniversary of Owens 's four gold medals at the 1936 Olympics in the German capital .
+Christie will run the anchor leg after Canada 's Bailey , American Johnson and Olympic silver medallist Fredericks have run the first three stages of the relay .
+The participation of Bailey and Fredericks had been known before Thursday .
+But Christie did not announce his decision to run until the eve of the meeting when organisers also confirmed Johnson would take part .
+Christie is due to retire from international competition at the end of the season although he may compete for Britain in next season 's European Cup .
+Although Christie , who is not racing the individual 100 metres in Berlin , took his time to agree to run , the veteran was clearly delighted to be part of the tribute to the black American .
+When five former Olympic 100 champions from 1948 to 1980 , who have been invited to watch the race , turned up at a news conference on Thursday , Christie was quick to put his autograph book in front of the them .
+" I do n't normally do this but can you please sign , " he said thrusting an ornate white book in front of Americans Harrison Dillard ( 1948 ) , Lindy Remigino ( 1952 ) , Jim Hines ( 1968 ) , Trinidad 's Hasely Crawford ( 1976 ) and Britain 's Allan Wells ( 1980 ) .
+" Jesse Owens inspired everyone here and it is great to have a tribute to him . "
+Owens 's widow Ruth is not well enough to attend but a message from her will be read out by the sprinter 's grand-daughter Gina Tillman during the meeting
+Berlin organisers hoped to have American 1984 and 1988 champion Carl Lewis in the squad but he injured himself in last Friday 's Brussels meeting .
+%%TYPE_ANNOTATIONS%%
+22	29	Linford_Christie
+33	38	Donovan_Bailey
+47	51	Jesse_Owens
+75	80	Berlin
+93	99	Olympic_sports
+111	125	Michael_Johnson_(athlete)
+131	144	Donovan_Bailey
+166	181	Linford_Christie
+244	254	Jesse_Owens
+319	325	United_Kingdom
+335	341	Olympic_sports
+356	363	Linford_Christie
+426	431	Donovan_Bailey
+437	443	Namibia
+448	465	Frankie_Fredericks
+560	572	United_States
+576	581	Europe
+587	592	Africa
+619	624	Berlin
+677	681	Jesse_Owens
+715	722	1936_Summer_Olympics
+731	736	Germany
+748	755	Linford_Christie
+787	792	Canada
+797	802	Donovan_Bailey
+806	813	United_States
+827	833	Olympic_sports
+852	861	Frankie_Fredericks
+931	936	Donovan_Bailey
+942	951	Frankie_Fredericks
+990	997	Linford_Christie
+1122	1129	Linford_Christie
+1232	1238	United_Kingdom
+1258	1269	European_Cup_(athletics)
+1282	1289	Linford_Christie
+1340	1345	Berlin
+1454	1461	United_States
+1482	1488	Olympic_sports
+1611	1618	Linford_Christie
+1786	1794	United_States
+1796	1811	Harrison_Dillard
+1824	1837	Lindy_Remigino
+1850	1858	Jim_Hines
+1871	1878	Trinidad
+1883	1897	Hasely_Crawford
+1912	1918	United_Kingdom
+1923	1933	Allan_Wells
+1948	1958	Jesse_Owens
+2028	2032	Jesse_Owens
+2183	2188	Berlin
+2215	2222	United_States
+2247	2256	Carl_Lewis
+2312	2319	Brussels

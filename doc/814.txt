@@ -1,0 +1,41 @@
+SQUASH - HONG KONG OPEN SECOND ROUND RESULTS .
+HONG KONG 1996-08-29
+Second round results in the Hong Kong Open on Thursday ( prefix number denotes seeding ) :
+1 - Jansher Khan ( Pakistan ) beat Simon Frenz ( Germany ) 15-12 15-7 12-15 15-10
+Mark Cairns ( England ) beat Joseph Kneipp ( Australia ) 8-15 15-12 15-8 15-8
+Anthony Hill ( Australia ) beat Mir Zaman Gul ( Pakistan ) 15-12 15-11 15-13
+Dan Jenson ( Australia ) beat 3 - Brett Martin ( Australia ) 15-9 17-14 7-15 9-15 15-14
+4 - Peter Nicol ( Scotland ) beat Jonathon Power ( Canada ) 15-10 15-9 15-9
+7 - Chris Walker ( England ) beat Amr Shabana ( Egypt ) 15-13 15-10 15-6
+Derek Ryan ( Ireland ) beat Paul Johnson ( England ) 10-15 15-5 12-15 15-12 15-11
+2 - Rodney Eyles ( Australia ) beat Zubair Jahan Khan ( Pakistan ) 15-10 15-8 9-15 13-15 15-4 .
+%%TYPE_ANNOTATIONS%%
+47	55	Hong_Kong
+163	174	Jansher_Khan
+178	185	Pakistan
+208	214	Germany
+241	251	Mark_Cairns_(squash_player)
+255	261	England
+270	282	Joe_Kneipp
+286	294	Australia
+334	342	Australia
+367	374	Pakistan
+396	405	Dan_Jenson
+409	417	Australia
+430	441	Brett_Martin
+445	453	Australia
+488	498	Peter_Nicol
+502	509	Scotland
+518	531	Jonathon_Power
+535	540	Canada
+564	575	Chris_Walker_(squash_player)
+579	585	England
+594	604	Amr_Shabana
+608	612	Egypt
+633	642	Derek_Ryan
+646	652	Republic_of_Ireland
+661	672	Paul_Johnson_(squash_player)
+676	682	England
+719	730	Rodney_Eyles
+734	742	Australia
+771	778	Pakistan

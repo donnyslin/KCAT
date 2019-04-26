@@ -1,0 +1,72 @@
+SOCCER - PARMA , ROMA AND UDINESE OUT OF ITALIAN CUP .
+ROME 1996-08-28
+UEFA Cup hopefuls Parma and Roma , under new coaches this season , crashed out of the Italian Cup to second division opponents on Wednesday while league champions Milan could only draw 1-1 at humble Empoli .
+Wealthy Parma , now coached by the former Italian international Carlo Ancelotti , were without new striker Enrico Chiesa and went down 3-1 at serie B club Pescara in their second round clash .
+Pescara 's Ottavio Palladini shattered Parma with goals in the second and fourth minutes .
+Midfielder Marco Giampaolo made it 3-0 in the 38th minute and Parma 's Alessandro Melli pulled back a late goal six minutes from time .
+The second round was the entry point for the bulk of the serie A sides with the winners going through .
+The later stages of the cup are played over two legs .
+Parma 's defeat was a repeat of last season 's fiasco when they lost their opening cup match 3-0 to Palermo .
+Roma , now coached by Argentine Carlos Bianchi and watched by Italian national coach Arrigo Sacchi , lost 3-1 to Cesena -- another repeat of last season when the Rome club also went out at the first hurdle .
+Udinese , with Germany 's Euro ' 96 hero Oliver Bierhoff in their lineup , completed the hat-trick of beaten serie A sides when they went under 2-1 to newly relegated Cremonese .
+Milan 's new Uruguayan coach Oscar Tabarez avoided the nightmare of defeat but faces a replay at home next Sunday .
+Cup holders Fiorentina easily beat Cosenza 3-1 while European Cup holders Juventus also cruised through with a 2-0 win at small southern club Fidelis Andria .
+Two other serie A sides lost at the weekend -- Piacenza and last year 's losing finalists Atalanta .
+Two cup matches could not be played on Wednesday due to argument over first round results .
+Lecce 's 3-0 weekend defeat of Genoa was expected to be overturned by a sporting judge on Thursday after the home club fielded an ineligible player .
+That would set Genoa up for a second round match against local rivals Sampdoria .
+Nocerina 's 4-3 defeat of Piacenza was also subject to a complaint , later removed , that forced their second round match against serie A newcomers Perugia to be delayed .
+%%TYPE_ANNOTATIONS%%
+9	13	Parma_F.C.
+17	20	A.S._Roma
+26	32	Udinese_Calcio
+41	51	Coppa_Italia
+55	58	Rome
+71	78	1996–97_UEFA_Cup
+89	93	Parma_F.C.
+99	102	A.S._Roma
+157	167	Coppa_Italia
+234	238	A.C._Milan
+270	275	Empoli_F.C.
+287	291	Parma_F.C.
+321	327	Italy
+343	357	Carlo_Ancelotti
+386	398	Enrico_Chiesa
+511	515	Parma_F.C.
+625	629	Parma_F.C.
+634	649	Alessandro_Melli
+756	762	Serie_A
+858	862	Parma_F.C.
+958	964	U.S._Città_di_Palermo
+968	971	A.S._Roma
+990	998	Argentina
+1000	1013	Carlos_Bianchi
+1030	1036	Italy
+1053	1065	Arrigo_Sacchi
+1081	1086	A.C._Cesena
+1130	1133	Rome
+1176	1182	Udinese_Calcio
+1191	1197	Germany
+1217	1231	Oliver_Bierhoff
+1285	1291	Serie_A
+1343	1351	U.S._Cremonese
+1355	1359	A.C._Milan
+1368	1376	Uruguay
+1384	1396	Óscar_Tabárez
+1471	1473	Coppa_Italia
+1483	1492	ACF_Fiorentina
+1506	1512	Cosenza_Calcio_1914
+1524	1535	UEFA_Champions_League
+1545	1552	Juventus_F.C.
+1613	1626	A.S._Andria_BAT
+1640	1646	Serie_A
+1677	1684	Piacenza_Calcio
+1720	1727	Atalanta_B.C.
+1823	1827	U.S._Lecce
+1854	1858	Genoa_C.F.C.
+1988	1992	Genoa_C.F.C.
+2043	2051	U.C._Sampdoria
+2055	2062	A.S.G._Nocerina
+2081	2088	Piacenza_Calcio
+2185	2191	Serie_A
+2203	2209	Perugia_Calcio

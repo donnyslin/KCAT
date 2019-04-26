@@ -1,0 +1,156 @@
+SOCCER - ENGLISH LEAGUE STANDINGS .
+LONDON 1996-08-27
+English league soccer standings
+after Tuesday 's matches ( tabulated under played , won , drawn ,
+lost , goals for , against , points ) :
+Division one
+Tranmere 3 2 1 0 6 3 7
+Bolton 3 2 1 0 5 2 7
+Barnsley 2 2 0 0 5 2 6
+Wolverhampton 2 2 0 0 4 1 6
+Queens Park Rangers 2 2 0 0 4 2 6
+Stoke 2 2 0 0 4 2 6
+Norwich 3 2 0 1 4 3 6
+Ipswich 3 1 1 1 6 4 4
+Birmingham 2 1 1 0 5 4 4
+Crystal Palace 3 1 1 1 3 2 4
+Oxford 3 1 0 2 6 3 3
+Bradford 2 1 0 1 3 2 3
+Huddersfield 2 1 0 1 3 3 3
+Portsmouth 3 1 0 2 3 5 3
+Reading 2 1 0 1 3 5 3
+Manchester City 3 1 0 2 2 3 3
+West Bromwich 3 0 2 1 2 3 2
+Port Vale 3 0 2 1 2 4 2
+Sheffield United 2 0 1 1 4 5 1
+Grimsby 3 0 1 2 4 7 1
+Charlton 2 0 1 1 1 3 1
+Swindon 2 0 1 1 1 3 1
+Southend 3 0 1 2 1 7 1
+Oldham 2 0 0 2 2 5 0
+Divisionn two
+Plymouth 3 2 1 0 8 5 7
+Brentford 3 2 1 0 6 3 7
+Shrewsbury 3 2 1 0 6 3 7
+Bury 3 2 1 0 4 2 7
+Burnley 3 2 0 1 5 5 6
+Bournemouth 3 2 0 1 4 3 6
+Blackpool 3 2 0 1 3 2 6
+Chesterfield 3 2 0 1 3 2 6
+Millwall 3 1 1 1 5 4 4
+Crewe 3 1 1 1 4 4 4
+Gillingham 3 1 1 1 4 5 4
+Preston 3 1 1 1 3 3 4
+Notts County 2 1 1 0 2 1 4
+Bristol Rovers 2 1 1 0 1 0 4
+Bristol City 3 1 0 2 7 4 3
+York 3 1 0 2 5 6 3
+Watford 3 1 0 2 2 5 3
+Wrexham 2 0 2 0 5 5 2
+Wycombe 3 0 2 1 2 3 2
+Rotherham 3 0 1 2 3 5 1
+Peterborough 2 0 1 1 2 3 1
+Walsall 3 0 1 2 2 4 1
+Stockport 3 0 1 2 0 2 1
+Luton 3 0 0 3 3 10 0
+Division three
+Hartlepool 3 2 1 0 6 3 7
+Wigan 3 2 1 0 5 2 7
+Hull 3 2 1 0 4 2 7
+Carlisle 3 2 1 0 2 0 7
+Fulham 3 2 0 1 4 3 6
+Scunthorpe 3 2 0 1 2 2 6
+Scarborough 3 1 2 0 4 2 5
+Exeter 3 1 2 0 4 3 5
+Cambridge 3 1 2 0 3 2 5
+Darlington 3 1 1 1 7 5 4
+Northampton 3 1 1 1 5 3 4
+Barnet 3 1 1 1 4 2 4
+Chester 3 1 1 1 4 3 4
+Torquay 3 1 1 1 3 3 4
+Cardiff 3 1 1 1 1 2 4
+Swansea 3 1 0 2 3 7 3
+Brighton 3 1 0 2 2 5 3
+Hereford 3 1 0 2 1 2 3
+Lincoln 3 0 2 1 3 4 2
+Colchester 3 0 2 1 1 3 2
+Rochdale 3 0 1 2 2 4 1
+Mansfield 3 0 1 2 2 6 1
+Doncaster 3 0 1 2 1 3 1
+Leyton Orient 3 0 1 2 1 3 1
+%%TYPE_ANNOTATIONS%%
+9	15	England
+36	41	London
+54	60	England
+205	212	Tranmere_Rovers_F.C.
+228	233	Bolton_Wanderers_F.C.
+249	256	Barnsley_F.C.
+272	284	Wolverhampton_Wanderers_F.C.
+300	318	Queens_Park_Rangers_F.C.
+334	338	Stoke_City_F.C.
+354	360	Norwich_City_F.C.
+376	382	Ipswich_Town_F.C.
+398	407	Birmingham_City_F.C.
+423	436	Crystal_Palace_F.C.
+452	457	Oxford_United_F.C.
+473	480	Bradford_City_A.F.C.
+496	507	Huddersfield_Town_F.C.
+523	532	Portsmouth_F.C.
+548	554	Reading_F.C.
+570	584	Manchester_City_F.C.
+600	612	West_Bromwich_Albion_F.C.
+628	636	Port_Vale_F.C.
+652	667	Sheffield_United_F.C.
+683	689	Grimsby_Town_F.C.
+705	712	Charlton_Athletic_F.C.
+728	734	Swindon_Town_F.C.
+750	757	Southend_United_F.C.
+773	778	Oldham_Athletic_A.F.C.
+808	815	Plymouth_Argyle_F.C.
+831	839	Brentford_F.C.
+855	864	Shrewsbury_Town_F.C.
+880	883	Bury_F.C.
+899	905	Burnley_F.C.
+921	931	A.F.C._Bournemouth
+947	955	Blackpool_F.C.
+971	982	Chesterfield_F.C.
+998	1005	Millwall_F.C.
+1021	1025	Crewe_Alexandra_F.C.
+1041	1050	Gillingham_F.C.
+1066	1072	Preston_North_End_F.C.
+1088	1099	Notts_County_F.C.
+1115	1128	Bristol_Rovers_F.C.
+1144	1155	Bristol_City_F.C.
+1171	1174	York_City_F.C.
+1190	1196	Watford_F.C.
+1212	1218	Wrexham_F.C.
+1234	1240	Wycombe_Wanderers_F.C.
+1256	1264	Rotherham_United_F.C.
+1280	1291	Peterborough_United_F.C.
+1307	1313	Walsall_F.C.
+1329	1337	Stockport_County_F.C.
+1353	1357	Luton_Town_F.C.
+1389	1398	Hartlepool_United_F.C.
+1414	1418	Wigan_Athletic_F.C.
+1434	1437	Hull_City_A.F.C.
+1453	1460	Carlisle_United_F.C.
+1476	1481	Fulham_F.C.
+1497	1506	Scunthorpe_United_F.C.
+1522	1532	Scarborough_F.C.
+1548	1553	Exeter_City_F.C.
+1569	1577	Cambridge_United_F.C.
+1593	1602	Darlington_F.C.
+1618	1628	Northampton_Town_F.C.
+1644	1649	Barnet_F.C.
+1665	1671	Chester_City_F.C.
+1687	1693	Torquay_United_F.C.
+1709	1715	Cardiff_City_F.C.
+1731	1737	Swansea_City_A.F.C.
+1753	1760	Brighton_&_Hove_Albion_F.C.
+1776	1783	Hereford_United_F.C.
+1799	1805	Lincoln_City_F.C.
+1821	1830	Colchester_United_F.C.
+1846	1853	Rochdale_A.F.C.
+1869	1877	Mansfield_Town_F.C.
+1893	1901	Doncaster_Rovers_F.C.
+1917	1929	Leyton_Orient_F.C.

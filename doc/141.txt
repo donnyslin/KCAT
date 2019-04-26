@@ -1,0 +1,55 @@
+TENNIS - RESULTS AT CANADIAN OPEN .
+TORONTO 1996-08-22
+Results from the Canadian Open
+tennis tournament on Thursday ( prefix number denotes seeding ) :
+Third round
+3 - Wayne Ferreira ( South Africa ) beat Tim Henman ( Britain ) 6-4
+6-4
+4 - Marcelo Rios ( Chile ) beat Daniel Vacek ( Czech Republic ) 6-4
+6-3
+5 - Thomas Enqvist ( Sweden ) beat Petr Korda ( Czech Republic )
+6-3 6-4
+Patrick Rafter ( Australia ) beat 6 - MaliVai Washington ( U.S. )
+6-2 6-1
+7 - Todd Martin ( U.S. ) beat 9 - Cedric Pioline ( France ) 2-6 6-2
+6-4
+Mark Philippoussis ( Australia ) beat Bohdan Ulihrach ( Czech Republic ) 6-3 6-4
+Alex O'Brien ( U.S. ) beat Mikael Tillstrom ( Sweden ) 6-3 2-6
+6-3
+Todd Woodbridge ( Australia ) beat Daniel Nestor ( Canada ) 7-6
+( 7-2 ) 7-6 ( 7-4 )
+%%TYPE_ANNOTATIONS%%
+20	32	Rogers_Cup_(tennis)
+36	42	Toronto
+72	84	Rogers_Cup_(tennis)
+168	181	Wayne_Ferreira
+185	196	South_Africa
+205	214	Tim_Henman
+218	224	United_Kingdom
+240	251	Marcelo_Ríos
+255	259	Chile
+268	279	Daniel_Vacek
+283	296	Czech_Republic
+312	325	Thomas_Enqvist
+329	334	Sweden
+343	352	Petr_Korda
+356	369	Czech_Republic
+381	394	Patrick_Rafter
+398	406	Australia
+419	436	MaliVai_Washington
+440	443	United_States
+459	469	Todd_Martin
+473	476	United_States
+489	502	Cédric_Pioline
+506	511	France
+527	544	Mark_Philippoussis
+548	556	Australia
+565	579	Bohdan_Ulihrach
+583	596	Czech_Republic
+623	626	United_States
+635	650	Mikael_Tillström
+654	659	Sweden
+675	689	Todd_Woodbridge
+693	701	Australia
+710	722	Daniel_Nestor
+726	731	Canada

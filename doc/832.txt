@@ -1,0 +1,24 @@
+Rugby star once linked to Princess Diana divorces .
+LONDON 1996-08-29
+Former England rugby captain Will Carling , whose marriage broke down after he was romantically linked to Princess Diana , was divorced by his wife on Thursday , just 24 hours after Diana and Prince Charles divorced .
+The Times newspaper said Diana was not named in the divorce petition heard by a court in Surrey , southern England .
+But Julia Carling , a television presenter , is said to have blamed Diana for the problems in her marriage and she has repeatedly mocked the princess on her breakfast television programme .
+Diana met Will Carling at an exclusive gymnasium in London .
+He has always insisted that they were just friends .
+%%TYPE_ANNOTATIONS%%
+35	39	Diana,_Princess_of_Wales
+52	57	London
+77	83	England
+99	110	Will_Carling
+185	189	Diana,_Princess_of_Wales
+252	256	Diana,_Princess_of_Wales
+262	275	Charles,_Prince_of_Wales
+288	296	The_Times
+313	317	Diana,_Princess_of_Wales
+377	382	Surrey
+395	401	England
+409	421	Julia_Carling
+473	477	Diana,_Princess_of_Wales
+595	599	Diana,_Princess_of_Wales
+605	616	Will_Carling
+647	652	London

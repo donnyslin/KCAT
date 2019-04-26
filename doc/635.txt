@@ -1,0 +1,22 @@
+Passengers injured in train collision in Linz .
+LINZ , Austria 1996-08-28
+A passenger train collided with a locomotive at a main railway station in Linz on Wednesday and police said around 10 people were injured .
+Austrian television reported earlier that more than 20 had been hurt in the accident at the station in Linz , 300 km ( 180 miles ) west of Vienna .
+" One locomotive was stationary and the passenger train collided into the back of it , " a police spokesman in Linz told Reuters by telephone .
+The express passenger train travelling from Steyr , southeast of Linz , with around 80 people on board , hit the back of a service locomotive used to shunt wagons into sidings .
+The police spokesman said he was not sure whether any more passengers were still trapped in the wreckage .
+Doctors and medical staff from a hospital across the road from the station were at the scene of the accident within minutes and were able to treat the injured quickly , he added .
+Greater damage was averted as the driver of the passenger train had time to apply his emergency brakes before the collision occurred , a state railways spokesman told Austrian news agency APA .
+%%TYPE_ANNOTATIONS%%
+41	44	Linz
+48	51	Linz
+55	61	Austria
+148	151	Linz
+214	221	Austria
+317	320	Linz
+353	358	Vienna
+473	476	Linz
+483	489	Reuters
+550	554	Steyr
+571	574	Linz
+1138	1145	Austria

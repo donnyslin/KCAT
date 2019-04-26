@@ -1,0 +1,45 @@
+RUGBY UNION - NEW ZEALAND RECALL MEHRTENS FOR FINAL TEST .
+JOHANNESBURG 1996-08-28
+The New Zealand rugby selectors recalled fly-half Andrew Mehrtens on Wednesday when they announced their team for the third and final test in Johannesburg on Saturday .
+He returns in place of Simon Culhane who broke a wrist in the All Blacks ' series-clinching victory in Pretoria on Saturday .
+Mehrtens played in the last TriNations test in Cape Town but missed the first two tests in the current series after tearing a cartilage in his knee while training , an injury which needed a small operation .
+Lock Ian Jones and wing Jeff Wilson have also been named in the team despite doubts over their fitness .
+Jones has a knee injury while Wilson is suffering from a viral infection .
+Blair Larsen or the uncapped Glenn Taylor are on standby to replace Jones and , with Jonah Lomu out of action with a shoulder injury picked up in Tuesday 's drawn match against Griqualand West , Eric Rush is favourite to play should Wilson fail to recover .
+Team :
+15 - Christian Cullen , 14 - Jeff Wilson , 13 - Walter Little , 12 - Frank Bunce , 11 - Glen Osborne ; 10 - Andrew Mehrtens , 9 - Justin Marshall ; 8 - Zinzan Brooke , 7 - Josh Kronfeld , 6 - Michael Jones , 5 - Ian Jones , 4 - Robin Brooke , 3 - Olo Brown , 2 - Sean Fitzpatrick ( captain ) , 1 - Craig Dowd .
+%%TYPE_ANNOTATIONS%%
+0	10	Rugby_union
+14	24	New_Zealand_national_rugby_union_team
+33	40	Andrew_Mehrtens
+59	70	Johannesburg
+87	97	New_Zealand_national_rugby_union_team
+133	147	Andrew_Mehrtens
+225	236	Johannesburg
+275	287	Simon_Culhane
+314	323	New_Zealand_national_rugby_union_team
+355	362	Pretoria
+378	385	Andrew_Mehrtens
+425	433	Cape_Town
+591	599	Ian_Jones_(rugby_union)
+610	620	Jeff_Wilson_(sportsman)
+721	726	Jeff_Wilson_(sportsman)
+851	860	Jonah_Lomu
+943	957	Griqualand_West
+961	969	Eric_Rush
+999	1004	Jeff_Wilson_(sportsman)
+1036	1051	Christian_Cullen
+1060	1070	Jeff_Wilson_(sportsman)
+1079	1091	Walter_Little_(rugby_player)
+1100	1110	Frank_Bunce
+1119	1130	Glen_Osborne
+1139	1153	Andrew_Mehrtens
+1161	1175	Justin_Marshall
+1183	1195	Zinzan_Brooke
+1203	1215	Josh_Kronfeld
+1223	1235	Michael_Jones_(rugby_union)
+1243	1251	Ian_Jones_(rugby_union)
+1259	1270	Robin_Brooke
+1278	1286	Olo_Brown
+1294	1309	Sean_Fitzpatrick
+1329	1338	Craig_Dowd

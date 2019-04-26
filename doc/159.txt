@@ -1,0 +1,73 @@
+GOLF - GERMAN OPEN SECOND ROUND SCORES .
+STUTTGART , Germany 1996-08-23
+Leading second round
+scores in the German Open golf championship on Friday ( Britain
+unless stated ) :
+128 Ian Woosnam 64 64
+129 Robert Karlsson ( Sweden ) 67 62
+130 Fernando Roca ( Spain ) 66 64 , Ian Pyman 66 64
+131 Carl Suneson 65 66 , Stephen Field 66 65
+132 Miguel Angel Martin ( Spain ) 66 66 , Raymond Russell 63 69 ,
+Thomas Gogele ( Germany ) 67 65 , Paul Broadhurst 62 70 ,
+Diego Borrego ( Spain ) 69 63
+133 Ricky Willison 69 64 , Stephen Ames ( Trinidad and Tobago )
+68 65 , Eamonn Darcy ( Ireland ) 65 68
+134 Robert Coles 68 66 , David Williams 67 67 , Thomas Bjorn
+( Denmark ) 66 68 , Pedro Linhart ( Spain ) 67 67 , Michael Jonzon ( Sweden ) 67 67 , Roger Chapman 72 62 , Jonathan Lomas
+67 67 , Francisco Cea ( Spain ) 68 66
+135 Terry Price ( Australia ) 67 68 , Paul Eales 67 68 , Wayne Riley ( Australia ) 64 71 , Carl Mason 69 66 , Barry Lane
+68 67 , Bernhard Langer ( Germany ) 64 71 , Gary Orr 67 68 ,
+Mats Lanner ( Sweden ) 64 71 , Jeff Hawksworth 67 68 , Des Smyth ( Ireland ) 66 69 , David Carter 66 69 , Steve Webster
+69 66 , Jose Maria Canizares ( Spain ) 67 68 , Paul Lawrie
+66 69
+%%TYPE_ANNOTATIONS%%
+7	17	German_Open_(golf)
+41	49	Stuttgart
+53	59	Germany
+107	117	German_Open_(golf)
+149	155	United_Kingdom
+179	189	Ian_Woosnam
+201	215	Robert_Karlsson
+219	224	Sweden
+254	258	Spain
+270	278	Iain_Pyman
+290	301	Carl_Suneson
+335	353	Miguel_Ángel_Martín_(golfer)
+357	361	Spain
+373	387	Raymond_Russell
+413	419	Germany
+431	445	Paul_Broadhurst
+455	467	Diego_Borrego
+471	475	Spain
+512	523	Stephen_Ames
+557	568	Eamonn_Darcy
+572	578	Republic_of_Ireland
+592	603	Robert_Coles_(golfer)
+636	647	Thomas_Bjørn
+651	657	Denmark
+669	681	Pedro_Linhart
+685	689	Spain
+701	714	Michael_Jonzon
+718	723	Sweden
+735	747	Roger_Chapman_(golfer)
+757	770	Jonathan_Lomas
+796	800	Spain
+814	824	Terry_Price_(golfer)
+828	836	Australia
+848	857	Paul_Eales
+867	877	Wayne_Riley
+881	889	Australia
+901	910	Carl_Mason
+920	929	Barry_Lane
+939	953	Bernhard_Langer
+957	963	Germany
+975	982	Gary_Orr
+992	1002	Mats_Lanner
+1006	1011	Sweden
+1047	1055	Des_Smyth
+1059	1065	Republic_of_Ireland
+1077	1088	David_Carter_(golfer)
+1098	1110	Steve_Webster
+1120	1139	José_Maria_Cañizares
+1143	1147	Spain
+1159	1169	Paul_Lawrie

@@ -1,0 +1,39 @@
+Israeli president invites Arafat to home - paper .
+JERUSALEM 1996-08-25
+Israeli President Ezer Weizman has invited Yasser Arafat to meet him at his private home , Israel 's biggest newspaper said on Sunday .
+The Yedioth Ahronoth daily reported that Prime Minister Benjamin Netanyahu , who has said he has no desire to hold talks with the Palestinian president , opposes the meeting due to be held this coming week .
+The newspaper said Weizman scheduled the meeting at his private residence in the central Israeli village of Caesarea after Arafat sent him an emotional appeal " to save the peace process " .
+Netanyahu met Weizman last Tuesday and voiced his opposition , Yedioth said .
+" I am prepared to postpone the meeting under one condition -- that you give me a commitment right now to meet Arafat yourself within 10 days , " the paper quoted Weizman as telling Netanyahu .
+It said Netanyahu had yet to give Weizman an answer .
+The office of Israeli president is largely ceremonial .
+But Weizman , a former defence minister and an architect of Israel 's peace treaty with Egypt , has spoken out frequently on the peace process with the Palestinians -- at times urging the former Labour government to slow it down .
+%%TYPE_ANNOTATIONS%%
+0	6	Israel
+26	31	Yasser_Arafat
+51	59	Jerusalem
+72	78	Israel
+90	101	Ezer_Weizman
+115	127	Yasser_Arafat
+163	168	Israel
+212	227	Yedioth_Ahronoth
+264	281	Benjamin_Netanyahu
+338	348	State_of_Palestine
+435	441	Ezer_Weizman
+505	511	Israel
+524	531	Caesarea
+539	544	Yasser_Arafat
+607	615	Benjamin_Netanyahu
+621	627	Ezer_Weizman
+670	676	Yedioth_Ahronoth
+796	801	Yasser_Arafat
+848	854	Ezer_Weizman
+867	875	Benjamin_Netanyahu
+887	895	Benjamin_Netanyahu
+913	919	Ezer_Weizman
+947	953	Israel
+993	999	Ezer_Weizman
+1049	1054	Israel
+1077	1081	Egypt
+1141	1152	State_of_Palestine
+1184	1189	Israeli_Labor_Party

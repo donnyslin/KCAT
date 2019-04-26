@@ -1,0 +1,63 @@
+Two Iranian opposition leaders meet in Baghdad .
+Hassan Hafidh
+BAGHDAD 1996-08-22
+An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .
+" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , " it said .
+A spokesman for the group said the meeting " signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions " .
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .
+Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .
+PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .
+Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year .
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .
+It said about 100 Iraqi Kurds were killed or wounded in the attack .
+Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .
+A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .
+%%TYPE_ANNOTATIONS%%
+4	10	Iran
+39	45	Baghdad
+63	69	Baghdad
+85	91	Iran
+114	117	Iraq
+158	161	Iran
+166	172	Kurdish_people
+209	215	Iran
+236	239	Iraq
+299	312	Massoud_Rajavi
+321	327	Baghdad
+358	391	Democratic_Party_of_Iranian_Kurdistan
+395	398	Democratic_Party_of_Iranian_Kurdistan
+457	460	Iran
+471	475	Kurdish_people
+508	514	Iran
+516	525	Resistance_movement
+626	642	Iranian_Kurdistan
+771	785	Iranian_Kurdistan
+803	806	Iran
+846	849	Iraq
+873	876	Democratic_Party_of_Iranian_Kurdistan
+898	910	Iraqi_Kurdistan
+959	965	Baghdad
+969	981	Iraqi_Kurdistan
+999	1002	Iran
+1092	1094	Patriotic_Union_of_Kurdistan
+1106	1108	Patriotic_Union_of_Kurdistan
+1114	1117	Iraq
+1122	1147	Kurdistan_Democratic_Party
+1151	1153	Kurdistan_Democratic_Party
+1170	1182	Iraqi_Kurdistan
+1213	1216	Iraq
+1244	1248	Iraq
+1274	1279	Kuwait
+1293	1300	Gulf_War
+1457	1463	Iran
+1495	1497	Kurdistan_Democratic_Party
+1512	1516	Qasr-e_Shirin
+1528	1538	Sulaymaniyah
+1558	1564	Iran
+1616	1626	Iraqi_Kurdistan
+1672	1675	Iran
+1738	1741	Iraq
+1767	1773	Kurdish_people
+1833	1843	Iraqi_Kurdistan
+1870	1876	Iraq

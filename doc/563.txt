@@ -1,0 +1,44 @@
+Slovak women visited Dutroux , police say .
+Peter Laca
+BRATISLAVA 1996-08-27
+Marc Dutroux , the chief accused in Belgium 's sensational child murder and sex abuse case , visited Slovakia a number of times and about 10 young Slovak women went to Belgium at his invitation , police said on Tuesday .
+But they have difficulty remembering what happened there , perhaps because of drugs , and are unsure whether they were filmed for pornography , Rudolf Gajdos , head of the Slovak office of Interpol , told Reuters .
+Although Gajdos spoke of " girls " his deputy , Eva Boudova , said the case involved about 10 young women in their early 20s .
+" The police interrogated several Slovak girls who said that they had been invited by Mark Dutroux to visit Belgium , " Gajdos said .
+" The girls said they went to Belgium voluntarily and the police suspect that they were used to act in pornographic films . "
+" The police suspect ( the girls ) were under the influence of drugs as some girls admitted they took unspecified pills . "
+" We have suspicions of a rape , but the police still have to find the victim , " Gajdos added .
+Dutroux 's last visit to Slovakia was reported to have been as recent as July .
+Slovak police are also cooperating with Belgium in the search for An Marchal and Eefje Lambrecks , who went missing last August .
+Dutroux , 39 , who was charged last week with the abduction and illegal imprisonment of two other girls aged 14 and 12 , is one of several suspects in the Marchal and Lambrecks case .
+Last Saturday he led police to the bodies of two other girls , aged eight , who died of starvation this year after their abduction in June , 1995 .
+The Czech office of Interpol said on Friday it would neither confirm nor deny that Dutroux had been in the Czech Republic , Slovakia 's western neighbour and former federation partner .
+Belgian police said an officer had visited Bratislava to talk with Slovak detectives about An and Eefje and other disappearances , and he planned to go also to Prague .
+%%TYPE_ANNOTATIONS%%
+0	5	Slovakia
+21	27	Marc_Dutroux
+55	64	Bratislava
+77	88	Marc_Dutroux
+113	119	Belgium
+178	185	Slovakia
+224	229	Slovakia
+245	251	Belgium
+470	475	Slovakia
+503	509	Reuters
+674	679	Slovakia
+726	737	Marc_Dutroux
+748	754	Belgium
+804	810	Belgium
+1121	1127	Marc_Dutroux
+1146	1153	Slovakia
+1201	1206	Slovakia
+1241	1247	Belgium
+1331	1337	Marc_Dutroux
+1667	1671	Czech_Republic
+1746	1752	Marc_Dutroux
+1770	1783	Czech_Republic
+1787	1794	Slovakia
+1849	1855	Belgium
+1892	1901	Bratislava
+1916	1921	Slovakia
+2009	2014	Prague

@@ -1,0 +1,72 @@
+SOCCER - DUTCH FIRST DIVISION RESULTS / TABLE .
+AMSTERDAM 1996-08-25
+Result of Dutch first division
+soccer match played on Sunday :
+Feyenoord Rotterdam 3 Volendam 0
+NEC Nijmegen 0 AZ Alkmaar 0
+Vitesse Arnhem 1 Utrecht 0
+Twente Enschede 1 Roda JC 1
+PSV Eindhoven 4 Groningen 1
+Played on Saturday :
+Graafschap Doetinchem 3 RKC Waalwijk 2
+Willem II Tilburg 0 Fortuna Sittard 1
+NAC Breda 1 Sparta Rotterdam 0
+Heerenveen 2 Ajax Amsterdam 0
+Standings ( tabulate under played , won , drawn , lost , goals
+for , goals against , points ) :
+PSV Eindhoven 2 2 0 0 8 2 6
+Vitesse Arnhem 2 2 0 0 3 0 6
+Feyenoord Rotterdam 2 1 1 0 4 1 4
+Graafschap Doetinchem 2 1 1 0 4 3 4
+Twente Enschede 2 1 1 0 4 2 4
+Fortuna Sittard 2 1 1 0 1 0 4
+Heerenveen 2 1 0 1 3 3 3
+NAC Breda 2 1 0 1 1 1 3
+Ajax Amsterdam 2 1 0 1 1 2 3
+Roda JC Kerkrade 2 0 2 0 2 2 2
+Utrecht 2 0 1 1 2 3 1
+RKC Waalwijk 2 0 1 1 4 5 1
+Sparta Rotterdam 2 0 1 1 0 1 1
+Willem II Tilburg 2 0 1 1 0 1 1
+AZ Alkmaar 2 0 1 1 0 2 1
+Volendam 2 0 1 1 1 4 1
+Groningen 2 0 1 1 1 4 1
+NEC Nijmegen 2 0 1 1 1 4 1
+%%TYPE_ANNOTATIONS%%
+9	13	Netherlands
+48	56	Amsterdam
+79	83	Netherlands
+132	150	Feyenoord
+154	161	FC_Volendam
+165	176	N.E.C._(football_club)
+180	189	AZ_(football_club)
+193	206	Vitesse
+210	216	FC_Utrecht
+220	234	FC_Twente
+238	244	Roda_JC
+248	260	PSV_Eindhoven
+264	272	FC_Groningen
+321	332	RKC_Waalwijk
+336	352	Willem_II_(football_club)
+356	370	Fortuna_Sittard
+374	382	NAC_Breda
+386	401	Sparta_Rotterdam
+405	414	SC_Heerenveen
+418	431	AFC_Ajax
+531	543	PSV_Eindhoven
+559	572	Vitesse
+588	606	Feyenoord
+658	672	FC_Twente
+688	702	Fortuna_Sittard
+718	727	SC_Heerenveen
+743	751	NAC_Breda
+767	780	AFC_Ajax
+796	811	Roda_JC
+827	833	FC_Utrecht
+849	860	RKC_Waalwijk
+876	891	Sparta_Rotterdam
+907	923	Willem_II_(football_club)
+939	948	AZ_(football_club)
+964	971	FC_Volendam
+987	995	FC_Groningen
+1011	1022	N.E.C._(football_club)

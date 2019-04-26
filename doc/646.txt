@@ -1,0 +1,21 @@
+CRICKET - ENGLISH COUNTY CHAMPIONSHIP SCORES .
+LONDON 1996-08-28
+Close of play scores on the first
+day of four-day English County Championship cricket matches on
+Wednesday :
+At Portsmouth : Middlesex 199 in 60 overs ( K. Brown 57 ;
+L. Botham 5-67 ) .
+Hampshire 105-4 .
+At Chester-le-Street : Glamorgan 73-3 v Durham .
+%%TYPE_ANNOTATIONS%%
+10	16	England
+18	36	County_Championship
+47	52	London
+115	121	England
+123	141	County_Championship
+177	186	Portsmouth
+190	198	Middlesex_County_Cricket_Club
+251	259	Hampshire_County_Cricket_Club
+272	288	Chester-le-Street
+292	300	Glamorgan_County_Cricket_Club
+309	314	Durham_County_Cricket_Club

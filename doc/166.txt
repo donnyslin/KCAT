@@ -1,0 +1,40 @@
+CRICKET - SRI LANKA AND AUSTRALIA SAY RELATIONS HAVE HEALED .
+COLOMBO 1996-08-23
+Sri Lanka and Australia agreed on Friday that relations between the two teams had healed since the Sri Lankans ' acrimonious tour last year .
+The Sri Lankans were first found guilty then cleared of ball tampering and off-spinner Muttiah Muralitharan was called for throwing during a controversial three-test series in Australia .
+" Our concern is to get out there and play proper cricket , " Sri Lanka captain Arjuna Ranatunga told a news conference on the eve of a warmup match between the World Cup champions and a World XI team scheduled for Saturday .
+" What happened is history . "
+Australian team manager Cam Battersby said he agreed with Ranatunga .
+" I believe relations between the two teams will be excellent , " Batterby said .
+The Australians are making their first visit to the Indian Ocean island since boycotting a World Cup fixture in February after a terrorist bomb in Colombo .
+Australia have been promised the presence of commandos , sniffer dogs and plainclothes policemen to ensure a limited overs tournament is trouble-free .
+The tournament , starting on August 26 , also includes India and Zimbabwe .
+Battersby said he was satisfied with the security arrangements .
+Sri Lankan officials said they expected heavy rain which washed out a warmup match on Friday should cease by Saturday .
+Australia , led by wicketkeeper Ian Healy , opened their short tour of Sri Lanka with a five-run win over the country 's youth team on Thursday .
+%%TYPE_ANNOTATIONS%%
+10	18	Sri_Lanka
+24	32	Australia
+62	68	Colombo
+81	89	Sri_Lanka_national_cricket_team
+95	103	Australia_national_cricket_team
+180	190	Sri_Lanka_national_cricket_team
+227	237	Sri_Lanka_national_cricket_team
+310	329	Muttiah_Muralitharan
+399	407	Australia
+473	481	Sri_Lanka_national_cricket_team
+491	506	Arjuna_Ranatunga
+572	580	Cricket_World_Cup
+598	605	WSC_World_XI
+668	677	Australia_national_cricket_team
+726	734	Arjuna_Ranatunga
+824	834	Australia_national_cricket_team
+911	919	Cricket_World_Cup
+967	973	Colombo
+977	985	Australia_national_cricket_team
+1184	1188	India_national_cricket_team
+1194	1201	Zimbabwe_national_cricket_team
+1270	1279	Sri_Lanka_national_cricket_team
+1390	1398	Australia_national_cricket_team
+1422	1430	Ian_Healy
+1461	1469	Sri_Lanka

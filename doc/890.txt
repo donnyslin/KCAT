@@ -1,0 +1,30 @@
+Jordanian PM Kabariti meets Arafat in West Bank .
+RAMALLAH , West Bank 1996-08-29
+Jordanian Prime Minister Abdul-Karim al-Kabariti began talks with Palestinian President Yasser Arafat in the West Bank on Thursday on the stalled Middle East peace process , officials said .
+Kabariti flew by helicopter to Palestinian-ruled Ramallah and after a brief arrival ceremony went into talks with Arafat .
+The prime minister 's visit , his first trip outside the country since Jordan was shaken by food riots earlier this month , came against the backdrop of a Palestinian general strike in the West Bank and Gaza .
+Arafat called the four-hour strike , which ended at noon ( 0900 GMT ) to protest against Israeli policy on settlements and Jerusalem .
+Jordan 's official state news agency Petra said Kabariti would hold discussions " on the latest developments in the peace process and bilateral cooperation " .
+%%TYPE_ANNOTATIONS%%
+0	8	Jordan
+28	33	Yasser_Arafat
+38	46	Palestinian_territories
+50	57	Ramallah
+61	69	Palestinian_territories
+82	90	Jordan
+148	158	State_of_Palestine
+170	182	Yasser_Arafat
+191	199	Palestinian_territories
+228	238	Middle_East
+322	329	Ramallah
+387	392	Yasser_Arafat
+467	472	Jordan
+551	561	State_of_Palestine
+585	593	Palestinian_territories
+599	602	Gaza_Strip
+606	611	Yasser_Arafat
+670	672	Greenwich_Mean_Time
+695	701	Israel
+729	737	Jerusalem
+741	746	Jordan
+778	782	Petra_News_Agency

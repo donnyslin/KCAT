@@ -1,0 +1,38 @@
+Clinton 's Ballybunion fans invited to Chicago .
+DUBLIN 1996-08-22
+U.S. President Bill Clinton had to drop the resort of Ballybunion from a whirlwind Irish tour last year .
+So Ballybunion is going to America instead .
+Two residents of the Atlantic resort , where Clinton was to have played golf with the Irish Foreign Minister Dick Spring , have been invited to the Democratic party convention in Chicago on August 26-29 .
+They have been asked to bring with them the placards they waved when Clinton addressed Ireland at a packed ceremony in Dublin city centre on December 1 , last year .
+They read : " Ballybunion backs Clinton . "
+" The Democratic party have requested we bring our placards with us .
+We will be guests of the Kennedys , " said Frank Quilter , one of the two who have been invited to Chicago .
+Clinton made a triumphant Irish tour to back a Northern Ireland peace process but was forced to drop Ballybunion from a packed schedule at the last minute .
+%%TYPE_ANNOTATIONS%%
+0	6	Bill_Clinton
+11	21	Ballybunion
+39	45	Chicago
+49	54	Dublin
+67	70	United_States
+82	93	Bill_Clinton
+121	131	Ballybunion
+150	154	Republic_of_Ireland
+176	186	Ballybunion
+200	206	United_States
+263	269	Bill_Clinton
+304	308	Republic_of_Ireland
+327	337	Dick_Spring
+366	375	Democratic_Party_(United_States)
+397	403	Chicago
+492	498	Bill_Clinton
+510	516	Republic_of_Ireland
+542	547	Dublin
+603	613	Ballybunion
+621	627	Bill_Clinton
+639	648	Democratic_Party_(United_States)
+728	735	Kennedy_family
+802	808	Chicago
+812	818	Bill_Clinton
+838	842	Republic_of_Ireland
+859	874	Northern_Ireland
+913	923	Ballybunion

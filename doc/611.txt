@@ -1,0 +1,24 @@
+Swiss Bank Corp sets warrants on DTB-Bund-Future .
+LONDON 1996-08-27
+Swiss Bank Corp says it has issued 60 million American-style call and put warrants , in six equal tranches , on the DTB-Bund-Future March 1997 .
+EXERCISE PERIOD 02.SEP.96-06.MAR.97 PAYDATE 30.AUG.96
+LISTING FFT DDF MIN EXER LOT 100
+SPOT REFERENCE 95.35 PCT
+WARRANTS STRIKE ISS PRICE PREMIUM GEARING
+CALL A 96.00 PCT 1.16 DEM 1.90 PCT 82.20 X
+CALL B 97.00 PCT 0.75 DEM 2.50 PCT 127.10 X
+CALL C 98.00 PCT 0.47 DEM 3.30 PCT 202.90 X
+PUT D 94.00 PCT 0.94 DEM 2.40 PCT 101.40 X
+PUT E 95.0 PCT 1.33 DEM 1.80 PCT 71.70 X
+PUT F 96.0 PCT 1.84 DEM 1.20 PCT 51.80 X
+-- Reuter London Newsroom +44 171 542 7658
+%%TYPE_ANNOTATIONS%%
+0	14	Swiss_Bank_Corporation
+51	56	London
+69	83	Swiss_Bank_Corporation
+390	392	Deutsche_Mark
+433	435	Deutsche_Mark
+477	479	Deutsche_Mark
+520	522	Deutsche_Mark
+562	564	Deutsche_Mark
+603	605	Deutsche_Mark

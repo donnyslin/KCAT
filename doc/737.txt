@@ -1,0 +1,41 @@
+WHEAT--Rains boost U.S. HRW planting prospects .
+Greg Frost
+KANSAS CITY , Mo .
+1996-08-28
+Above-normal summer rainfall in the U.S. High Plains has produced near-ideal conditions for planting the 1997 hard red winter wheat crop , analysts said Wednesday .
+From central Texas north to Kansas , rains throughout July and August have relieved most of the drought conditions that plagued the region earlier this year .
+" Our moisture situation is excellent , especially for fall planting of winter wheat , " said Kim Anderson , extension wheat marketing economist at Oklahoma State University .
+The irony of the above-average summer rainfall was not lost on High Plains wheat producers , who only three months ago were caught in a drought so severe that old-timers likened conditions to the " Dust Bowl " days of the 1930s .
+" It 's definitely a turnabout from this past year , but you know last year we had pretty good moisture about this time of year , and then about October 1 it quit , " said Mark Hodges , executive director of the Oklahoma Wheat Commission . "
+Hopefully that 's not going to happen this year . "
+According to figures released by the Oklahoma Climatological Survey , an average of 20.19 inches fell across the state between March 1 and August 26 , 1996 .
+That 's about 1/2 inch above the average for the same time period , according to Howard Johnson , associate state climatologist at the University of Oklahoma .
+He noted that the majority of that 20.19 inches had fallen since July .
+As an example of just how dry it was , data showed that between October 1 , 1995 and March 1 , 1996 , the state received an average of only 4.6 inches of rainfall .
+In northern Texas , the current rainfall situation was similar to most of Oklahoma , said Rodney Mosier , executive assistant for the Texas Wheat Producers .
+" Up here in the Texas Panhandle , we 've had some extremely beneficial rains that came through within the last several days and are really setting us up for ideal conditions for planting wheat , " Mosier said .
+But he warned that the situation was not as ideal in central and southern Texas , where mositure levels were still short despite the rains brought by Hurricane Dolly last week .
+In Kansas , typically the number one U.S. hard red winter wheat producer , topsoil moisture levels were rated mostly adequate during the week ended Sunday , according to the state 's agricultural statistics service .
+In its weekly report released Monday , the service said Kansas topsoil moisture was rated eight percent surplus , 77 percent adequate and 15 percent short to very short .
+Oklahoma 's Agricultural Statistics Service showed similar conditions , rating topsoil moisture levels as seven percent surplus , 81 percent adequate and 12 percent short to very short .
+Data on topsoil moisture ratings were not released by the Texas Agricultural Statistics Service .
+-- Greg Frost , 816 561-8671
+%%TYPE_ANNOTATIONS%%
+19	22	United_States
+60	70	Kansas_City,_Missouri
+126	129	United_States
+131	141	High_Plains_(United_States)
+268	272	Texas
+283	288	Kansas
+562	586	Oklahoma_State_University–Stillwater
+653	663	High_Plains_(United_States)
+788	796	Dust_Bowl
+1407	1428	University_of_Oklahoma
+1681	1685	Texas
+1743	1750	Oklahoma
+1844	1858	Texas_Panhandle
+2113	2117	Texas
+2220	2225	Kansas
+2254	2257	United_States
+2490	2495	Kansas
+2605	2612	Oklahoma

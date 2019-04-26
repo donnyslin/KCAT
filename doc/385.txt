@@ -1,0 +1,15 @@
+Saudi Arabia executes Pakistani man .
+DUBAI 1996-08-25
+Saudi Arabia executed on Sunday a Pakistani man accused of belonging to an armed gang of robbers , Saudi television reported .
+It quoted an Interior Ministry statement as saying Shabir Ahmad Muhammad Jalil was executed in Mecca .
+He was the 26th person executed this year in the kingdom .
+Saudi Arabia beheads convicted drug smugglers , rapists , murderers and other criminals .
+%%TYPE_ANNOTATIONS%%
+0	11	Saudi_Arabia
+22	30	Pakistan
+38	42	Dubai
+55	66	Saudi_Arabia
+89	97	Pakistan
+154	158	Saudi_Arabia
+277	281	Mecca
+344	355	Saudi_Arabia

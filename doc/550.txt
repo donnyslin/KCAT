@@ -1,0 +1,27 @@
+CBOE in routine review of MFS options .
+CHICAGO 1996-08-27
+The Chicago Board Options Exchange ( CBOE ) said on Tuesday it was doing a routine investigation into trading in options on MFS Communications Co Inc shares .
+On Monday , the company said it had agreed to be acquired by WorldCom Inc in a deal valued at $ 14 billion .
+MFS shares surged on the news while WorldCom fell on fears of dilution .
+The New York Times said on Tuesday some of the options trading in MFS last Friday may suggest insider trading .
+MFS options also trade on the American Stock Exchange and the Pacific Stock Exchange .
+A spokesman for the American Stock Exchange would neither confirm or deny whether the exchange was looking into trading .
+" If there is unusual activity , certainly we look at it , but that 's not to say we 're doing anything official , " he said .
+Pacific Stock Exchange officials were not available .
+One trader said trading in MFS options had increased steadily from about mid-August , and doubted whether any of last Friday 's activity was insider trading .
+- Derivatives desk , 312 408-8750 / E-mail : derivatives@reuters.com
+%%TYPE_ANNOTATIONS%%
+0	3	Chicago_Board_Options_Exchange
+26	28	Metropolitan_Fiber_Systems
+40	46	Chicago
+63	92	Chicago_Board_Options_Exchange
+96	99	Chicago_Board_Options_Exchange
+327	329	Metropolitan_Fiber_Systems
+400	417	The_New_York_Times
+466	468	Metropolitan_Fiber_Systems
+512	514	Metropolitan_Fiber_Systems
+542	564	American_Stock_Exchange
+574	595	Pacific_Exchange
+619	641	American_Stock_Exchange
+848	869	Pacific_Exchange
+929	931	Metropolitan_Fiber_Systems

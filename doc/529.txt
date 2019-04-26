@@ -1,0 +1,68 @@
+TENNIS - EDBERG EXTENDS GRAND SLAM RUN , TOPPLES WIMBLEDON CHAMP .
+Larry Fine
+NEW YORK 1996-08-27
+Stefan Edberg produced some of his vintage best on Tuesday to extend his grand run at the Grand Slams by toppling Wimbledon champion Richard Krajicek in straight sets at the U.S. Open .
+Edberg , competing in the 54th consecutive and final Grand Slam event of his illustrious career , turned back the clock at Stadium Court with a flowing 6-3 6-3 6-3 serve-and-volley victory over the fifth-seeded Dutchman .
+" It 's a win that I can be proud of , " said the 30-year-old Swede , winner of two U.S. Opens and six Grand Slam titles in all . "
+It 's never easy to beat the Wimbledon champion . "
+Edberg , who has said he will retire at season 's end , made it look easy under gray skies at the National Tennis Centre .
+The unseeded Swede struck quickly , breaking Krajicek in the first game and never let loose his grip on the one hour 44 minute match as he served and volleyed with the grace that made him one of the dominant players of his time .
+" There 's not doubt about it , Richard was definitely off his game and I took advantage , " said Edberg .
+" I still have my days where I feel great out there . "
+Also reaching the second round were top-seeded defending champion Pete Sampras , a 6-2 6-2 6-1 winner over last minute replacement Jimy Szymanski of Venezuela , called on after Adrian Voinea of Romania withdrew because of a sprained ankle .
+Third seed Thomas Muster of Austria also charged into the second round with a 6-1 7-6 ( 7-2 ) 6-2 romp over Javier Frana of Argentina .
+Marcelo Rios of Chile , the 10th seed , also advanced .
+Rios claimed a 4-6 6-1 6-4 6-2 victory over Romania 's Andrei Pavel .
+On the women 's side , second seed Monica Seles got off to a strong start by beating fellow-American Anne Miller 6-0 6-1 and was joined in the second round by Spain 's Arantxa Sanchez Vicario ( seeded third ) , Olympic champion Lindsay Davenport ( 8 ) and Karina Habsudova of Slovakia ( 17 ) .
+The women 's draw lost another seed when Austrian Judith Wiesner overcame Iva Majoli of Croatia 2-6 6-3 6-1 .
+The fifth- seeded Majoli joined Anke Huber ( 5 ) and Magdalena Maleeva ( 12 ) on the sidelines .
+%%TYPE_ANNOTATIONS%%
+9	14	Stefan_Edberg
+49	57	Wimbledon_Championships
+78	85	New_York_City
+98	110	Stefan_Edberg
+188	198	Grand_Slam_(tennis)
+212	220	Wimbledon_Championships
+231	246	Richard_Krajicek
+272	280	US_Open_(tennis)
+284	289	Stefan_Edberg
+337	346	Grand_Slam_(tennis)
+495	502	Netherlands
+568	572	Sweden
+590	593	United_States
+609	618	Grand_Slam_(tennis)
+667	675	Wimbledon_Championships
+690	695	Stefan_Edberg
+788	809	National_Tennis_Centre_(United_Kingdom)
+826	830	Sweden
+858	865	Richard_Krajicek
+1075	1081	Richard_Krajicek
+1141	1146	Stefan_Edberg
+1272	1283	Pete_Sampras
+1337	1350	Jimy_Szymanski
+1355	1363	Venezuela
+1383	1395	Adrian_Voinea
+1400	1406	Romania
+1458	1470	Thomas_Muster
+1475	1481	Austria
+1555	1566	Javier_Frana
+1571	1579	Argentina
+1583	1594	Marcelo_Ríos
+1599	1603	Chile
+1639	1642	Marcelo_Ríos
+1683	1689	Romania
+1694	1705	Andrei_Pavel
+1744	1755	Monica_Seles
+1868	1872	Spain
+1877	1899	Arantxa_Sánchez_Vicario
+1920	1926	Olympic_sports
+1937	1953	Lindsay_Davenport
+1965	1980	Karina_Habšudová
+1985	1992	Slovakia
+2044	2051	Austria
+2053	2066	Judith_Wiesner
+2077	2086	Iva_Majoli
+2091	2097	Croatia
+2131	2136	Iva_Majoli
+2145	2154	Anke_Huber
+2166	2182	Magdalena_Maleeva

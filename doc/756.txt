@@ -1,0 +1,20 @@
+Italian prime minister to visit Turkey .
+ANKARA 1996-08-28
+Italian Prime Minister Romano Prodi will pay a one-day working visit to Turkey on September 3 , the Turkish Foreign Ministry said on Wednesday .
+" Both countries ' governments were formed recently .
+This visit will create a direct contact opportunity for the two parties to express their views , " spokesman Omer Akbel told a news briefing .
+The Italian prime minister , in office since May 18 , will be the first Western leader to meet Islamist Prime Minister Necmettin Erbakan since he came to power on June 28 .
+Prodi will also meet President Suleyman Demirel and Foreign Minister Tansu Ciller , Akbel said .
+%%TYPE_ANNOTATIONS%%
+0	6	Italy
+41	46	Ankara
+59	65	Italy
+82	93	Romano_Prodi
+167	182	Ministry_of_Foreign_Affairs_(Turkey)
+405	411	Italy
+473	479	Western_world
+496	503	Islam
+520	536	Necmettin_Erbakan
+574	578	Romano_Prodi
+605	620	Süleyman_Demirel
+643	654	Tansu_Çiller

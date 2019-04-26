@@ -1,0 +1,13 @@
+CRICKET - AUSTRALIA BEAT ZIMBABWE BY 125 RUNS IN ONE-DAY MATCH .
+COLOMBO 1996-08-26
+Australia beat Zimbabwe by 125 runs in the first match of the Singer World Series one-day ( 50 overs ) cricket tournament on Monday .
+Scores : Australia 263-7 in 50 overs , Zimbabwe 138 all out in 41 overs .
+%%TYPE_ANNOTATIONS%%
+10	18	Australia_national_cricket_team
+25	32	Zimbabwe_national_cricket_team
+65	71	Colombo
+84	92	Australia_national_cricket_team
+99	106	Zimbabwe_national_cricket_team
+146	164	Singer_World_Series
+227	235	Australia_national_cricket_team
+257	264	Zimbabwe_national_cricket_team

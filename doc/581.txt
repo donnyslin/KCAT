@@ -1,0 +1,12 @@
+Kansas feedlot cattle market quiet , no sales - USDA .
+DODGE CITY 1996-08-27
+Trade was quiet , with no sales slaughter steers or heifers confirmed .
+Inquiry and demand very light .
+Sales confirmed week to date on 4,200 head , mostly previously contracted or formulated cattle .
+Confirmed - none .
+-- Chicago newsdesk 312 408 8720--
+%%TYPE_ANNOTATIONS%%
+0	5	Kansas
+48	51	United_States_Department_of_Agriculture
+55	64	Dodge_City,_Kansas
+300	306	Chicago

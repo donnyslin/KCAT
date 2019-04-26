@@ -1,0 +1,52 @@
+CRICKET - GIBBS GETS INTERNATIONAL CALL UP .
+JOHANNESBURG 1996-08-28
+Western Province batsman Herschelle Gibbs was the only uncapped player in South Africa 's 14-man squad named on Wednesday for a quadrangular one-day series in Kenya next month .
+Kenya , South Africa , Pakistan and Sri Lanka will take part in the series .
+National coach Bob Woolmer said Gibbs , 22 , had been rewarded for a tremendous tour of England with the South African A team earlier this year .
+" I 've known Herschelle since he was 11 years old and he showed in England how he has matured .
+His 170 against the MCC was an innings of supreme class against the best bowling attack we faced all tour , " Woolmer told a news conference .
+.
+" We were not able to consider Jacques Kallis , Paul Adams and Shaun Pollock due to injury and the replacements have all come from the A tour and it 's great that they are all in form . "
+Spin-bowling all-rounders Nicky Boje and Derek Crookes replace Pollock and Adams , while Gibbs comes in for his Western Province colleague Kallis .
+Squad : Hansie Cronje ( captain ) , Craig Matthews ( vice-captain ) , Dave Richardson , Brian McMillan , Gary Kirsten , Andrew Hudson , Pat Symcox , Jonty Rhodes , Allan Donald , Fanie de Villiers , Daryll Cullinan , Derek Crookes , Herschelle Gibs , Nicky Boje .
+%%TYPE_ANNOTATIONS%%
+10	14	Herschelle_Gibbs
+45	56	Johannesburg
+69	84	Western_Province_cricket_team
+94	109	Herschelle_Gibbs
+143	154	South_Africa_national_cricket_team
+228	232	Kenya
+247	251	Kenya_national_cricket_team
+255	266	South_Africa_national_cricket_team
+270	277	Pakistan_national_cricket_team
+283	291	Sri_Lanka_national_cricket_team
+339	349	Bob_Woolmer
+356	360	Herschelle_Gibbs
+412	418	England
+429	441	South_Africa
+484	493	Herschelle_Gibbs
+538	544	England
+587	589	Marylebone_Cricket_Club
+677	683	Bob_Woolmer
+743	756	Jacques_Kallis
+760	769	Paul_Adams_(cricketer)
+775	787	Shaun_Pollock
+926	935	Nicky_Boje
+941	953	Derek_Crookes
+963	969	Shaun_Pollock
+989	993	Herschelle_Gibbs
+1012	1027	Western_Province_cricket_team
+1039	1044	Jacques_Kallis
+1056	1068	Hansie_Cronje
+1084	1097	Craig_Matthews
+1118	1132	Dave_Richardson
+1136	1149	Brian_McMillan
+1153	1164	Gary_Kirsten
+1168	1180	Andrew_Hudson
+1184	1193	Pat_Symcox
+1197	1208	Jonty_Rhodes
+1212	1223	Allan_Donald
+1227	1243	Fanie_de_Villiers
+1247	1261	Daryll_Cullinan
+1265	1277	Derek_Crookes
+1299	1308	Nicky_Boje

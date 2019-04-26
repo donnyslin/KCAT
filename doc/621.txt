@@ -1,0 +1,31 @@
+Hijacked Sudan plane lands at a London airport .
+STANSTED , England 1996-08-27
+A hijacked Sudan Airways plane carrying 199 passengers and crew landed at Stansted airport just outside London early on Tuesday morning after flying from Cyprus , eyewitnesses said .
+The Airbus 310 Flight 150 , which was hijacked on Monday evening on its way from Khartoum to the Jordanian capital Amman , landed at 4.30 a.m. ( 0330 GMT ) after a flight of more than four hours .
+At least one of the unidentified hijackers was apparently armed with grenades and TNT and threatened to blow the plane up in Cyprus unless it was refuelled so they could fly to Britain to claim political asylum .
+" They will surrender the passengers there and surrender themselves , " police spokesman Glafcos Xenos told reporters at Cyprus 's Larnaca airport .
+Security was tight at Stansted airport , which is about 30 miles ( 50 km ) northeast of the capital .
+Stansted has been designated as the preferred option for handling hijackings in southern England because it is more remote than Heathrow and Gatwick , London 's two major airports , and handles less air traffic .
+%%TYPE_ANNOTATIONS%%
+9	13	Sudan
+32	37	London
+49	56	London_Stansted_Airport
+60	66	England
+90	102	Sudan_Airways
+153	160	London_Stansted_Airport
+183	188	London
+233	238	Cyprus
+343	350	Khartoum
+359	367	Jordan
+377	381	Amman
+412	414	Greenwich_Mean_Time
+584	589	Cyprus
+636	642	United_Kingdom
+793	798	Cyprus
+803	809	Larnaca
+843	850	London_Stansted_Airport
+923	930	London_Stansted_Airport
+1012	1018	England
+1051	1058	London_Heathrow_Airport
+1064	1070	Gatwick_Airport
+1074	1079	London

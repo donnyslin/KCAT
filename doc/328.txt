@@ -1,0 +1,107 @@
+SOCCER - ENGLISH LEAGUE RESULTS / STANDINGS .
+LONDON 1996-08-25
+Results of English league soccer
+matches on Sunday :
+Premier league
+Manchester United 2 Blackburn 2
+Standings ( ( tabulated under played , won , drawn , lost , goals
+for , against , points ) :
+Sheffield Wednesday 3 3 0 0 6 2 9
+Chelsea 3 2 1 0 3 0 7
+Arsenal 3 2 0 1 4 2 6
+Aston Villa 3 2 0 1 4 2 6
+Manchester United 3 1 2 0 7 4 5
+Sunderland 3 1 2 0 4 1 5
+Liverpool 3 1 2 0 5 3 5
+Everton 3 1 2 0 4 2 5
+Tottenham 3 1 2 0 3 1 5
+Nottingham Forest 3 1 1 1 5 5 4
+West Ham 3 1 1 1 3 4 4
+Leicester 3 1 1 1 2 3 4
+Newcastle 3 1 0 2 3 4 3
+Middlesbrough 3 0 2 1 4 5 2
+Derby 3 0 2 1 4 6 2
+Leeds 2 0 1 1 3 5 1
+Southampton 3 0 1 2 2 4 1
+Blackburn 3 0 1 2 2 5 1
+Coventry 3 0 1 2 1 6 1
+Wimbledon 2 0 0 2 0 5 0
+Division one
+Barnsley 3 Huddersfield 1
+Standings :
+Bolton 3 2 1 0 5 2 7
+Barnsley 2 2 0 0 5 2 6
+Wolverhampton 2 2 0 0 4 1 6
+Queens Park Rangers 2 2 0 0 4 2 6
+Stoke 2 2 0 0 4 2 6
+Birmingham 2 1 1 0 5 4 4
+Tranmere 2 1 1 0 4 3 4
+Oxford 2 1 0 1 6 2 3
+Ipswich 2 1 0 1 5 3 3
+Bradford 2 1 0 1 3 2 3
+Crystal Palace 2 1 0 1 3 2 3
+Huddersfield 2 1 0 1 3 3 3
+Norwich 2 1 0 1 3 3 3
+Reading 2 1 0 1 3 5 3
+Manchester City 3 1 0 2 2 3 3
+Port Vale 2 0 2 0 2 2 2
+Sheffield United 2 0 1 1 4 5 1
+West Bromwich 2 0 1 1 2 3 1
+Charlton 2 0 1 1 1 3 1
+Swindon 2 0 1 1 1 3 1
+Southend 2 0 1 1 1 6 1
+Grimsby 2 0 0 2 3 6 0
+Oldham 2 0 0 2 2 5 0
+Portsmouth 2 0 0 2 2 5 0
+%%TYPE_ANNOTATIONS%%
+9	15	England
+46	51	London
+75	81	England
+132	148	Manchester_United_F.C.
+152	160	Blackburn_Rovers_F.C.
+257	275	Sheffield_Wednesday_F.C.
+291	297	Chelsea_F.C.
+313	319	Arsenal_F.C.
+335	345	Aston_Villa_F.C.
+361	377	Manchester_United_F.C.
+393	402	Sunderland_A.F.C.
+418	426	Liverpool_F.C.
+442	448	Everton_F.C.
+464	472	Tottenham_Hotspur_F.C.
+488	504	Nottingham_Forest_F.C.
+520	527	West_Ham_United_F.C.
+543	551	Leicester_City_F.C.
+567	575	Newcastle_United_F.C.
+591	603	Middlesbrough_F.C.
+619	623	Derby_County_F.C.
+639	643	Leeds_United_A.F.C.
+659	669	Southampton_F.C.
+685	693	Blackburn_Rovers_F.C.
+709	716	Coventry_City_F.C.
+732	740	Wimbledon_F.C.
+769	776	Barnsley_F.C.
+780	791	Huddersfield_Town_F.C.
+807	812	Bolton_Wanderers_F.C.
+828	835	Barnsley_F.C.
+851	863	Wolverhampton_Wanderers_F.C.
+879	897	Queens_Park_Rangers_F.C.
+913	917	Stoke_City_F.C.
+933	942	Birmingham_City_F.C.
+958	965	Tranmere_Rovers_F.C.
+981	986	Oxford_United_F.C.
+1002	1008	Ipswich_Town_F.C.
+1024	1031	Bradford_City_A.F.C.
+1047	1060	Crystal_Palace_F.C.
+1076	1087	Huddersfield_Town_F.C.
+1103	1109	Norwich_City_F.C.
+1125	1131	Reading_F.C.
+1147	1161	Manchester_City_F.C.
+1177	1185	Port_Vale_F.C.
+1201	1216	Sheffield_United_F.C.
+1232	1244	West_Bromwich_Albion_F.C.
+1260	1267	Charlton_Athletic_F.C.
+1283	1289	Swindon_Town_F.C.
+1305	1312	Southend_United_F.C.
+1328	1334	Grimsby_Town_F.C.
+1350	1355	Oldham_Athletic_A.F.C.
+1371	1380	Portsmouth_F.C.

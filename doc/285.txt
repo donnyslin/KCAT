@@ -1,0 +1,42 @@
+Rwanda says Zaire expels 28 Rwandan refugees .
+KIGALI 1996-08-24
+Rwanda said on Saturday that Zaire had expelled 28 Rwandan Hutu refugees accused of being " trouble-makers " in camps in eastern Zaire .
+Captain Firmin Gatera , spokesman for the Tutsi-dominated Rwandan army , told Reuters in Kigali that 17 of the 28 refugees handed over on Friday from the Zairean town of Goma had been soldiers in the former Hutu army which fled to Zaire in 1994 after being defeated by Tutsi forces in Rwanda 's civil war .
+Zairean Prime Minister Kengo wa Dondo said on Thursday in a visit to Rwanda that his country would expell all the refugees back to Rwanda but he gave no timeframe .
+Zaire is home to 1.1 million Rwandan Hutu refugees who fled three months of civil war in 1994 .
+Many had taken part in the genocide that year of one million people , mostly Tutsis , and refuse to go home for fear of reprisal at the hands of the new Tutsi-dominated government in Kigali .
+Gatera said the refugees were handed over following a deal made at a meeting between the governor of Zaire 's north Kivu region and his counterpart in the Rwandan border town of Gisenyi .
+" After a meeting between the governor of north Kivu and the prefect of Gisenyi , 28 prisoners ( refugees ) were handed over to Rwandan authorities on Friday , " Gatera said . "
+Out of these 17 were former soldiers .
+These people are now in Gisenyi prison , " Gatera added .
+%%TYPE_ANNOTATIONS%%
+0	5	Rwanda
+12	16	Democratic_Republic_of_the_Congo
+28	34	Rwanda
+47	52	Kigali
+65	70	Rwanda
+116	122	Rwanda
+124	127	Hutu
+194	198	Democratic_Republic_of_the_Congo
+260	266	Rwanda
+280	286	Reuters
+291	296	Kigali
+372	375	Goma
+409	412	Hutu
+433	437	Democratic_Republic_of_the_Congo
+471	475	Tutsi
+487	492	Rwanda
+532	545	Kengo_Wa_Dondo
+578	583	Rwanda
+640	645	Rwanda
+703	709	Rwanda
+711	714	Hutu
+847	852	Tutsi
+953	958	Kigali
+1078	1081	Kivu
+1117	1123	Rwanda
+1140	1146	Gisenyi
+1198	1201	Kivu
+1222	1228	Gisenyi
+1278	1284	Rwanda
+1391	1397	Gisenyi

@@ -1,0 +1,115 @@
+Reuters historical calendar - September 4 .
+LONDON 1996-08-28
+Following are some of the major events to have occurred on September 4 in history .
+1241 - Alexander III , King of Scotland , born .
+King from 1249-1286 , he consolidated royal power , leaving Scotland united and independent .
+1260 - The Ghibellines retook the city of Florence from the Florentine Guelfs at the battle of Monte Aperto .
+1768 - Francois-Rene ( Vicomte de ) Chateaubriand born .
+He was a politician , one of the first French romantic writers and ambassador to the British court .
+He wrote " Rene " , a seminal work in the French romantic movement and a famous autobiography " Memoires d'Outre Tombe " .
+1781 - Los Angeles was founded by Spanish settlers and named " El Pueblo de Nuestra Senora La Reina de Los Angeles " ( The Town of Our Lady the Queen of the Angels ) .
+1824 - Anton Bruckner born .
+Austrian composer and organist , he wrote nine symphonies on a huge scale and three grand masses in the romantic tradition .
+1870 - In France , the Second Empire was ended and Napoleon III was deposed after his surrender two days earlier in the Franco-Prussian war .
+1886 - At Skeleton Canyon in Arizona , Geronimo , Apache chief and leader of the last great Red Indian rebellion finally surrendered to General Nelson Miles .
+1892 - Prolific French modernist composer Darius Milhaud born .
+He wrote a jazz ballet " La Creation du Monde " and scores for many films including an early version of " Madame Bovary " .
+1906 - German-born U.S. biologist Max Delbruck born .
+Winner of the 1969 Nobel Prize for physiology or medicine for work on the genetic structure of viruses that infect bacteria .
+1907 - Edvard Grieg , Norwegian composer best known for his " Peer Gynt Suite " and his Piano Concerto , died in Bergen .
+1908 - U.S. film director Edward Dmytryk born .
+Best known for his films " Crossfire " - one of Hollywood 's first attempts to deal with racial discrimination and " Farewell My lovely " .
+1909 - The world 's first Boy Scout Rally was held at Crystal Palace near London .
+1944 - Brussels and Antwerp in Belgium were liberated by British and Canadian troops in World War Two .
+1948 - Wilhelmina , Queen of the Netherlands from 1890 and throughout World Wars One and Two abdicated in favour of her daughter Juliana .
+1963 - Robert Schuman , French statesman , Prime Minister 1947-48 and Foreign Minister 1948-52 , died .
+He was responsible for the establishment of the European Coal and Steel Community .
+1964 - The Forth Road Bridge in Scotland , measuring 6156 ft , and with a centre span of 3300 ft , was opened by Her Majesty the Queen .
+1965 - Albert Schweitzer , theologian , philosopher and organist died in Gabon where he had set up a hospital in 1913 .
+Acclaimed for his interpretations of J.S. Bach 's works , he also won the Nobel Peace Prize for his efforts on behalf of the " Brotherhood of Nations " in 1952 .
+1972 - At the Olympic Games , U.S. swimmer Mark Spitz won his seventh gold medal , a record for a single Olympiad .
+1974 - East Germany and the United States established formal diplomatic relations for the first time .
+1977 - E.F. ( Fritz ) Schumacher , economic guru and author of the best seller " Small is Beautiful " , died on his way to a conference in Switzerland .
+1989 - Georges Simenon , writer of 84 books based on the detective character Inspector Maigret , died .
+1992 - Bulgaria 's former Communist leader Todor Zhivkov , deposed in 1989 , was sentenced to seven years in prison after being found guilty of embezzling state funds .
+1995 - Declaring " united Jerusalem is ours " , Israel launched a 15-month celebration of the 3,000th anniversary of King David 's proclamation of the city as the capital of the Jewish people .
+1995 - The Fourth World Conference on Women , the biggest U.N. gathering in history , began in China 's Great Hall of the People with a U.N. declaration that sexual equality was the last great project of the 20th century .
+%%TYPE_ANNOTATIONS%%
+44	49	London
+153	165	Alexander_III_of_Scotland
+177	184	Scotland
+255	262	Scotland
+331	338	Florence
+495	500	France
+541	547	United_Kingdom
+568	571	René_(novella)
+599	604	France
+687	697	Los_Angeles
+714	720	Spain
+855	868	Anton_Bruckner
+877	884	Austria
+1012	1017	France
+1025	1037	Second_French_Empire
+1053	1064	Napoleon_III
+1154	1168	Skeleton_Canyon
+1173	1179	Arizona
+1183	1190	Geronimo
+1236	1245	Native_Americans_in_the_United_States
+1288	1299	Nelson_A._Miles
+1319	1324	France
+1345	1358	Darius_Milhaud
+1392	1411	La_création_du_monde
+1473	1485	Madame_Bovary
+1510	1513	United_States
+1525	1536	Max_Delbrück
+1564	1574	Nobel_Prize
+1678	1689	Edvard_Grieg
+1693	1701	Norway
+1733	1747	Peer_Gynt
+1784	1789	Bergen
+1800	1803	United_States
+1819	1832	Edward_Dmytryk
+1868	1876	Crossfire_(film)
+1889	1897	Hollywood
+2035	2048	Crystal_Palace,_London
+2055	2060	London
+2071	2078	Brussels
+2084	2090	Antwerp
+2095	2101	Belgium
+2121	2127	United_Kingdom
+2133	2140	Canada
+2152	2164	World_War_II
+2175	2184	Wilhelmina_of_the_Netherlands
+2201	2211	Netherlands
+2257	2259	World_War_II
+2297	2303	Juliana_of_the_Netherlands
+2314	2327	Robert_Schuman
+2331	2336	France
+2506	2522	Forth_Road_Bridge
+2527	2534	Scotland
+2639	2655	Albert_Schweitzer
+2705	2709	Gabon
+2789	2797	Johann_Sebastian_Bach
+2826	2842	Nobel_Peace_Prize
+2928	2940	1972_Summer_Olympics
+2944	2947	United_States
+2957	2966	Mark_Spitz
+3019	3026	Olympiad
+3037	3048	East_Germany
+3058	3070	United_States
+3214	3231	Small_Is_Beautiful
+3272	3282	Switzerland
+3293	3307	Georges_Simenon
+3363	3379	Jules_Maigret
+3397	3404	Bulgaria
+3416	3424	Communist_party
+3433	3445	Todor_Zhivkov
+3585	3593	Jerusalem
+3607	3612	Israel
+3681	3685	David
+3737	3742	Jews
+3764	3795	Fourth_World_Conference_on_Women
+3811	3814	United_Nations
+3848	3852	People's_Republic_of_China
+3857	3880	Great_Hall_of_the_People
+3889	3892	United_Nations

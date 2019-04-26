@@ -1,0 +1,9 @@
+CRICKET - ENGLAND 100-2 AT LUNCH ON FIRST DAY OF THIRD TEST .
+LONDON 1996-08-22
+England were 100 for two at lunch on the first day of the third and final test against Pakistan at The Oval on Thursday .
+%%TYPE_ANNOTATIONS%%
+10	16	England
+62	67	London
+80	86	England_cricket_team
+167	174	Pakistan_national_cricket_team
+179	186	The_Oval

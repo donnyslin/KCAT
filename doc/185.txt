@@ -1,0 +1,18 @@
+Germany , Poland tighten cooperation against crime .
+WARSAW 1996-08-23
+Germany and Poland agreed on Friday to tighten cooperation between their intelligence services in fighting international organised crime , PAP news agency reported .
+Interior Minister Zbigniew Siemiatkowski and Bernd Schmidbauer , German intelligence co-ordinator in Helmut Kohl 's chancellery , sealed the closer links during talks in Warsaw .
+Ministry spokesman Ryszard Hincza told the Polish agency the services would work together against mafia-style groups , drug smuggling and illegal trade in arms and radioactive materials .
+%%TYPE_ANNOTATIONS%%
+0	6	Germany
+10	15	Poland
+53	58	Warsaw
+71	77	Germany
+83	88	Poland
+210	212	Polish_Press_Agency
+237	244	Interior_ministry
+255	276	Zbigniew_Siemiątkowski
+302	307	Germany
+338	348	Helmut_Kohl
+407	412	Warsaw
+459	464	Poland

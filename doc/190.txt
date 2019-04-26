@@ -1,0 +1,14 @@
+Brazil to use hovercrafts for Amazon travel .
+BRASILIA 1996-08-22
+Hovercrafts will soon be plying the waters of the Amazon in a bid to reduce the difficulties of transportation on the vast Brazilian waterway , the government said on Thursday .
+Two Russian-built hovercrafts , capable of carrying up to 50 tons each , will begin ferrying passengers and cargo up and down the huge river from its mouth at Belem by the end of the year , Brazil 's Amazon Affairs Department said in a statement .
+The use of riverways in the region has been made a priority under a government plan for the Amazon and the high-speed hovercraft will help reduce the time involved in travelling often massive distances , it said .
+%%TYPE_ANNOTATIONS%%
+0	5	Brazil
+30	35	Amazon_River
+46	53	Brasília
+116	121	Amazon_River
+189	197	Brazil
+403	407	Belém
+434	439	Brazil
+584	589	Amazon_River

@@ -1,0 +1,15 @@
+CRICKET - ENGLAND BEAT PAKISTAN IN FIRST ONE-DAYER .
+MANCHESTER , England 1996-08-29
+England beat Pakistan by five wickets to win the first one-day ( 50 overs-a-side ) international at Old Trafford on Thursday .
+Scores : Pakistan 225-5 innings closed ( Saeed Anwar 57 ) , England 226-5 in 46.4 overs ( M. Atherton 65 ) .
+%%TYPE_ANNOTATIONS%%
+10	16	England_cricket_team
+23	30	Pakistan_national_cricket_team
+53	62	Manchester
+66	72	England
+85	91	England_cricket_team
+98	105	Pakistan_national_cricket_team
+185	196	Old_Trafford_Cricket_Ground
+221	228	Pakistan_national_cricket_team
+253	263	Saeed_Anwar
+272	278	England_cricket_team

@@ -1,0 +1,7 @@
+PRESS DIGEST - Washington Post business - Aug 26 .
+WASHINGTON 1996-08-26
+The Washington Post carried only local business stories on August 26 , 1996 .
+%%TYPE_ANNOTATIONS%%
+15	29	The_Washington_Post
+51	60	Washington,_D.C.
+73	91	The_Washington_Post

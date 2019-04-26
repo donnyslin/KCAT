@@ -1,0 +1,24 @@
+SOCCER - EURO CLUB COMPETITION FIRST ROUND DRAWS .
+GENEVA 1996-08-23
+Draws for the first round of the European club soccer competitions made on Friday ( x denotes seeded team ) :
+UEFA Cup Lyngby ( Denmark ) v x-Club Brugge ( Belgium ) Casino Graz ( Austria ) v Ekeren ( Belgium ) Besiktas ( Turkey ) v Molenbeek ( Belgium ) Alania Vladikavkaz ( Russia ) v x-Anderlecht ( Belgium )
+Cup Winners ' Cup x-Cercle Brugge ( Belgium ) v Brann Bergen ( Norway )
+%%TYPE_ANNOTATIONS%%
+9	12	Europe
+51	56	Geneva
+102	109	Europe
+179	186	UEFA_Europa_League
+188	193	Lyngby_Boldklub
+197	203	Denmark
+225	231	Belgium
+249	255	Austria
+270	276	Belgium
+280	287	Beşiktaş_J.K.
+302	310	R.W.D._Molenbeek
+314	320	Belgium
+324	341	FC_Alania_Vladikavkaz
+345	350	Russia
+371	377	Belgium
+417	423	Belgium
+429	440	SK_Brann
+444	449	Norway

@@ -1,0 +1,56 @@
+BASEBALL - MAJOR LEAGUE RESULTS FRIDAY .
+NEW YORK 1996-08-24
+Results of Major League
+Baseball games played on Friday ( home team in CAPS ) :
+American League
+BOSTON 6 Seattle 4
+Milwaukee 6 CLEVELAND 5 ( 11 innings )
+California 2 BALTIMORE 0
+NEW YORK 5 Oakland 3
+Toronto 4 CHICAGO 2
+Detroit 3 KANSAS CITY 2
+MINNESOTA 9 Texas 2
+National League
+Cincinnati 6 FLORIDA 5 ( 1ST GM )
+FLORIDA 8 Cincinnati 3 ( 2ND GM )
+ATLANTA 4 Chicago 3
+St Louis 1 HOUSTON 0
+Pittsburgh 5 COLORADO 3
+LOS ANGELES 7 New York 5
+Philadelphia 7 SAN DIEGO 4
+Montreal 10 SAN FRANCISCO 8
+%%TYPE_ANNOTATIONS%%
+11	22	Major_League_Baseball
+41	48	New_York_City
+72	83	Major_League_Baseball
+141	155	American_League
+157	162	Boston_Red_Sox
+166	172	Seattle_Mariners
+176	184	Milwaukee_Brewers
+188	196	Cleveland_Indians
+215	224	Los_Angeles_Angels_of_Anaheim
+228	236	Baltimore_Orioles
+240	247	New_York_Yankees
+251	257	Oakland_Athletics
+261	267	Toronto_Blue_Jays
+271	277	Chicago_White_Sox
+281	287	Detroit_Tigers
+291	301	Kansas_City_Royals
+305	313	Minnesota_Twins
+317	321	Texas_Rangers_(baseball)
+325	339	National_League
+341	350	Cincinnati_Reds
+354	360	Florida_Marlins
+375	381	Florida_Marlins
+385	394	Cincinnati_Reds
+409	415	Atlanta_Braves
+419	425	Chicago_White_Sox
+440	446	Houston_Astros
+450	459	Pittsburgh_Pirates
+463	470	Colorado_Rockies
+474	484	Los_Angeles_Angels_of_Anaheim
+488	495	New_York_Yankees
+499	510	Philadelphia_Phillies
+514	522	San_Diego_Padres
+526	533	Montreal_Expos
+538	550	San_Francisco_Giants

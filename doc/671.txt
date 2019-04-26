@@ -1,0 +1,13 @@
+SOCCER - BARCELONA WIN SPANISH SUPER CUP .
+MADRID 1996-08-28
+Result of the Spanish Super Cup , second leg , played on Wednesday :
+Atletico Madrid 3 Barcelona 1
+( Barcelona win 6-5 on aggregate )
+%%TYPE_ANNOTATIONS%%
+9	17	FC_Barcelona
+23	29	Spain
+43	48	Madrid
+75	81	Spain
+130	144	Atlético_Madrid
+148	156	FC_Barcelona
+162	170	FC_Barcelona

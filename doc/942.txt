@@ -1,0 +1,51 @@
+CYCLING - WORLD TRACK CHAMPIONSHIP RESULTS .
+MANCHESTER , England 1996-08-30
+Results at the world track cycling championships on Friday :
+Women 's sprint semifinals ( best of three ) :
+Annett Neumann ( Germany ) beat Magali Faure ( France ) 2-0 ( 12.341 and 12.348 seconds for the last 200 metres )
+Felicia Ballanger ( France ) beat Tanya Dubnicoff ( Canada ) 2-0 , ( 12.130 / 12.124 )
+Ride for third place :
+Faure beat Dubnicoff 2-0 ( 12.112 / 12.246 )
+Final :
+Ballanger beat Neumann 2-0 ( 11.959 / 12.225 )
+Women 's world points race championship ( 24-km ) :
+1. Svetlana Samokhalova ( Russia ) 28 points ( in 32
+minutes 31.081 seconds )
+2. Jane Quigley ( U.S. ) 18 points
+3. Goulnara Fatkoullina ( Russia ) 16
+4. Tatiana Stiajkina ( Ukraine ) 11
+5. Judith Arndt ( Germany ) 11
+6. Tea Vikstedt-Nyman ( Finland ) 5
+One lap behind :
+7. Ingrid Haringa ( Netherlands ) 20
+8. Sally Boyden ( Britain ) 9
+9. Agnieszka Godras ( Poland ) 8
+10. Nathalie Lancien ( France ) 8
+%%TYPE_ANNOTATIONS%%
+45	54	Manchester
+58	64	England
+185	198	Annett_Neumann
+202	208	Germany
+232	237	France
+299	315	Félicia_Ballanger
+319	324	France
+333	347	Tanya_Dubnicoff
+351	356	Canada
+420	428	Tanya_Dubnicoff
+462	470	Félicia_Ballanger
+477	483	Annett_Neumann
+587	592	Russia
+657	660	United_States
+700	705	Russia
+715	731	Tatiana_Stiajkina
+735	741	Ukraine
+751	762	Judith_Arndt
+766	772	Germany
+782	799	Tea_Vikstedt-Nyman
+803	809	Finland
+852	862	Netherlands
+872	883	Sally_Boyden_(cyclist)
+887	893	United_Kingdom
+921	926	Poland
+936	951	Nathalie_Lancien
+955	960	France

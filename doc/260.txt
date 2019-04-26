@@ -1,0 +1,31 @@
+SOCCER - POLISH FIRST DIVISION RESULTS .
+WARSAW 1996-08-24
+Results of Polish first division
+soccer matches on Saturday :
+Amica Wronki 3 Hutnik Krakow 0
+Sokol Tychy 5 Lech Poznan 3
+Rakow Czestochowa 1 Stomil Olsztyn 4
+Wisla Krakow 1 Gornik Zabrze 0
+Slask Wroclaw 3 Odra Wodzislaw 1
+GKS Katowice 1 Polonia Warsaw 0
+Zaglebie Lubin 2 LKS Lodz 1
+Legia Warsaw 3 GKS Belchatow 2
+%%TYPE_ANNOTATIONS%%
+9	14	Poland
+41	46	Warsaw
+70	75	Poland
+121	132	Amica_Wronki
+136	148	Hutnik_Kraków
+166	176	Lech_Poznań
+180	196	Raków_Częstochowa
+200	213	OKS_1945_Olsztyn
+217	228	Wisła_Kraków
+232	244	Górnik_Zabrze
+248	260	Śląsk_Wrocław
+264	277	Odra_Wodzisław
+281	292	GKS_Katowice
+296	309	Polonia_Warszawa
+313	326	Zagłębie_Lubin
+330	337	ŁKS_Łódź
+341	352	Legia_Warszawa
+356	368	GKS_Bełchatów
