@@ -2,7 +2,8 @@
  A Knowledge-Constraint Typing Annotation Tool
 
 ## Entity Linking
-deploy entity linking system by [Improving Entity Linking by Modeling Latent Relations between Mentions](https://github.com/lephong/mulrel-nel)
+deploy entity linking system by [Mulrel](https://github.com/lephong/mulrel-nel)
+
 replace the source ".py" code with our ".py" code in directory "EL", run test.py to run the api.
 Train the model by
 
