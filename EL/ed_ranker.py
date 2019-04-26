@@ -368,7 +368,7 @@ class EDRanker:
 
                 self.model.print_weight_norm()
 
-    def predict(self, data):
+    def predict(self, data, topk):
         predictions = {items[0]['doc_name']: [] for items in data}
         self.model.eval()
 
@@ -412,41 +412,25 @@ class EDRanker:
                                         gold=true_pos.view(-1, 1))
             scores = scores.cpu().data.numpy()
 
-            # print out relation weights
-            if self.args.mode == 'eval' and self.args.print_rel:
-                print('================================')
-                weights = self.model._rel_ctx_ctx_weights.cpu().data.numpy()
-                voca = self.model.snd_word_voca
-                for i in range(len(batch)):
-                    print(' '.join([voca.id2word[id] for id in lctx_ids[i]]),
-                          utils.tokgreen(' '.join([voca.id2word[id] for id in m_ids[i]])),
-                          ' '.join([voca.id2word[id] for id in rctx_ids[i]]))
-                    for j in range(len(batch)):
-                        if i == j:
-                            continue
-                        np.set_printoptions(precision=2)
-                        print('\t', weights[:, i, j], '\t',
-                              ' '.join([voca.id2word[id] for id in lctx_ids[j]]),
-                              utils.tokgreen(' '.join([voca.id2word[id] for id in m_ids[j]])),
-                              ' '.join([voca.id2word[id] for id in rctx_ids[j]]))
 
-            pred_ids = np.argmax(scores, axis=1)
-            pred_entities = [m['selected_cands']['named_cands'][i] if m['selected_cands']['mask'][i] == 1
-                             else (m['selected_cands']['named_cands'][0] if m['selected_cands']['mask'][0] == 1 else 'NIL')
-                             for (i, m) in zip(pred_ids, batch)]
-            doc_names = [m['doc_name'] for m in batch]
+            if (topk == 1):
+                pred_ids = np.argmax(scores, axis=1)
+                pred_entities = [m['selected_cands']['named_cands'][i] if m['selected_cands']['mask'][i] == 1
+                                 else (m['selected_cands']['named_cands'][0] if m['selected_cands']['mask'][0] == 1 else 'NIL')
+                                 for (i, m) in zip(pred_ids, batch)]
+                doc_names = [m['doc_name'] for m in batch]
 
-            if self.args.mode == 'eval' and self.args.print_incorrect:
-                gold = [item['selected_cands']['named_cands'][item['selected_cands']['true_pos']]
-                        if item['selected_cands']['true_pos'] >= 0 else 'UNKNOWN' for item in batch]
-                pred = pred_entities
-                for i in range(len(gold)):
-                    if gold[i] != pred[i]:
-                        print('--------------------------------------------')
-                        pprint(batch[i]['raw'])
-                        print(gold[i], pred[i])
-
-            for dname, entity in zip(doc_names, pred_entities):
-                predictions[dname].append({'pred': (entity, 0.)})
+                for dname, entity in zip(doc_names, pred_entities):
+                    predictions[dname].append({'pred': (entity, 0.)})
+            else:
+                pred_ids = np.argsort(scores, axis=1)[:,::-1]
+                pred_entities = [[m['selected_cands']['named_cands'][i] if m['selected_cands']['mask'][i] == 1
+                 else 'NIL' for i in ids]
+                 for (ids, m) in zip(pred_ids, batch)]
+                doc_names = [m['doc_name'] for m in batch]
+                for dname, entities in zip(doc_names, pred_entities):
+                    while len(entities)>=2 and entities[-1]=='NIL' and entities[-2]=='NIL':
+                        del entities[-1]
+                    predictions[dname].append({'pred': (entities, 0.)})
 
         return predictions

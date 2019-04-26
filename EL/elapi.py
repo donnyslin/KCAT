@@ -1,5 +1,6 @@
 import sys
 sys.path.append('../')
+from nel import *
 import nel.testdataset as D
 from nel.mulrel_ranker import MulRelRanker
 from nel.ed_ranker import EDRanker
@@ -21,15 +22,11 @@ datadir = '../data/generated/test_train_data'
 conll_path = '../data/basic_data/test_datasets'
 person_path = '../data/basic_data/p_e_m_data/persons.txt'
 voca_emb_dir = '../data/generated/embeddings/word_ent_embs/'
-
+print(torch.cuda.is_available())
 ModelClass = MulRelRanker
 
 
 # general args
-# args for debugging
-parser.add_argument("--print_rel", action='store_true')
-parser.add_argument("--print_incorrect", action='store_true')
-
 parser.add_argument("--mode", type=str,
                     help="train or eval",
                     default='eval')
@@ -270,6 +267,10 @@ def gene_dataset(Documents):
 def ranking():
     content = request.args.get('text')
     offset = request.args.get('offset').split(':')
+    try:
+        cands = int(request.args.get('cands'))
+    except:
+        cands = 1
     Documents = generate_doc(content, offset)
     gene_dataset(copy.deepcopy(Documents))
     conll.load_dataset(datadir, conll_path)
@@ -277,7 +278,7 @@ def ranking():
     data = ranker.get_data_items(conll.tac, predict=True)
     vecs = ranker.model.rel_embs.cpu().data.numpy()
     ranker.model._coh_ctx_vecs = []
-    predictions = ranker.predict(data)
+    predictions = ranker.predict(data, cands)
     entities = []
     for _, preds in predictions.items():
         for pred in preds:
@@ -289,7 +290,7 @@ def ranking():
     return json.dumps(doc['Mentions'])
 
 if __name__ == "__main__":
-    root_path = '../../data/'
+    root_path = '../pkl/'
     mid2pid = pkl.load(open(root_path + 'mid2pid.pkl', 'rb'))
     pid2name = pkl.load(open(root_path + 'pid2name.pkl', 'rb'))
     pid2mid = {}
@@ -334,4 +335,4 @@ if __name__ == "__main__":
         raise Exception('unknown model class')
 
     ranker = EDRanker(config=config)
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5555)
