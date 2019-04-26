@@ -15,6 +15,10 @@ Run the api by
     python elapi.py --model_path model
 
 Test the api in web
+
+The url likes this, http://<address>:<port>/edl/ranking/?text=<text>&&offset=<offsets>, where address and port can be changed, text is the raw text and offsets are the spans of entity mention generate by Entity Discovery whose format is "b1-e1:b2-e2".
+
+an example is following.
 input:
     
     http://10.214.155.248:5000/edl/ranking/?text=obama%20is%20america%20president&&offset=0-4
