@@ -1,7 +1,0 @@
-USDA gross cutout hide and offal value .
-DES MOINES 1996-08-29
-The hide and offal value from a typical slaughter steer for Thursday was estimated at $ 9.76 per cwt live , up $ 0.03 when compared with Wednesday 's value .
-- USDA
-%%TYPE_ANNOTATIONS%%
-0	3	United_States_Department_of_Agriculture
-223	226	United_States_Department_of_Agriculture

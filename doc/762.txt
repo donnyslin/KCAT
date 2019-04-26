@@ -1,6 +1,0 @@
-RESEARCH ALERT - Career Horizons said cut .
--- Donaldson Lufkin & Jenrette cut its rating on Career Horizons Inc to market perform from outperform , according to market sources .
--- Further details were not immediately available .
--- The stock was up 3/4 at 35-7/8 .
-%%TYPE_ANNOTATIONS%%
-47	73	Donaldson,_Lufkin_&_Jenrette
