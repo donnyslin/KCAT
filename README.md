@@ -11,7 +11,7 @@ Train the model by
 
 Run the api by
 
-    python elapi.py
+    python elapi.py --model_path model
 
 Test the api in web
 input:
@@ -26,6 +26,8 @@ result:
 ## Fined-grain Typing
 
 Requirements: Python 3.5 or 3.6, tkinter
+
+run following command to start annotator client
 
     python annotation.py --dataset dataset_name
  
