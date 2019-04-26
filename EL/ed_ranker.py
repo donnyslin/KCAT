@@ -368,7 +368,7 @@ class EDRanker:
 
                 self.model.print_weight_norm()
 
-    def predict(self, data, topk):
+    def predict(self, data, topk=1):
         predictions = {items[0]['doc_name']: [] for items in data}
         self.model.eval()
 
