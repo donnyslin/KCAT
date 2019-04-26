@@ -16,7 +16,7 @@ Run the api by
 
 Test the api in web
 
-The url likes this, http://<address>:<port>/edl/ranking/?text=<text>&&offset=<offsets>, where address and port can be changed, text is the raw text and offsets are the spans of entity mention generate by Entity Discovery whose format is "b1-e1:b2-e2".
+The url likes this, http://{address}:{port}/edl/ranking/?text={text}&&offset={offsets}, where address and port can be changed, text is the raw text and offsets are the spans of entity mention generate by Entity Discovery whose format is "b1-e1:b2-e2".
 
 an example is following.
 input:
