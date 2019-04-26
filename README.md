@@ -6,16 +6,16 @@ Download code and data from [Mulrel](https://github.com/lephong/mulrel-nel).
 
 Replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL"
 
-Train the model by
+### Train the model by
 
     export PYTHONPATH=$PYTHONPATH:../
     python -u -m nel.main --mode train --n_rels 3 --mulrel_type ment-norm --model_path model
 
-Run the api by
+### Run the api by
 
     python elapi.py --model_path model
 
-Test the api in web
+### Test the api in web
 
 The url likes this, http://{address}:{port}/edl/ranking/?text={text}&&offset={offsets}, where address and port can be changed, text is the raw text and offsets are the spans of entity mention generate by Entity Discovery whose format is "b1-e1:b2-e2".
 
