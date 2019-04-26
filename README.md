@@ -2,9 +2,10 @@
  A Knowledge-Constraint Typing Annotation Tool
 
 ## Entity Linking
-download code and data from [Mulrel](https://github.com/lephong/mulrel-nel)
+Download code and data from [Mulrel](https://github.com/lephong/mulrel-nel).
 
-replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL"
+Replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL"
+
 Train the model by
 
     export PYTHONPATH=$PYTHONPATH:../
@@ -18,13 +19,13 @@ Test the api in web
 
 The url likes this, http://{address}:{port}/edl/ranking/?text={text}&&offset={offsets}, where address and port can be changed, text is the raw text and offsets are the spans of entity mention generate by Entity Discovery whose format is "b1-e1:b2-e2".
 
-an example is following.
+An example with top score entity is following.
 
-input:
+Input:
     
     http://10.214.155.248:5000/edl/ranking/?text=obama%20is%20america%20president&&offset=0-4
     
-result:
+Result:
     
     [{"start": 0, "end": 4, "surface_form": "obama", "entity": "Barack_Obama"}]
     
