@@ -30,11 +30,3 @@ def entityTypes(ep):
             for t in types:
                 et[e].add(t)
     return et
-# type2son.json = json.load(open('./resources/type2son.json.json', 'r'))
-# entity2path = json.load(open('./resources/entity2path_simple.json', 'r'))
-# et = entityTypes(entity2path)
-# print(et['Chris_Paul'])
-# print(len(NILpath(type2son.json, entity2path)))
-
-
-
