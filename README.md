@@ -2,9 +2,7 @@
  A Knowledge-Constraint Typing Annotation Tool
 
 ## Entity Linking
-Download code and data from [Mulrel](https://github.com/lephong/mulrel-nel).
-
-Replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL"
+Download [code and data](https://drive.google.com/file/d/1S0GaawsPMprz0BWD6TxiH55qXyx07TR1/view?usp=sharing). This is based on [Mulrel](https://github.com/lephong/mulrel-nel), we replace the source file "ed_ranker.py" with our file "ed_ranker.py" in directory "EL".
 
 ### Train the model by
 
@@ -36,6 +34,6 @@ Requirements: Python 3.5 or 3.6, tkinter
 
 run following command to start annotator client
 
-    python annotation.py --dataset dataset_name
+    python annotation.py --dataset dataset_name --url url_port
  
     
