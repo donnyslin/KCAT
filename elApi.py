@@ -23,7 +23,7 @@ def EL(path):
                 text += line
             else:
                 spans.append([line.split('\t')[0], line.split('\t')[1]])
-    return api(text, spans)
+    return api(text, spans, url)
 
 # import sys
 # import os
