@@ -1,13 +1,13 @@
 import requests
 import json
 import numpy as np
-def api(text, spans):
+def api(text, spans, url="http://10.214.155.249:5555"):
     offset = []
     for span in spans:
         offset.append(str(span[0])+'-'+str(span[1]))
     offset = ':'.join(offset)
     res = requests.post(
-        url='http://10.214.155.249:5555/edl/ranking/?text=%s&&offset=%s&&cands=2' % (text, offset))
+        url='%s/edl/ranking/?text=%s&&offset=%s&&cands=2' % (url, text, offset))
     return json.loads(res.text)
 
 def EL(path):
