@@ -1228,7 +1228,7 @@ class Annotation(object):
         accumulate_char_num[-1]=0
         self.content=[]
         self.annotations_stack = []
-        self.EL_topk = [link['entity'] for link in EL(self.path)]
+        self.EL_topk = [link['entity'] for link in EL(self.path, self.arg.url)]
 
         with open(self.path, 'r', encoding='utf-8') as f:
             self.text.config(state=NORMAL)
@@ -1296,6 +1296,7 @@ class Annotation(object):
 if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data', type=str, default='Wiki')
+    parser.add_argument('--url', type=str, default='')
     parser.add_argument('--heightX', type=int,default=550)
     parser.add_argument('--heightY', type=int, default=200)
     args = parser.parse_args()
